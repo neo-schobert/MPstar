@@ -1,0 +1,1356 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.18)  1 AUG 2022 14:51
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire incompris.tex"
+(/home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire incompris.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen135
+\Hy@linkcounter=\count175
+\Hy@pagecounter=\count176
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count177
+\pdfmajorversion=\count178
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count179
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen136
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count180
+\Field@Width=\dimen137
+\Fld@charsize=\dimen138
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+ (/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count181
+\c@Item=\count182
+\c@Hfootnote=\count183
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count184
+\c@bookmark@seq@number=\count185
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip49
+) (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2019/12/03 v1.28 bookmark driver for pdfTeX (HO)
+\BKM@id=\count186
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) (/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2020/01/30 v3.5g French support from the babel system
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count187
+\U@D=\dimen141
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count188
+)
+Package babel Info: \l@acadian = using hyphenrules for french
+(babel)             (\language15) on input line 91.
+Package babel Info: \l@canadien = using hyphenrules for french
+(babel)             (\language15) on input line 92.
+\FB@nonchar=\count189
+Package babel Info: Making : an active character on input line 419.
+Package babel Info: Making ; an active character on input line 420.
+Package babel Info: Making ! an active character on input line 421.
+Package babel Info: Making ? an active character on input line 422.
+\FBguill@level=\count190
+\FBold@everypar=\toks17
+\FB@Mht=\dimen142
+\mc@charclass=\count191
+\mc@charfam=\count192
+\mc@charslot=\count193
+\std@mcc=\count194
+\dec@mcc=\count195
+\c@FBcaption@count=\count196
+\listindentFB=\dimen143
+\descindentFB=\dimen144
+\labelindentFB=\dimen145
+\labelwidthFB=\dimen146
+\leftmarginFB=\dimen147
+\parindentFFN=\dimen148
+\FBfnindent=\dimen149
+)) (/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen158
+\captionmargin@=\dimen159
+\captionwidth=\dimen160
+\caption@tempdima=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count266
+\c@continuedfloat=\count267
+Package caption Info: hyperref package is loaded.
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count268
+\float@exts=\toks19
+\float@box=\box45
+\@float@everytoks=\toks20
+\@floatcapt=\box46
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen165
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen166
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count269
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count270
+\leftroot@=\count271
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count272
+\DOTSCASE@=\count273
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen167
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count274
+\c@MaxMatrixCols=\count275
+\dotsspace@=\muskip17
+\c@parentequation=\count276
+\dspbrk@lvl=\count277
+\tag@help=\toks22
+\row@=\count278
+\column@=\count279
+\maxfields@=\count280
+\andhelp@=\toks23
+\eqnshift@=\dimen168
+\alignsep@=\dimen169
+\tagshift@=\dimen170
+\tagwidth@=\dimen171
+\totwidth@=\dimen172
+\lineht@=\dimen173
+\@envbody=\toks24
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+) (/usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen174
+\pgfutil@tempdimb=\dimen175
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box49
+ (/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks29
+))
+\pgf@x=\dimen176
+\pgf@y=\dimen177
+\pgf@xa=\dimen178
+\pgf@ya=\dimen179
+\pgf@xb=\dimen180
+\pgf@yb=\dimen181
+\pgf@xc=\dimen182
+\pgf@yc=\dimen183
+\pgf@xd=\dimen184
+\pgf@yd=\dimen185
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count281
+\c@pgf@countb=\count282
+\c@pgf@countc=\count283
+\c@pgf@countd=\count284
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
+\pgf@sys@id@count=\count285
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count286
+\pgfsyssoftpath@bigbuffer@items=\count287
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen186
+\pgfmath@count=\count288
+\pgfmath@box=\box50
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count289
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box51
+\pgf@hbox=\box52
+\pgf@layerbox@main=\box53
+\pgf@picture@serial@count=\count290
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen261
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen265
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count291
+\pgf@shadingcount=\count292
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box54
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box55
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen267
+\pgf@nodesepend=\dimen268
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen269
+\pgffor@skip=\dimen270
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count293
+\pgfplotmarksize=\dimen271
+)
+\tikz@lastx=\dimen272
+\tikz@lasty=\dimen273
+\tikz@lastxsaved=\dimen274
+\tikz@lastysaved=\dimen275
+\tikz@lastmovetox=\dimen276
+\tikz@lastmovetoy=\dimen277
+\tikzleveldistance=\dimen278
+\tikzsiblingdistance=\dimen279
+\tikz@figbox=\box56
+\tikz@figbox@bg=\box57
+\tikz@tempbox=\box58
+\tikz@tempbox@bg=\box59
+\tikztreelevel=\count294
+\tikznumberofchildren=\count295
+\tikznumberofcurrentchild=\count296
+\tikz@fig@count=\count297
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count298
+\pgfmatrixcurrentcolumn=\count299
+\pgf@matrix@numberofcolumns=\count300
+)
+\tikz@expandcount=\count301
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+) (/usr/share/texlive/texmf-dist/tex/latex/esvect/esvect.sty
+Package: esvect 
+\symesvector=\mathgroup7
+) (/usr/share/texlive/texmf-dist/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.33 <2011/08/15>
+Package: ntheorem 2011/08/15 1.33
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\theorem@style=\toks38
+\theorem@@style=\toks39
+\theorembodyfont=\toks40
+\theoremnumbering=\toks41
+\theorempreskipamount=\skip53
+\theorempostskipamount=\skip54
+\theoremframepreskipamount=\skip55
+\theoremframepostskipamount=\skip56
+\theoreminframepreskipamount=\skip57
+\theoreminframepostskipamount=\skip58
+\theorem@preskip=\toks42
+\theorem@postskip=\toks43
+\theorem@framepreskip=\toks44
+\theorem@framepostskip=\toks45
+\theorem@inframepreskip=\toks46
+\theorem@inframepostskip=\toks47
+\theoremindent=\dimen280
+\theorem@indent=\dimen281
+\theoremrightindent=\dimen282
+\theorem@rightindent=\dimen283
+\theoremheaderfont=\toks48
+\theoremseparator=\toks49
+\theoremprework=\toks50
+\theorempostwork=\toks51
+\theoremsymbol=\toks52
+\qedsymbol=\toks53
+\theoremkeyword=\toks54
+\qedsymbol=\toks55
+\thm@topsep=\skip59
+\thm@topsepadd=\skip60
+Package ntheorem Info: Standard config file ntheorem.std used on input line 1184.
+ (/usr/share/texlive/texmf-dist/tex/latex/ntheorem/ntheorem.std (/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+\c@Theorem=\count302
+\c@theorem=\count303
+\c@Satz=\count304
+\c@satz=\count305
+\c@Proposition=\count306
+\c@proposition=\count307
+\c@Lemma=\count308
+\c@lemma=\count309
+\c@Korollar=\count310
+\c@korollar=\count311
+\c@Corollary=\count312
+\c@corollary=\count313
+\c@Example=\count314
+\c@example=\count315
+\c@Beispiel=\count316
+\c@beispiel=\count317
+\c@Bemerkung=\count318
+\c@bemerkung=\count319
+\c@Anmerkung=\count320
+\c@anmerkung=\count321
+\c@Remark=\count322
+\c@remark=\count323
+\c@Definition=\count324
+\c@definition=\count325
+\c@Proof=\count326
+\c@proof=\count327
+\c@Beweis=\count328
+\c@beweis=\count329
+)) (/usr/share/texlive/texmf-dist/tex/latex/romanbar/romanbar.sty
+Package: romanbar 2012/01/01 v1.0f Roman numbers with bars (HMM)
+) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box60
+\beforetitleunit=\skip61
+\aftertitleunit=\skip62
+\ttl@plus=\dimen284
+\ttl@minus=\dimen285
+\ttl@toksa=\toks56
+\titlewidth=\dimen286
+\titlewidthlast=\dimen287
+\titlewidthfirst=\dimen288
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count330
+\l__pdf_internal_box=\box61
+) (/home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire incompris.aux)
+\openout1 = `"Vocabulaire incompris.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 120.
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+\AtBeginShipoutBox=\box62
+Package hyperref Info: Link coloring OFF on input line 120.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count331
+)
+LaTeX Info: Redefining \ref on input line 120.
+LaTeX Info: Redefining \pageref on input line 120.
+LaTeX Info: Redefining \nameref on input line 120.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count332
+\scratchdimen=\dimen289
+\scratchbox=\box63
+\nofMPsegments=\count333
+\nofMParguments=\count334
+\everyMPshowfont=\toks57
+\MPscratchCnt=\count335
+\MPscratchDim=\dimen290
+\MPnumerator=\count336
+\makeMPintoPDFobject=\count337
+\everyMPtoPDFconversion=\toks58
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Info: Redefining \degres on input line 120.
+LaTeX Info: Redefining \dots on input line 120.
+LaTeX Info: Redefining \up on input line 120.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=759.6886pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ABD: EveryShipout initializing macros
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 129.
+ (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 129.
+ (/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 129.
+ (/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 129.
+ (/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 129.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 129.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 129.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 129.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 129.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 129.
+ (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for U+esvect on input line 129.
+ (/usr/share/texlive/texmf-dist/tex/latex/esvect/uesvect.fd
+File: uesvect.fd 
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 129.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) (/home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire incompris.toc)
+\tf@toc=\write4
+\openout4 = `"Vocabulaire incompris.toc"'.
+
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire incompris.lof
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 2.
+ [2])
+\tf@lof=\write5
+\openout5 = `"Vocabulaire incompris.lof"'.
+
+ [3]
+<ormeau.jpg, id=229, 344.78813pt x 344.78813pt>
+File: ormeau.jpg Graphic file (type jpg)
+<use ormeau.jpg>
+Package pdftex.def Info: ormeau.jpg  used on input line 147.
+(pdftex.def)             Requested size: 172.39363pt x 172.39363pt.
+<Chaonie.png, id=230, 620.3175pt x 393.47pt>
+File: Chaonie.png Graphic file (type png)
+<use Chaonie.png>
+Package pdftex.def Info: Chaonie.png  used on input line 154.
+(pdftex.def)             Requested size: 310.15799pt x 196.73451pt.
+ [4 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/ormeau.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Chaonie.png>]
+<Zea.png, id=248, 800.9925pt x 516.93124pt>
+File: Zea.png Graphic file (type png)
+<use Zea.png>
+Package pdftex.def Info: Zea.png  used on input line 181.
+(pdftex.def)             Requested size: 400.49527pt x 258.46498pt.
+ [5]
+<mont Lycee.png, id=266, 1196.47pt x 303.1325pt>
+File: mont Lycee.png Graphic file (type png)
+<use mont Lycee.png>
+Package pdftex.def Info: mont Lycee.png  used on input line 187.
+(pdftex.def)             Requested size: 598.23354pt x 151.56587pt.
+
+Overfull \hbox (114.53667pt too wide) in paragraph at lines 187--187
+ [][] 
+ []
+
+<Arcadie.png, id=267, 754.82pt x 348.30125pt>
+File: Arcadie.png Graphic file (type png)
+<use Arcadie.png>
+Package pdftex.def Info: Arcadie.png  used on input line 188.
+(pdftex.def)             Requested size: 377.40909pt x 174.15019pt.
+[6 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Zea.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/mont Lycee.png>]
+<Thebes.png, id=278, 653.44125pt x 340.27126pt>
+File: Thebes.png Graphic file (type png)
+<use Thebes.png>
+Package pdftex.def Info: Thebes.png  used on input line 190.
+(pdftex.def)             Requested size: 326.71982pt x 170.13521pt.
+<Arcananie Etolie.png, id=279, 685.56125pt x 344.28625pt>
+File: Arcananie Etolie.png Graphic file (type png)
+<use Arcananie Etolie.png>
+Package pdftex.def Info: Arcananie Etolie.png  used on input line 192.
+(pdftex.def)             Requested size: 342.77979pt x 172.1427pt.
+<Menale.png, id=280, 1195.46625pt x 302.12875pt>
+File: Menale.png Graphic file (type png)
+<use Menale.png>
+Package pdftex.def Info: Menale.png  used on input line 197.
+(pdftex.def)             Requested size: 597.73166pt x 151.064pt.
+
+Overfull \hbox (114.03479pt too wide) in paragraph at lines 197--197
+ [][] 
+ []
+
+[7 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Arcadie.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Thebes.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Arcananie Etolie.png>]
+<Tegee.png, id=294, 694.595pt x 364.36125pt>
+File: Tegee.png Graphic file (type png)
+<use Tegee.png>
+Package pdftex.def Info: Tegee.png  used on input line 198.
+(pdftex.def)             Requested size: 347.29665pt x 182.18018pt.
+<Cypres.jpg, id=295, 291.0875pt x 438.63875pt>
+File: Cypres.jpg Graphic file (type jpg)
+<use Cypres.jpg>
+Package pdftex.def Info: Cypres.jpg  used on input line 203.
+(pdftex.def)             Requested size: 145.54338pt x 219.31883pt.
+ [8 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Menale.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Tegee.png>]
+<Soc.jpg, id=308, 803.0pt x 803.0pt>
+File: Soc.jpg Graphic file (type jpg)
+<use Soc.jpg>
+Package pdftex.def Info: Soc.jpg  used on input line 236.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
+ [9 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Cypres.jpg>]
+<Tmolus.png, id=328, 796.9775pt x 377.41pt>
+File: Tmolus.png Graphic file (type png)
+<use Tmolus.png>
+Package pdftex.def Info: Tmolus.png  used on input line 239.
+(pdftex.def)             Requested size: 398.48776pt x 188.70453pt.
+<Crocus.jpg, id=329, 1003.75pt x 1003.75pt>
+File: Crocus.jpg Graphic file (type jpg)
+<use Crocus.jpg>
+Package pdftex.def Info: Crocus.jpg  used on input line 241.
+(pdftex.def)             Requested size: 150.556pt x 150.556pt.
+ [10 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Soc.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Tmolus.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Crocus.jpg>]
+<Pont.png, id=342, 801.99625pt x 670.505pt>
+File: Pont.png Graphic file (type png)
+<use Pont.png>
+Package pdftex.def Info: Pont.png  used on input line 245.
+(pdftex.def)             Requested size: 240.60072pt x 201.15305pt.
+<Elide.png, id=343, 192.72pt x 163.5711pt>
+File: Elide.png Graphic file (type png)
+<use Elide.png>
+Package pdftex.def Info: Elide.png  used on input line 250.
+(pdftex.def)             Requested size: 192.71951pt x 163.5707pt.
+ [11 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Pont.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Elide.png (PNG copy)>]
+<Lupin.jpg, id=358, 1204.5pt x 752.8125pt>
+File: Lupin.jpg Graphic file (type jpg)
+<use Lupin.jpg>
+Package pdftex.def Info: Lupin.jpg  used on input line 266.
+(pdftex.def)             Requested size: 240.89574pt x 150.55983pt.
+<Lin.jpg, id=359, 1204.5pt x 889.3225pt>
+File: Lin.jpg Graphic file (type jpg)
+<use Lin.jpg>
+Package pdftex.def Info: Lin.jpg  used on input line 268.
+(pdftex.def)             Requested size: 240.89574pt x 177.86134pt.
+<Avoine.jpg, id=360, 1204.5pt x 799.98875pt>
+File: Avoine.jpg Graphic file (type jpg)
+<use Avoine.jpg>
+Package pdftex.def Info: Avoine.jpg  used on input line 270.
+(pdftex.def)             Requested size: 240.89574pt x 159.99492pt.
+ [12 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Lupin.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Lin.jpg>]
+<Pavot.jpg, id=372, 377.41pt x 225.84375pt>
+File: Pavot.jpg Graphic file (type jpg)
+<use Pavot.jpg>
+Package pdftex.def Info: Pavot.jpg  used on input line 274.
+(pdftex.def)             Requested size: 188.70453pt x 112.92159pt.
+<Chaume.jpg, id=373, 501.875pt x 376.40625pt>
+File: Chaume.jpg Graphic file (type jpg)
+<use Chaume.jpg>
+Package pdftex.def Info: Chaume.jpg  used on input line 280.
+(pdftex.def)             Requested size: 250.93687pt x 188.20265pt.
+<Hoyau.jpg, id=374, 220.825pt x 165.61874pt>
+File: Hoyau.jpg Graphic file (type jpg)
+<use Hoyau.jpg>
+Package pdftex.def Info: Hoyau.jpg  used on input line 283.
+(pdftex.def)             Requested size: 110.41222pt x 82.80916pt.
+ [13 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Avoine.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Pavot.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Chaume.jpg>]
+<Mysie.png, id=385, 498.663pt x 458.39828pt>
+File: Mysie.png Graphic file (type png)
+<use Mysie.png>
+Package pdftex.def Info: Mysie.png  used on input line 290.
+(pdftex.def)             Requested size: 199.46165pt x 183.35606pt.
+ [14 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Hoyau.JPG> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Mysie.png>]
+<Epervier.jpg, id=404, 803.0pt x 533.995pt>
+File: Epervier.jpg Graphic file (type jpg)
+<use Epervier.jpg>
+Package pdftex.def Info: Epervier.jpg  used on input line 321.
+(pdftex.def)             Requested size: 321.1943pt x 213.59421pt.
+<Chalut.jpg, id=405, 915.42pt x 514.92375pt>
+File: Chalut.jpg Graphic file (type jpg)
+<use Chalut.jpg>
+Package pdftex.def Info: Chalut.jpg  used on input line 322.
+(pdftex.def)             Requested size: 274.62811pt x 154.4783pt.
+ [15 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Epervier.jpg>]
+<Coin.jpg, id=423, 225.84375pt x 225.84375pt>
+File: Coin.jpg Graphic file (type jpg)
+<use Coin.jpg>
+Package pdftex.def Info: Coin.jpg  used on input line 325.
+(pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
+<Dodone.png, id=424, 753.81625pt x 400.49625pt>
+File: Dodone.png Graphic file (type png)
+<use Dodone.png>
+Package pdftex.def Info: Dodone.png  used on input line 337.
+(pdftex.def)             Requested size: 226.14662pt x 120.1498pt.
+<Bardane.jpg, id=425, 299.1175pt x 225.84375pt>
+File: Bardane.jpg Graphic file (type jpg)
+<use Bardane.jpg>
+Package pdftex.def Info: Bardane.jpg  used on input line 342.
+(pdftex.def)             Requested size: 149.55838pt x 112.92159pt.
+<Tribule.jpg, id=426, 249.93375pt x 225.84375pt>
+File: Tribule.jpg Graphic file (type jpg)
+<use Tribule.jpg>
+Package pdftex.def Info: Tribule.jpg  used on input line 344.
+(pdftex.def)             Requested size: 124.96657pt x 112.92159pt.
+ [16 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Chalut.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Coin.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Dodone.png>]
+<Ivraie.jpg, id=440, 374.39874pt x 225.84375pt>
+File: Ivraie.jpg Graphic file (type jpg)
+<use Ivraie.jpg>
+Package pdftex.def Info: Ivraie.jpg  used on input line 346.
+(pdftex.def)             Requested size: 187.19891pt x 112.92159pt.
+<Serpe.jpg, id=441, 163.61125pt x 225.84375pt>
+File: Serpe.jpg Graphic file (type jpg)
+<use Serpe.jpg>
+Package pdftex.def Info: Serpe.jpg  used on input line 348.
+(pdftex.def)             Requested size: 81.80542pt x 112.92159pt.
+ [17 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Bardane.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Tribule.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Ivraie.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Serpe.jpg>]
+<Hetre.jpg, id=452, 340.27126pt x 225.84375pt>
+File: Hetre.jpg Graphic file (type jpg)
+<use Hetre.jpg>
+Package pdftex.def Info: Hetre.jpg  used on input line 364.
+(pdftex.def)             Requested size: 170.13521pt x 112.92159pt.
+<Charançon.jpg, id=453, 293.095pt x 225.84375pt>
+File: Charançon.jpg Graphic file (type jpg)
+<use Charançon.jpg>
+Package pdftex.def Info: Charançon.jpg  used on input line 367.
+(pdftex.def)             Requested size: 146.54713pt x 112.92159pt.
+<Amandier.jpg, id=454, 127.47626pt x 225.84375pt>
+File: Amandier.jpg Graphic file (type jpg)
+<use Amandier.jpg>
+Package pdftex.def Info: Amandier.jpg  used on input line 368.
+(pdftex.def)             Requested size: 63.73796pt x 112.92159pt.
+ [18 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Hetre.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Charançon.jpg>]
+<Dardanelles.png, id=476, 701.62125pt x 342.27875pt>
+File: Dardanelles.png Graphic file (type png)
+<use Dardanelles.png>
+Package pdftex.def Info: Dardanelles.png  used on input line 378.
+(pdftex.def)             Requested size: 280.64352pt x 136.90906pt.
+ [19 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Amandier.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Dardanelles.png>]
+<Péluse.png, id=499, 634.37pt x 376.40625pt>
+File: Péluse.png Graphic file (type png)
+<use Péluse.png>
+Package pdftex.def Info: Péluse.png  used on input line 393.
+(pdftex.def)             Requested size: 190.31245pt x 112.92273pt.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 397.
+ (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+<Scythie.png, id=500, 401.5pt x 229.85875pt>
+File: Scythie.png Graphic file (type png)
+<use Scythie.png>
+Package pdftex.def Info: Scythie.png  used on input line 399.
+(pdftex.def)             Requested size: 200.7495pt x 114.92908pt.
+<Amerie.png, id=501, 700.6175pt x 295.1025pt>
+File: Amerie.png Graphic file (type png)
+<use Amerie.png>
+Package pdftex.def Info: Amerie.png  used on input line 413.
+(pdftex.def)             Requested size: 280.24203pt x 118.0389pt.
+<poix noirs.jpg, id=502, 339.2675pt x 225.84375pt>
+File: poix noirs.jpg Graphic file (type jpg)
+<use poix noirs.jpg>
+Package pdftex.def Info: poix noirs.jpg  used on input line 415.
+(pdftex.def)             Requested size: 169.63333pt x 112.92159pt.
+ [20 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Péluse.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Scythie.png>]
+<Monts.png, id=525, 679.53876pt x 434.62375pt>
+File: Monts.png Graphic file (type png)
+<use Monts.png>
+Package pdftex.def Info: Monts.png  used on input line 430.
+(pdftex.def)             Requested size: 271.81068pt x 173.8464pt.
+ [21 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Amerie.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/poix noirs.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Monts.png>]
+<Athos.png, id=542, 594.22pt x 342.27875pt>
+File: Athos.png Graphic file (type png)
+<use Athos.png>
+Package pdftex.def Info: Athos.png  used on input line 443.
+(pdftex.def)             Requested size: 207.98012pt x 119.79935pt.
+<Rhodope.png, id=543, 538.01pt x 310.15875pt>
+File: Rhodope.png Graphic file (type png)
+<use Rhodope.png>
+Package pdftex.def Info: Rhodope.png  used on input line 445.
+(pdftex.def)             Requested size: 215.20018pt x 124.0613pt.
+<Acrocérauniens.png, id=544, 494.84875pt x 287.0725pt>
+File: Acrocérauniens.png Graphic file (type png)
+<use Acrocérauniens.png>
+Package pdftex.def Info: Acrocérauniens.png  used on input line 447.
+(pdftex.def)             Requested size: 197.93599pt x 114.82695pt.
+ [22 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Athos.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Rhodope.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Acrocérauniens.png>]
+<Cyllène.png, id=565, 654.445pt x 383.4325pt>
+File: Cyllène.png Graphic file (type png)
+<use Cyllène.png>
+Package pdftex.def Info: Cyllène.png  used on input line 452.
+(pdftex.def)             Requested size: 196.335pt x 115.03062pt.
+<Foulque.jpg, id=566, 301.125pt x 225.84375pt>
+File: Foulque.jpg Graphic file (type jpg)
+<use Foulque.jpg>
+Package pdftex.def Info: Foulque.jpg  used on input line 455.
+(pdftex.def)             Requested size: 150.56212pt x 112.92159pt.
+<Héron.jpg, id=567, 339.2675pt x 225.84375pt>
+File: Héron.jpg Graphic file (type jpg)
+<use Héron.jpg>
+Package pdftex.def Info: Héron.jpg  used on input line 456.
+(pdftex.def)             Requested size: 169.63333pt x 112.92159pt.
+ [23 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Cyllène.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Foulque.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Héron.jpg>]
+<Caystre.png, id=584, 530.98375pt x 305.14pt>
+File: Caystre.png Graphic file (type png)
+<use Caystre.png>
+Package pdftex.def Info: Caystre.png  used on input line 467.
+(pdftex.def)             Requested size: 212.38972pt x 122.05382pt.
+ [24 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Caystre.png>]
+<Eridan.jpg, id=608, 333.245pt x 225.84375pt>
+File: Eridan.jpg Graphic file (type jpg)
+<use Eridan.jpg>
+Package pdftex.def Info: Eridan.jpg  used on input line 495.
+(pdftex.def)             Requested size: 166.62209pt x 112.92159pt.
+<Emathie.png, id=609, 632.3625pt x 459.7175pt>
+File: Emathie.png Graphic file (type png)
+<use Emathie.png>
+Package pdftex.def Info: Emathie.png  used on input line 498.
+(pdftex.def)             Requested size: 189.7102pt x 137.9163pt.
+<Hémus.png, id=610, 620.3175pt x 353.32pt>
+File: Hémus.png Graphic file (type png)
+<use Hémus.png>
+Package pdftex.def Info: Hémus.png  used on input line 500.
+(pdftex.def)             Requested size: 186.09668pt x 105.99681pt.
+<Tibre.jpg, id=611, 235.88126pt x 225.84375pt>
+File: Tibre.jpg Graphic file (type jpg)
+<use Tibre.jpg>
+Package pdftex.def Info: Tibre.jpg  used on input line 506.
+(pdftex.def)             Requested size: 117.94034pt x 112.92159pt.
+ [25 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Eridan.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Emathie.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Hémus.png>]
+<Euphrate.jpg, id=628, 235.88126pt x 225.84375pt>
+File: Euphrate.jpg Graphic file (type jpg)
+<use Euphrate.jpg>
+Package pdftex.def Info: Euphrate.jpg  used on input line 513.
+(pdftex.def)             Requested size: 117.94034pt x 112.92159pt.
+<genet.jpg, id=629, 361.35pt x 225.84375pt>
+File: genet.jpg Graphic file (type jpg)
+<use genet.jpg>
+Package pdftex.def Info: genet.jpg  used on input line 534.
+(pdftex.def)             Requested size: 180.67456pt x 112.92159pt.
+ [26 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Tibre.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Euphrate.jpg>]
+<saulaie.jpg, id=649, 339.2675pt x 225.84375pt>
+File: saulaie.jpg Graphic file (type jpg)
+<use saulaie.jpg>
+Package pdftex.def Info: saulaie.jpg  used on input line 537.
+(pdftex.def)             Requested size: 169.63333pt x 112.92159pt.
+<rouvre.jpg, id=650, 127.47626pt x 225.84375pt>
+File: rouvre.jpg Graphic file (type jpg)
+<use rouvre.jpg>
+Package pdftex.def Info: rouvre.jpg  used on input line 539.
+(pdftex.def)             Requested size: 63.73796pt x 112.92159pt.
+<orme.jpg, id=651, 169.63374pt x 225.84375pt>
+File: orme.jpg Graphic file (type jpg)
+<use orme.jpg>
+Package pdftex.def Info: orme.jpg  used on input line 543.
+(pdftex.def)             Requested size: 84.81665pt x 112.92159pt.
+ [27 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/genet.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/saulaie.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/rouvre.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/orme.jpg>]
+<Ismare.png, id=663, 521.95pt x 374.39874pt>
+File: Ismare.png Graphic file (type png)
+<use Ismare.png>
+Package pdftex.def Info: Ismare.png  used on input line 555.
+(pdftex.def)             Requested size: 156.5862pt x 112.32048pt.
+<Taburne.png, id=664, 531.9875pt x 311.1625pt>
+File: Taburne.png Graphic file (type png)
+<use Taburne.png>
+Package pdftex.def Info: Taburne.png  used on input line 557.
+(pdftex.def)             Requested size: 159.59747pt x 93.34947pt.
+<coudrier.jpg, id=665, 266.9975pt x 200.75pt>
+File: coudrier.jpg Graphic file (type jpg)
+<use coudrier.jpg>
+Package pdftex.def Info: coudrier.jpg  used on input line 567.
+(pdftex.def)             Requested size: 133.49841pt x 100.37474pt.
+ [28 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Ismare.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Taburne.png>]
+<frene.jpg, id=688, 361.35pt x 225.84375pt>
+File: frene.jpg Graphic file (type jpg)
+<use frene.jpg>
+Package pdftex.def Info: frene.jpg  used on input line 570.
+(pdftex.def)             Requested size: 180.67456pt x 112.92159pt.
+<platane.jpg, id=689, 169.63374pt x 225.84375pt>
+File: platane.jpg Graphic file (type jpg)
+<use platane.jpg>
+Package pdftex.def Info: platane.jpg  used on input line 577.
+(pdftex.def)             Requested size: 84.81665pt x 112.92159pt.
+<orne.jpg, id=690, 218.8175pt x 225.84375pt>
+File: orne.jpg Graphic file (type jpg)
+<use orne.jpg>
+Package pdftex.def Info: orne.jpg  used on input line 579.
+(pdftex.def)             Requested size: 109.40848pt x 112.92159pt.
+ [29 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/coudrier.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/frene.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/platane.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/orne.jpg>]
+<greffe en fente.jpeg, id=701, 52.998pt x 88.8921pt>
+File: greffe en fente.jpeg Graphic file (type jpg)
+<use greffe en fente.jpeg>
+Package pdftex.def Info: greffe en fente.jpeg  used on input line 582.
+(pdftex.def)             Requested size: 79.4968pt x 133.33781pt.
+<greffe en ecusson.jpeg, id=702, 52.998pt x 33.726pt>
+File: greffe en ecusson.jpeg Graphic file (type jpg)
+<use greffe en ecusson.jpeg>
+Package pdftex.def Info: greffe en ecusson.jpeg  used on input line 584.
+(pdftex.def)             Requested size: 132.49466pt x 84.31476pt.
+<crustumium.png, id=703, 577.15625pt x 311.1625pt>
+File: crustumium.png Graphic file (type png)
+<use crustumium.png>
+Package pdftex.def Info: crustumium.png  used on input line 594.
+(pdftex.def)             Requested size: 230.8584pt x 124.46278pt.
+<Lesbos.png, id=704, 501.875pt x 303.1325pt>
+File: Lesbos.png Graphic file (type png)
+<use Lesbos.png>
+Package pdftex.def Info: Lesbos.png  used on input line 596.
+(pdftex.def)             Requested size: 200.74643pt x 121.25084pt.
+ [30 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/greffe en fente.jpeg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/greffe en ecusson.jpeg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/crustumium.png>]
+<Methymne.png, id=722, 405.515pt x 323.2075pt>
+File: Methymne.png Graphic file (type png)
+<use Methymne.png>
+Package pdftex.def Info: Methymne.png  used on input line 600.
+(pdftex.def)             Requested size: 162.20311pt x 129.2807pt.
+<Thasos.png, id=723, 550.055pt x 323.2075pt>
+File: Thasos.png Graphic file (type png)
+<use Thasos.png>
+Package pdftex.def Info: Thasos.png  used on input line 602.
+(pdftex.def)             Requested size: 220.0181pt x 129.2807pt.
+<Mareotis.png, id=724, 575.14874pt x 336.25626pt>
+File: Mareotis.png Graphic file (type png)
+<use Mareotis.png>
+Package pdftex.def Info: Mareotis.png  used on input line 604.
+(pdftex.def)             Requested size: 230.05542pt x 134.5001pt.
+ [31 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Lesbos.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Methymne.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Thasos.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Mareotis.png>]
+<Rhodes.png, id=738, 403.5075pt x 200.75pt>
+File: Rhodes.png Graphic file (type png)
+<use Rhodes.png>
+Package pdftex.def Info: Rhodes.png  used on input line 617.
+(pdftex.def)             Requested size: 201.75325pt x 100.37474pt.
+<Aulne.jpg, id=739, 361.35pt x 225.84375pt>
+File: Aulne.jpg Graphic file (type jpg)
+<use Aulne.jpg>
+Package pdftex.def Info: Aulne.jpg  used on input line 628.
+(pdftex.def)             Requested size: 180.67456pt x 112.92159pt.
+<If.jpg, id=740, 402.50375pt x 225.84375pt>
+File: If.jpg Graphic file (type jpg)
+<use If.jpg>
+Package pdftex.def Info: If.jpg  used on input line 633.
+(pdftex.def)             Requested size: 160.99864pt x 90.33589pt.
+ [32 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Rhodes.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Aulne.jpg>]
+<Ebenier.jpg, id=760, 169.63374pt x 225.84375pt>
+File: Ebenier.jpg Graphic file (type jpg)
+<use Ebenier.jpg>
+Package pdftex.def Info: Ebenier.jpg  used on input line 639.
+(pdftex.def)             Requested size: 84.81665pt x 112.92159pt.
+<Acanthe.jpg, id=761, 301.125pt x 225.84375pt>
+File: Acanthe.jpg Graphic file (type jpg)
+<use Acanthe.jpg>
+Package pdftex.def Info: Acanthe.jpg  used on input line 641.
+(pdftex.def)             Requested size: 120.44786pt x 90.33589pt.
+<Medie.png, id=762, 441.65pt x 341.275pt>
+File: Medie.png Graphic file (type png)
+<use Medie.png>
+Package pdftex.def Info: Medie.png  used on input line 645.
+(pdftex.def)             Requested size: 176.65686pt x 136.50757pt.
+<Gange.jpg, id=763, 402.50375pt x 225.84375pt>
+File: Gange.jpg Graphic file (type jpg)
+<use Gange.jpg>
+Package pdftex.def Info: Gange.jpg  used on input line 648.
+(pdftex.def)             Requested size: 201.25137pt x 112.92159pt.
+ [33 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/If.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Ebenier.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Acanthe.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Medie.png>]
+<Gediz.png, id=775, 281.05pt x 85.31876pt>
+File: Gediz.png Graphic file (type png)
+<use Gediz.png>
+Package pdftex.def Info: Gediz.png  used on input line 650.
+(pdftex.def)             Requested size: 281.0493pt x 85.31853pt.
+<Bactres.png, id=776, 429.605pt x 249.93375pt>
+File: Bactres.png Graphic file (type png)
+<use Bactres.png>
+Package pdftex.def Info: Bactres.png  used on input line 652.
+(pdftex.def)             Requested size: 214.80197pt x 124.96657pt.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 654.
+ (/usr/share/texmf/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+<Aconit.jpg, id=777, 301.125pt x 225.84375pt>
+File: Aconit.jpg Graphic file (type jpg)
+<use Aconit.jpg>
+Package pdftex.def Info: Aconit.jpg  used on input line 664.
+(pdftex.def)             Requested size: 150.56212pt x 112.92159pt.
+ [34 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Gange.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Gediz.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Bactres.png>]
+<Mer Adriatique et Tyrrhénienne.jpg, id=798, 923.45pt x 926.46124pt>
+File: Mer Adriatique et Tyrrhénienne.jpg Graphic file (type jpg)
+<use Mer Adriatique et Tyrrhénienne.jpg>
+Package pdftex.def Info: Mer Adriatique et Tyrrhénienne.jpg  used on input line 667.
+(pdftex.def)             Requested size: 277.03712pt x 277.9405pt.
+<Come.png, id=799, 637.38126pt x 375.4025pt>
+File: Come.png Graphic file (type png)
+<use Come.png>
+Package pdftex.def Info: Come.png  used on input line 669.
+(pdftex.def)             Requested size: 191.21585pt x 112.62161pt.
+<Garde.png, id=800, 477.785pt x 261.97874pt>
+File: Garde.png Graphic file (type png)
+<use Garde.png>
+Package pdftex.def Info: Garde.png  used on input line 671.
+(pdftex.def)             Requested size: 143.3366pt x 78.59422pt.
+ [35 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Aconit.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Mer Adriatique et Tyrrhénienne.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Come.png>]
+<Lucrin.png, id=809, 548.0475pt x 313.17pt>
+File: Lucrin.png Graphic file (type png)
+<use Lucrin.png>
+Package pdftex.def Info: Lucrin.png  used on input line 674.
+(pdftex.def)             Requested size: 164.41551pt x 93.95172pt.
+<Averne.png, id=810, 543.02875pt x 336.25626pt>
+File: Averne.png Graphic file (type png)
+<use Averne.png>
+Package pdftex.def Info: Averne.png  used on input line 676.
+(pdftex.def)             Requested size: 162.90987pt x 100.87766pt.
+<Celano.png, id=811, 600.2425pt x 339.2675pt>
+File: Celano.png Graphic file (type png)
+<use Celano.png>
+Package pdftex.def Info: Celano.png  used on input line 678.
+(pdftex.def)             Requested size: 180.07413pt x 101.78102pt.
+<Gênes.png, id=812, 562.1pt x 335.2525pt>
+File: Gênes.png Graphic file (type png)
+<use Gênes.png>
+Package pdftex.def Info: Gênes.png  used on input line 681.
+(pdftex.def)             Requested size: 168.6313pt x 100.57652pt.
+ [36 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Garde.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Lucrin.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Averne.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Celano.png>]
+<Latium.png, id=826, 607.26875pt x 291.0875pt>
+File: Latium.png Graphic file (type png)
+<use Latium.png>
+Package pdftex.def Info: Latium.png  used on input line 684.
+(pdftex.def)             Requested size: 182.18202pt x 87.32692pt.
+<Tarente.png, id=827, 501.875pt x 361.35pt>
+File: Tarente.png Graphic file (type png)
+<use Tarente.png>
+Package pdftex.def Info: Tarente.png  used on input line 707.
+(pdftex.def)             Requested size: 150.56366pt x 108.40584pt.
+ [37 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Gênes.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Latium.png>]
+<Mincio.png, id=854, 418.56375pt x 265.99374pt>
+File: Mincio.png Graphic file (type png)
+<use Mincio.png>
+Package pdftex.def Info: Mincio.png  used on input line 711.
+(pdftex.def)             Requested size: 167.42252pt x 106.3956pt.
+<Serpolet.jpg, id=855, 259.97125pt x 225.84375pt>
+File: Serpolet.jpg Graphic file (type jpg)
+<use Serpolet.jpg>
+Package pdftex.def Info: Serpolet.jpg  used on input line 720.
+(pdftex.def)             Requested size: 129.9853pt x 112.92159pt.
+<Romarin.jpg, id=856, 225.84375pt x 225.84375pt>
+File: Romarin.jpg Graphic file (type jpg)
+<use Romarin.jpg>
+Package pdftex.def Info: Romarin.jpg  used on input line 722.
+(pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
+ [38 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Tarente.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Mincio.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Serpolet.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Romarin.jpg>]
+<Capoue.png, id=868, 463.7325pt x 262.9825pt>
+File: Capoue.png Graphic file (type png)
+<use Capoue.png>
+Package pdftex.def Info: Capoue.png  used on input line 727.
+(pdftex.def)             Requested size: 231.86568pt x 131.49092pt.
+<Clain.png, id=869, 724.7075pt x 328.22626pt>
+File: Clain.png Graphic file (type png)
+<use Clain.png>
+Package pdftex.def Info: Clain.png  used on input line 729.
+(pdftex.def)             Requested size: 289.87787pt x 131.28816pt.
+<Acerre.png, id=870, 597.23125pt x 308.15125pt>
+File: Acerre.png Graphic file (type png)
+<use Acerre.png>
+Package pdftex.def Info: Acerre.png  used on input line 731.
+(pdftex.def)             Requested size: 238.88826pt x 123.2583pt.
+ [39 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Capoue.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Clain.png> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Acerre.png>] [40]
+<Houx.jpg, id=921, 301.125pt x 225.84375pt>
+File: Houx.jpg Graphic file (type jpg)
+<use Houx.jpg>
+Package pdftex.def Info: Houx.jpg  used on input line 783.
+(pdftex.def)             Requested size: 150.56212pt x 112.92159pt.
+<Cytise.jpg, id=922, 252.945pt x 225.84375pt>
+File: Cytise.jpg Graphic file (type jpg)
+<use Cytise.jpg>
+Package pdftex.def Info: Cytise.jpg  used on input line 794.
+(pdftex.def)             Requested size: 126.47218pt x 112.92159pt.
+<Cytore.png, id=923, 714.67pt x 338.26375pt>
+File: Cytore.png Graphic file (type png)
+<use Cytore.png>
+Package pdftex.def Info: Cytore.png  used on input line 796.
+(pdftex.def)             Requested size: 214.40265pt x 101.4799pt.
+<Buis.jpg, id=924, 225.84375pt x 225.84375pt>
+File: Buis.jpg Graphic file (type jpg)
+<use Buis.jpg>
+Package pdftex.def Info: Buis.jpg  used on input line 798.
+(pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
+ [41 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Houx.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Cytise.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Cytore.png>]
+<Naryce.png, id=939, 708.6475pt x 357.335pt>
+File: Naryce.png Graphic file (type png)
+<use Naryce.png>
+Package pdftex.def Info: Naryce.png  used on input line 801.
+(pdftex.def)             Requested size: 212.59589pt x 107.20132pt.
+ [42 </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Buis.jpg> </home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Naryce.png>]
+\tf@thm=\write6
+\openout6 = `"Vocabulaire incompris.thm"'.
+
+ [43]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 863.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 863.
+ (/home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire incompris.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 863.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 863.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 863.
+ ) 
+Here is how much of TeX's memory you used:
+ 22606 strings out of 481239
+ 399589 string characters out of 5920377
+ 652864 words of memory out of 5000000
+ 36712 multiletter control sequences out of 15000+600000
+ 578021 words of font info for 69 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,8n,60p,485b,581s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
+Output written on "/home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire incompris.pdf" (43 pages, 7723070 bytes).
+PDF statistics:
+ 1176 PDF objects out of 1200 (max. 8388607)
+ 967 compressed objects within 10 object streams
+ 593 named destinations out of 1000 (max. 500000)
+ 527 words of extra memory for PDF output out of 10000 (max. 10000000)
+

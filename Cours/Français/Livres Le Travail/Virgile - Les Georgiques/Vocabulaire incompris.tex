@@ -1,0 +1,863 @@
+\documentclass[a4paper, 11pt, hidelinks]{article}
+\usepackage{bookmark}
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx}
+\usepackage[french]{babel}
+\usepackage{geometry}
+\usepackage{eucal}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{hyperref}
+\usepackage{cancel}
+\usepackage{tikz}
+\usepackage{mathrsfs}  
+\usepackage{esvect}
+\usepackage[standard]{ntheorem}
+\usepackage{romanbar}
+\usepackage{titlesec}
+
+
+
+\geometry{hmargin=2cm,vmargin=1.5cm}
+
+\tikzset{
+  treenode/.style = {shape=rectangle, rounded corners,
+                     draw, align=center,
+                     top color=white, bottom color=blue!5},
+  root/.style     = {treenode, font=\Large, bottom color=red!10},
+  env/.style      = {treenode, font=\ttfamily\normalsize},
+  dummy/.style    = {circle,draw}
+}
+
+\newcommand{\prp}{\large \textbf{Proposition :} \large}
+
+\newcommand{\tm}{\large \textbf{Théoreme :} \large}
+
+\newcommand{\ex}{\textcolor{green}{Exemple :} }
+
+\newcommand{\dm}{\textcolor{red}{\textbf{Démo :} } }
+
+\newcommand{\de}{\large \textbf{Définition} \large }
+
+\newcommand{\rmq}{\textbf{Remarque :} }
+
+\newcommand{\bs}{\bigskip}
+
+\newcommand{\voca}{\textcolor{blue}{\textbf{Vocabulaire} } }
+
+\newcommand{\lem}{\textcolor{red}{\textbf{Lemme :} } }
+
+\newcommand{\rb}[1]{\Romanbar{#1}}
+
+\newcommand{\cit}{\textcolor{blue}{\textbf{Citation : }}}
+
+\newcommand{\trinom}[3]{\begin{pmatrix}
+    #1 \\
+    #2 \\
+    #3
+\end{pmatrix}}
+
+\newcommand{\quadrinom}[4]{\begin{pmatrix}
+    #1 \\
+    #2 \\
+    #3 \\
+    #4 \\
+\end{pmatrix}}
+
+\newcommand{\pentanom}[5]{\begin{pmatrix}
+    #1 \\
+    #2 \\
+    #3 \\
+    #4 \\
+    #5
+\end{pmatrix}}
+
+\newcommand{\hexanom}[6]{\begin{pmatrix}
+    #1 \\
+    #2 \\
+    #3 \\
+    #4 \\
+    #5 \\
+    #6 
+\end{pmatrix}}
+
+\newcommand{\serie}[2]{\displaystyle\sum_{#1 =0}^{+\infty} #2_{#1} }
+
+\newcommand{\tend}{\underset{n \to + \infty}{\longrightarrow} }
+
+\newcommand{\Lra}{\Leftrightarrow}
+
+\newcommand{\lra}{\leftrightarrow}
+
+\newcommand{\Ra}{\Rightarrow}
+
+\newcommand{\ra}{\rightarrow}
+
+\newcommand{\la}{\leftarrow}
+
+\newcommand{\La}{\Leftarrow}
+
+\newcommand{\dsum}[2]{\displaystyle\sum_{#1}^{#2} }
+
+\newcommand{\dint}[2]{\displaystyle\int_{#1}^{#2} }
+
+\newcommand{\ntend}{\underset{n \to + \infty}{\not \longrightarrow} }
+
+\newenvironment{lmatrix}{$ \left|\begin{array}{l} }{\end{array}\right.$}
+
+\newcommand{\img}[4]{\begin{figure}[!ht]
+    \centering
+    \includegraphics[scale=#1 ]{#2}
+    \caption{#3}
+    \label{#4}
+    \end{figure} }    
+\begin{document}
+
+\newcommand{\grad}[1]{\vv{grad}#1}
+
+
+\title{Vocabulaire Virgile - Les Georgiques}
+\author{Schobert Néo}
+
+\maketitle
+
+\tableofcontents
+
+
+\newpage
+
+\listoffigures
+
+\newpage
+
+
+
+\section{Livre 1 - Le labourage}
+
+p $37 - 40$
+
+\begin{enumerate}
+      \item ormeau : Mollusque de mer gastéropode du genre Haliotis, dont la coquille est nacrée, apprécié en cuisine pour sa chair.
+            \img{0.5}{ormeau.jpg}{ormeau}{1}
+      \item Qui est Liber ? : Dieu veillant sur la vigne.
+      \item alme (adj) [qqch] : A la fois nourricière et vénérable.
+      \item Qui est Cérès ? : Déesse de l'agriculture. (Fille de Saturne (Cronos) et de Cybèle (Rhéa) "soeur" de Jupiter (Zeus) ayant enfanté avec lui
+            Proserpine (Perséphone))
+      \item La terre a remplacé le gland de Chaonie par l'épi lourd : Le gland aurait été, d'après les
+            traditions, la première nourriture de l'homme. Chaonie : Région du sud de l'Albanie et du Nord Ouest de l'ancien Epire. Antigonie est une ville de Chaonie.
+            \img{0.5}{Chaonie.png}{Chaonie}{2}
+      \item Qui est Achéloüs ? : Fils aîné du Titan Océan et de sa sœur Téthys, Achéloüs est, le dieu-fleuve de l'Achéloos, fleuve
+            grec situé en Épire. Il est selon les versions, le père des Sirènes et de nombreuses nymphes. Il est le protagoniste
+            de plusieurs récits mythologiques, dont le plus important est son combat contre le héros Héraclès pour la main de Déjanire.
+      \item Qui est Faunes ? : Dieu veillant sur la fécondité des troupeaux
+      \item Qu'est-ce qu'une Dryade : nymphe protectrice des bois. \bs \bs
+      \item Expliquer la légende de Neptune / Minerve (4 p38) : Dispute de Minerve et de Neptune pour donner un nom à la ville
+            d'Athènes. Minerve fait apparaitre un olivier d'un coup de lance; Neptune, de son trident, fait apparaitre un cheval.
+            Minerve gagna (son nom grecque est Athéna)
+      \item Qui est Neptune ? : Neptune (Poséidon), est le fils de Saturne (Cronos) et de Cybèle (Rhéa); il est le Dieu de la mer.
+      \item Qui est Minerve ? : Minerve (Athéna), est la fille de Jupiter (Zeus) et de Métis; elle est la Déesse de la sagesse. \bs \bs
+      \item Qu'est-ce qu'un bocage ? : Bocage désigne une région où les champs et les prés sont enclos par des levées de terre portant des haies ou des rangées d'arbres, et où l'habitat est dispersé en fermes et en hameaux.
+            \bs \bs
+      \item Qui est Apollon ? : Dieu du soleil, des arts, du chant, de la musique, de la beauté masculine, de la guérison, de la
+            poésie et de la lumière. Il est le fils de Jupiter (Zeus) et de Latone (Léto) et le frère de Diane (Artémis).
+      \item Qui est Cyrène ? : Cyrène était une princesse de Thessalie, et plus tard, la reine de la ville nord-africaine de Cyrène en Libye.
+            Elle a été la conjointe d'Apollon.
+      \item Qui est Aristée ? : Dieu mineur, fils d'Apollon et de la nymphe Cyrène. \bs \bs
+      \item Qui est Cadmus ? : Cadmus est l'un des fils d'Agénor (fils de Neptune (Poséidon) et de Libye), roi de Tyr (Au sud du Liban), en
+            Phénicie et de Téléphassa, il est le fondateur légendaire de Thèbes.
+      \item Qui est Hermione ? : Elle est la fille de Ménélas (roi de Sparte) et d'Hélène (fille de Jupiter (Zeus) et de Léda), est une Atride (dont le destin est marqué
+            par le meurtre, le parricide, l'infanticide et l'inceste).
+      \item Qui est Autonoé ? : Autonoé est une des quatre filles de Cadmus et d'Hermione (Harmonie).
+            Elle épousa Aristée, qui lui donna un fils, Actéon.
+      \item Qui est Actéon ? : Actéon est le fils d'Aristée et d'Autonoé; il est un chasseur orgueilleux transformé en cerf par Diane (Artémis) après avoir surpris celle-ci prenant son bain, entièrement nue et s'être délecté de la scène.
+            Il est dévoré vivant par ses propres chiens qui ne le reconnaissent pas.\bs \bs
+      \item Qui est Diane ? : Diane (Artémis), est la fille de Jupiter (Zeus) et de Latone (Léto), elle est la soeur d'Apollon; elle est la Déesse de la chasse.
+      \item Où est Céa ? (aujourd'hui Zéa) : \img{0.5}{Zea.png}{Zea}{3}
+            \newpage
+      \item Qu'est-ce qu'un hallier ? : C'est un buisson servant de refuge au gibier.
+      \item Qu'est-ce que Sirius ? : Il s'agit de l'étoile la plus brillante de la constellation d'Orion. Elle était redoutée par les
+            anciens est pouvait par ses ardeurs, provoquer des canicules et des sécheresses.
+      \item Qu'est-ce que le Lycée ? : Le mont Lycée est comme le Ménale, une montagne d'Arcadie consacrée à Pan et aux muses.
+            \img{0.5}{mont Lycee.png}{Mont Lycée}{4}
+      \item Où est l'Arcadie ? \img{0.5}{Arcadie.png}{Arcadie}{5}
+            \newpage
+      \item Où est Thèbes ? \img{0.5}{Thebes.png}{Thebes}{6}
+      \item Où est l'Acarnanie ?
+      \item Où est l'Etolie ? \img{0.5}{Arcananie Etolie.png}{Arcananie (à gauche) - Etolie (à droite)}{7}
+      \item Où est le fleuve de l'Epire ? : Il s'agit de l'Achéloos, qui sépare l'Arcananie et l'Etolie.
+      \item Qui est Pan ? : Divinité de la nature, protecteur des bergers et des troupeaux, particulièrement honoré en Arcadie.
+            Il est souvent représenté comme une créature chimérique, mi-homme mi-bouc
+      \item Qu'est-ce que le Ménale ? : Montagne d'Arcadie, comme le Lycée.
+            \img{0.5}{Menale.png}{Menale}{8}
+      \item Où est Tégée ? \img{0.5}{Tegee.png}{Tégée}{9}
+      \item Qui est Triptolème ? : Triptolème est le héros grâce à qui l'humanité apprend l'agriculture, et donc la civilisation.
+            Il répand le culte de Déméter (Cérès) et créé les mystères d'Éleusis.
+      \item Qu'est-ce qu'un areau ? : Charrue primitive
+      \item Qui est Sylvain ? : Sylvain (Sylvanus) est une divinité romaine protectrice des bois et des champs dont le culte a remplacé en Gaule celui de Sucellus.
+      \item Qu'est-ce qu'un cyprès ? : \img{0.5}{Cypres.jpg}{Cyprès}{10}
+            \newpage
+      \item Qu'est-ce qu'un guéret ? : Terre labourée et non ensemencée. Synonyme : Jachère
+      \item Qu'est-ce qu'une semaille ? : Fait de semer. Synonyme : Ensemencement,semis. Peut aussi être la période à laquelle on peut semer.
+      \item Qu'est-ce que ceindre ? : Entourer, mettre autour du corps ou de la tête.
+      \item Qu'est-ce que le myrte maternel ? : Il s'agit du myrte de Vénus, que l'on plaçait autoure de la tête des jeunes mariés.
+      \item Où est Thulé ? : Pays situé à l'extrémité nord-occidentale du monde connu des anciens et qu'on a identifié tantôt avec l'Islande, tantôt avec la Norvège.
+      \item Qui est Téthys ? : Téthys était la benjamine des Titanides, fille de le Ciel (Ouranos) et de la Terre (Gaïa), sœur et épouse d'Océan, de qui elle eut
+            de nombreux enfants, les dieux fleuves et les Océanides (6 000 en tout). Elle personnifiait la fécondité marine. Elle est une déesse marine archaïque.
+      \item Qui est Thétis ? : Thétis est la petite fille de Téthys. Elle est la mère du héro Achille, qu'elle plongea dit la fable, dans l'eau du Styx.
+      \item Qui est Erigone ? : Erigone, fille d'Icare et soeur de Pénélope, en apprenant la mort de son père massacré par des
+            bergers ivres, se pendit de désespoir et fut changée en une constellation appelée Astrée ou la Vierge. (Sixième signe du Zodiaque)
+      \item Qu'est-ce que les Chèles ? : Les Chèles ou Pinces du Scorpion venant après Erigone ont l'air de la poursuivre. (Huitième signe du Zodiaque)
+      \item Qu'est-ce que le Tartare ? : Les enfers en général.
+      \item Qui est Proserpine ? : Proserpine (Perséphone), est la fille de Jupiter (Zeus) et de Cérès (Déméter). Elle s'est faite enlever
+            par Pluton et est devenue la reine des Enfers. Elle est aussi une déesse du printemps; son mythe évoque le retour du printemps après l'hiver rigoureux
+            et peu éclairé et recoupe celui de sa mère en tant que déesse de l'Agriculture et des Moissons.
+      \item Qui est Pluton ? : Pluton (Hadès), est le dieux des Enfers. Il est le fils de Saturne (Cronos) et de Cybèle (Rhéa).
+      \item Qu'est-ce que les Champs Elyséens ? : Lieux des Enfers ou du séjour des morts où les héros et les gens vertueux goûtent le repos après leur trépas.
+      \item Qu'est-ce que hardi ? : Audacieux, qui ose, intrépide. Une personne hardie n'a pas peur du danger ni de l'inconnu.
+\end{enumerate}
+
+
+
+
+
+p $41 - 46$
+
+\begin{enumerate}
+      \item Qu'est-ce que chenu ? : En parlant d'une montagne, signifie que celle-ci est blanchie.
+      \item Qu'est-ce que la glèbe ? : Sol auquel les serfs étaient attachés et qu'ils devaient cultiver.
+      \item Qu'est-ce que le soc ? : Soc désigne un élément de la charrue, il s'agit d'un fer large et pointu servant à
+            couper la terre horizontalement et à la faire glisser sur le versoir.
+            \img{0.2}{Soc.jpg}{Soc}{11}
+      \item Qu'est-ce que crouler ? : S'affaisser, s'effondrer, tomber en ruines.
+      \item Qu'est-ce que le Tmolus ? : Le mont Tmolus est une montagne de Lydie, en Turquie.
+            \img{0.5}{Tmolus.png}{Mont Tmolus}{12}
+      \item Qu'est-ce qu'un crocus ? / Les crocus de Tmolus ? : Plante à bulbe, dont les fleurs sont violettes, jaunes ou blanches.
+            \img{0.15}{Crocus.jpg}{Crocus}{13}
+      \item Qui sont les mols Sabéens ? : C'est un peuple de l'Arabie heureuse.
+      \item Qui sont les Chalybes ? : Les Chalybes sont un peuple de l'Antiquité auquel on attribue généralement l'invention de l'acier. Ce
+            peuple vivait dans l'actuelle Géorgie.
+      \item Qu'est-ce que le royaume du Pont ? : \img{0.3}{Pont.png}{Royaume du Pont}{14}
+      \item Qu'est-ce que le baume de castor ? : Baume préconisé pour protéger contre les irritations et l'assèchement de la peau dû au froid.
+      \item Qu'est-ce qu'un onguent ? : Pommade à la consistance crémeuse généralement employée pour une utilisation médicale afin d'apaiser
+            une douleur quelconque.
+      \item Qu'est-ce que les palmes des cavales d'Elis ? : Ce sont les prix remportés aux jeux Olympiques célébrés en Elide.
+            \img{1}{Elide.png}{Elide}{15}
+      \item Qui est Deucalion ? : Deucalion est le fils du Titan Prométhée et de l'Océanide Pronoia. Il est le seul survivant, avec sa femme Pyrrha,
+            du Déluge décidé par Zeus. Ils furent portés par une barque, au sommet du Parnasse, où l'oracle d'Apollon les invita, pour repeupler
+            la terre, à jeter derrière eux "les os de leur mère". Ils comprirent qu'il s'agissait des cailloux de la terre. Ceux jetés par
+            Deucalion devinrent des hommes, ceux jetés par Pyrrah devinrent des femmes.
+      \item Qui est Pyrrah ? : Fille du Titan Epiméthée et de Pandore et épouse de Deucalion.
+      \item Qui est Prométhée ? : Prométhée et celui qui a dérobé le feu sacré de l'Olympe pour en faire don aux humains. Zeus punit cet
+            acte déloyal en attachant Prométhée à un rocher sur le mont Caucase, son foie dévoré par l'aigle du Caucase chaque jour.
+      \item Qu'est-ce qu'une engeance ? : Catégorie de personnes jugées méprisables.
+      \item Qu'est-ce que la glaise ? : Terre argileuse et imperméable.
+      \item Qu'est-ce que l'Arcture ? : Etoile rouge, la plus brillante de la constellation du Bouvier, constellation qui fait suite à la queue de
+            la grande Ourse. L'Arcture se lève au début de septembre, à l'époque où il faut commencer le labour des terres sèches.
+      \item Qu'est-ce que humecter ? : Mouiller légèrement, rendre humide, humidifier.
+      \item Qu'est-ce que la cosse ? : Enveloppe recouvrant certains légumes, par exemple les petits pois, les fèves, les lentilles...
+      \item Qu'est-ce que la vesce ? : Plante légumineuse, riche en protéines, utilisée essentiellement pour nourrir le bétail ou comme engrais.
+      \item Qu'est-ce que le lupin ? : Plante dont les fleurs ornementales se présentent en grappes.
+            \img{0.2}{Lupin.jpg}{Lupin}{16}
+      \item Qu'est-ce que le lin ? : Plante textile et oléagineuse.
+            \img{0.2}{Lin.jpg}{Lin}{17}
+      \item Qu'est-ce que l'avoine ? : Céréale dont le grain sert à l'alimentation des chevaux.
+            \img{0.2}{Avoine.jpg}{Avoine}{18}
+            \newpage
+      \item Qu'est-ce que les pavots ? : Plante dont est extrait l'opium. Végétal possédant de grandes fleurs solitaires à quatre pétales et
+            souvent colorées. Herbe vivace ou annuelle comme le coquelicot et ses espèces voisines produisant des fruits. Le coquelicot est un pavot.
+            \img{0.5}{Pavot.jpg}{Pavots}{19}
+      \item Qu'est-ce que le Léthé ? : Léthé, fille d'Eris (Déesse de la Discorde), est la personnification de l'oubli, elle est souvent
+            confondue avec le fleuve Léthé (fleuve de l'Oubli), un des cinq fleuves des Enfers.
+      \item Qu'est-ce que le sommeil Léthéen ? : Un sommeil Léthéen est un sommeil qui produit l'oubli.
+      \item Qu'est-ce que le chaume ? : Tige des graminées en général, des céréales en particulier. Paille longue utilisée pour couvrir les maisons.
+            Le champ lui-même après la moisson.
+            \img{0.5}{Chaume.jpg}{Chaume}{20}
+      \item Qui est Borée ? : Borée est le fils d'Éos (l'Aurore) et d'Astréos. Il est la personnification du vent du nord,
+            l'un des quatre vents directionnels.
+      \item Qu'est-ce que le hoyau ? : \img{0.5}{Hoyau.jpg}{Hoyau}{21}
+      \item Qu'est-ce qu'une herse ? : Instrument agricole muni de pointes rigides ou souples, que l'on traîne sur le sol pour
+            l'ameublir après le labour ou pour enfouir des engrais, des semences ou des mauvaises herbes.
+      \item Qu'est-ce que l'osier ? : Jet. Rameau flexible, pliant de certains saules qui permet de fabriquer des paniers ou sert de liens.
+      \item Cérès est blonde ? (la blonde Cérès) : Cérès (ou Déméter) est habituellement représentée sous l'aspect d’une belle femme,
+            d'une taille majestueuse, d'un teint coloré : elle a les yeux langoureux, et les cheveux blonds retombant en désordre sur ses
+            épaules, évoquant quelque peu le blé, dont elle est la déesse.
+      \item Où est la Mysie ? : \img{0.4}{Mysie.png}{Mysie}{22}
+      \item Quelle est la particularité de la Mysie ? : Il s'agit d'une contrée fertile.
+      \item Qu'est-ce que la jactance ? : La jactance est l'action de se vanter en paroles. La personne parle beaucoup pour
+            valoriser ce qu'elle a accompli, mais il est rarement possible de vérifier la réalité des dires.
+      \item Qu'est-ce que le Gargare ? : Cime culminante de la chaine de l'Ida, en Mysie.
+      \item Qu'est-ce que sourcilleux ? : Ce qui est sourcilleux est en hauteur, élevé. Le terme est utilisé principalement à l'écrit dans un contexte littéraire.
+      \item Qu'est-ce qu'une traverse ? : Chemin étroit, plus direct que la route ; dans une ville, passage étroit reliant deux rues. (On dit aussi chemin de traverse.)
+      \item Qu'est-ce que déclive ? : En pente.
+      \item Qu'est-ce qu'un limon ? : Terre très fertile.
+      \item Qu'est-ce qu'une lagune ? : Étendue d'eau de mer située derrière un cordon littoral.
+      \item Qui est Strymon ? : Strymon est un dieu-fleuve fils de Océanus et de Téthys. Il était roi de Thrace. Il a donné son nom
+            au fleuve du Strymon situé en grêce et en Bulgarie.
+      \item Qu'est-ce que l'indolence ? : Caractère de quelqu’un qui évite tout effort, agit avec mollesse et nonchalance.
+      \item Qu'est-ce que l'avant Jupiter ? : Il s'agit de l'âge d'or de Saturne (Cronos).
+      \item Qu'est-ce que pernicieux ? : Qui est dangereux, préjudiciable ou mauvais à quelqu'un ou à quelque chose.
+      \item Qu'est-ce qu'une rapine ? : Action de prendre de force quelque chose, de s'emparer du bien d'autrui par la violence.
+      \item Qu'entend-on par cacher le feu (Jupiter) ? : Jupiter (Zeus), après que Prométhée vola à Jupiter (Zeus) le feu, le cacha aux humains.
+      \item Qu'est-ce que le nocher ? : Terme soutenu pour désigner le pilote d'un petit bateau.
+      \item Qu'est-ce que les Pléiades ? : Les Pléiades sont 7 filles d'Atlas et d'Hesperie qui furent enlevées par le roi d'Egypte Busiris.
+            Hercule les délivra mais, persécutées ensuite par Orion, elles furent changées en une constellation composée de 7 étoiles appuyées sur l'épaule
+            du Taureau. Leur lever (22 avril-10 mai) annonçait la belle saison et leur coucher (20 octobre - 11 novembre) la mauvaise.
+      \item Qu'est-ce que les Hyades ? : Les Hyades sont des filles d'Atlas qui moururent de désolation de la mort de leur frère Hyas,
+            tué à la chasse, et furent changées en une constellation de cinq ou sept étoiles appuyées sur la tête du Taureau. Leur lever avait
+            lieu entre le 16 mai et le 9 juin, et leur coucher, entre le 2 et le 14 novembre.
+      \item Qu'est-ce que la claire Arctos ? Son histoire ? : Callisto, fille de Lycaon, fut changée en Ourse par Junon
+            et mise au ciel par Jupiter où elle forme la constellation de la Grande Ourse, qui guidait les navigateurs.
+            Il s'agit de l'étoile la plus brillant de la constellation du Bouvier (Proche de la Grande Ourse)
+      \item Qui est Lycaon ? : Lycaon est un roi d'Arcadie.
+      \item Qui est Junon ? : Junon (Hera) est la soeur-épouse de Jupiter (Zeus). Elle est la plus importante des déesses de Rome,
+            reine des dieux et protectrice du mariage et de la fécondité. Elle manifeste un caractère guerrier marqué et, en tant que
+            porteuse de richesses, préside à la monnaie.
+      \item Qu'est-ce que l'épervier (pêche) ? : \img{0.4}{Epervier.jpg}{Epervier}{23}
+      \item Qu'est-ce qu'un chalut ? ; \img{0.3}{Chalut.jpg}{Chalut}{24}
+            \newpage
+      \item Qu'est-ce que les coins (pour fendre le bois) ? : Instrument métallique qui a une extrémité en biseau et dont on se sert pour fendre ou assujettir.
+            \img{0.5}{Coin.jpg}{Coin}{25}
+      \item \cit Tous les obstacles furent vaincus par un travail acharné et par le besoin pressant en de dures circonstances.
+\end{enumerate}
+
+
+p $47 - 54$
+
+
+\begin{enumerate}
+      \item Qu'est-ce qu'un arbouse ? : L'arbouse est le fruit d'un genre d'arbres et d'arbustes aux feuilles toujours vertes, appelé arbousier.
+            Si son apparence extérieure est proche de la fraise, l'arbouse a une saveur légèrement aigre, et sert à faire des boissons alcoolisées.
+      \item Où est Dodone ? :
+            \img{0.3}{Dodone.png}{Dodone}{26}
+      \item Quelle est la particularité de la ville de Dodone ? : Ses chênes prédisaient l'avenir.
+      \item Qu'est-ce que la nielle pernicieuse ? : Nom de différentes maladies des céréales causées soit par l’anguillule du blé niellé, ver de la nielle du blé Anguina tritici (Steinbuch, 1799), soit par un champignon microscopique, le charbon nu du blé (Ustilago tritici).
+      \item Qu'est-ce que âpre ? : Pénible, dur, violent.
+      \item Qu'est-ce que le bardane ? : Plante à fleurs roses qui s'accroche dans les vêtements.
+            \img{0.5}{Bardane.jpg}{Bardane}{27}
+      \item Qu'est-ce que le tribule ? : Espèce de plante annuelle très velue à tiges rampantes, à feuilles paripennées, à fleurs jaunes, et aux fruits étoilés épineux.
+            \img{0.5}{Tribule.jpg}{Tribule}{28}
+      \item Qu'est-ce que l'ivraie ? : Graminée sauvage qui est nuisible pour la pousse des céréales.
+            \img{0.5}{Ivraie.jpg}{Ivraie}{29}
+      \item Qu'est-ce que la serpe ? : Outil plat et tranchant dont la lame est recourbée.
+            \img{0.5}{Serpe.jpg}{Serpe}{30}
+      \item Qu'est-ce que élaguer ? : Dépouiller un arbre de ses branches superflues.
+      \item Qu'est-ce que les rouleaux (agriculture) ? : Il s'agit de lourds plateaux à roues, garnis par-dessous de dents de fer ou de silex.
+      \item Qu'est-ce que les traîneaux (agriculture) ? : Il s'agit de plateaux sans roues qui passaient derrière les rouleaux pour achever leur ouvrage.
+      \item Qu'est-ce que vil ? : Vil est un adjectif utilisé pour parler d'une personne ou d'un acte méprisable ou inqualifiable.
+      \item Qui est Célée ? : Roi d'Eleusis, père de Triptolème.
+      \item Qu'est-ce que les claies ? : Treillage utilisé comme clôture.
+      \item Qu'est-ce que l'arbousier ? : Arbre méditerranéen de petite taille qui produit des baies rouges comestibles principalement employées pour la confection de liqueurs et de confitures.
+      \item Qu'est-ce que le van mystique d'Iacchus ? : Il s'agit d'un panier d'osier qui sépare la balle du grain. C'était un symbole
+            de purification qui figurait aux fêtes d'Eleusis en l'honneur de Bacchus (Iacchus).
+      \item Qu'est-ce qu'un age (ou queue de boeuf) ? : Il s'agit de la partie centrale de la charrue ancienne, recourbée à l'une de ses extrémités.
+      \item Qu'est-ce qu'un timon ? : Le timon est une longue pièce de bois ou de métal située à l'avant-train d'un véhicule ou d'un instrument agricole et à laquelle on attelle une ou plusieurs bêtes de trait ou un tracteur.
+      \item Qu'est-ce qu'un oreillon ? : Partie latérale, souvent saillante, d'un objet.
+      \item Qu'est-ce qu'un sep ? : Le sep continue l'age et porte le soc à son extrémité antérieure.
+      \item Qu'est-ce qu'un tilleul ? : Arbre aux fleurs odorantes blanches ou jaunes.
+      \item Qu'est-ce que le joug ? : Pièce de bois que l'on met sur la tête des boeufs afin de les atteler.
+      \item Qu'est-ce qu'un hêtre ? : \img{0.5}{Hetre.jpg}{Hêtre}{31}
+      \item Qu'est-ce que altier ? : Noble, orgueilleux, grand.
+      \item Qu'est-ce que l'aire ? : Place qu’on a unie et préparée pour y battre les grains.
+      \item Qu'est-ce qu'un charançon ? : \img{0.5}{Charançon.jpg}{Charançon}{32}
+      \item Qu'est-ce que l'amandier ? : Arbre de l'amande. \img{0.5}{Amandier.jpg}{Amandier}{33}
+            \newpage
+      \item Qu'est-ce que le nitre ? : Il s'agit du carbonate de soude.
+      \item Qu'est-ce que le marc noir ? : Résidu des fruits que l'on a pressés pour en extraire le jus.
+      \item Qu'est-ce que péricliter ? : Décliner, aller vers la ruine.
+      \item Qu'est-ce que l'esquif ? : Esquif désigne une frêle et petite embarcation, un navire de fortune.
+      \item Qu'est-ce que le temps des Chevreaux ? : Il s'agit du temps des équinoxes (25 avril et 27 septembre).
+      \item Qu'est-ce que le Serpent lumineux ? : Il s'agit d'une constellation aussi appelée l'Hydre, qui annonce les tempêtes.
+      \item Qu'est-ce que les passes ostréifères d'Abydos ? : Il s'agit des Dardanelles actuelles. Dans cette région, les anciens y ramassaient
+            des quantités abondantes d'huîtres et de coquillages.
+            \img{0.4}{Dardanelles.png}{Dardanelles}{34}
+      \item Qu'est-ce que la Balance ? : Septième signe du Zodiaque, correspond à l'équinoxe d'automne.
+      \item Pourquoi dit-on le pavot de Cérès ? : Le pavot était consacré à Cérès, dont il ornait la couronne, parce qu'il avait procuré
+            à la déesse le sommeil et l'oubli, lors du douloureux enlèvement de sa fille Proserpine.
+      \item Qu'est-ce que la médique ? : Il s'agit de la luzerne (La luzerne est une plante fourragère. Riche en protéine, la luzerne est utilisée à
+            travers le monde comme fourrage pour le bétail.) importée de Perse en Grèce, au temps des guerres médiques.
+      \item Qu'est-ce que le millet ? : Nom usuel de plusieurs céréales à très petits grains, cultivées dans des milieux défavorisés comme le Sahel.
+      \item Quand le soleil entrait dans le Taureau ? : Le 17 avril, mois où le printemps ouvre la terre et les fleuves.
+      \item Pourquoi le Taureau au cornes dorées ? : Une étoile scintille sur chacune des cornes du Taureau.
+      \item Quand le Chien se couche-t-il ? : Le Chien se couche quand le Taureau se lève.
+      \item Qu'est-ce que les Atlantides Aurorales ? : Il s'agit des Pléiades.
+      \item Qu'est-ce que l'étoile de Gnosse à l'ardente Couronne ? : On croyait que la constellation de la Couronne était la couronne d'Arianne,
+            fille de Minos, roi de Crète, et résidant à Gnosse. Elle se retire le 9 novembre.
+      \item Qui est Maia ? : C'est l'une des sept Pléiades.
+      \item Qu'est-ce que la vile faséole ? : Il s'agit du pois "mange-tout".
+      \item Où est Péluse ? : \img{0.3}{Péluse.png}{Péluse}{35}
+      \item Qu'est-ce que les \textcolor{red}{douze astres du monde} ? : Il s'agit des douze signes du Zodiaque : Bélier (Minerve), Taureau (Vénus), Gémeaux (Apollon),
+            Cancer (Mercure), Lion (Jupiter), Vierge (Cérès), Balance (Vulcain), Scorpion (Mars), Sagitaire (Diane), Capricorne (Vesta), Verseau (Junon), Poisson (Neptune).
+      \item Quelles sont les 5 zones qui embrasent le ciel ? : Il s'agit de la zone torride, des deux zones tempérées, et des deux zones glaciales.
+      \item De combien est incliné le Zodiaque sur l'équateur ? : Le Zodiaque est incliné de $23$°$5$ sur l'équateur.
+      \item Où est la Scythie ? :
+            \img{0.5}{Scythie.png}{Scythie}{36}
+      \item Qu'est-ce que les Riphées ? : Les Monts Riphées sont une chaîne de montagnes, à caractère plus ou moins mythique,
+            que les Grecs plaçaient vaguement en Scythie, et qu’ils éloignaient de plus en plus à mesure qu’ils acquéraient des
+            connaissances plus étendues.
+      \item Qu'est-ce que les Mânes ? : Dans l'Antiquité, âmes des morts.
+      \item Qu'est-ce que l'immense Serpentaire ? : Il s'agit du Dragon (la constellation du pôle Nord).
+      \item Qui est Vesper ? : Vesper ou Hespéros brille le soir à l'occident avec tout l'éclat dont resplendit Lucifer aux
+            premières lueurs du jour. Frère de Japet et frère d'Atlas, Vesper habitait avec son frère une contrée située à l'ouest
+            du monde et nommée Hespéritis. En Grèce, le mont Œta lui était consacré.
+      \item Qu'est-ce que perfide ? : Fourbe et mauvais dans son caractère ou les actions entreprises à mauvais escient et
+            dans le seul but d’obtenir un profit personnel au détriment de la morale et des valeurs des autres.
+      \item Qu'est-ce que des nacelles ? : Sert de panier à vendange.
+      \item Qu'est-ce que les \textcolor{red}{échalas} ? : Pieu servant à soutenir un pied de vigne ou autre arbuste.
+      \item Qu'est-ce que les liens d'Amérie ? : Liens faits de branchettes de saule. Le saule abandait en Amérie, en Ombrie.
+            \img{0.4}{Amerie.png}{Amerie}{37}
+      \item Qu'est-ce qu'une pierre incuse ? : Il s'agit d'une pierre de meule. Cylindre plat en pierre servant à écraser ou à broyer.
+      \item Qu'est-ce que les poix noirs ? : \img{0.5}{poix noirs.jpg}{Poix noirs}{38}
+\end{enumerate}
+
+
+p $54 - 69$
+
+\begin{enumerate}
+      \item Qu'est-ce que le cinquième jour ? : Il s'agit du jour de la stérile Minerve, jour néfaste.
+      \item Qui est Orcus ? : C'est le Dieu de la mort, assimilé à Pluton.
+      \item Qu'est-ce que les Euménides ? : Ce sont les furies, filles de Pluton et de Proserpine.
+      \item Qui est Cée et Janet ? : Ce sont des Titans.
+      \item Qui est Typhée ? : Il s'agit de Typhon. Fils de Tartare et de la Terre (Gaïa)
+      \item Qui sont Otus et Ephialte ? : Fils de Neptune et d'Iphimédie (femme d'Aloée). Ils voulurent
+            escalader le ciel et furent tués par Apollon.
+      \item Où est le mont Ossa ? : Entre le mont Pélion et le mont Olympe.
+            \img{0.4}{Monts.png}{Monts Olympe, Ossa et Pélion}{39}
+      \item Qu'est-ce que des lices ? : Ce sont des fils qui, dans le métier à tisser, embrassent et actionnent les fils de la chaîne,
+            pour faire passer la navette.
+      \item Qu'est-ce qu'une \textcolor{red}{éteule} ? : Chaume restant sur la terre après la moisson.
+      \item Qu'est-ce que la rubiconde Cérès ? : Il s'agit des épis de blé vermeils.
+      \item Qu'est-ce qu'une carène ? : Partie basse de la coque d'un navire.
+      \item Qu'est-ce qu'un rets ? : Filet, piège. Travail de corde noué en grosses mailles pour capturer du gibier ou du poisson.
+      \item Qu'est-ce qu'une \textcolor{red}{étoupe} ? : Excédent de filasse.
+      \item Qu'est-ce qu'une fronde ? : Arme de jet composée de deux liens et d'une pièce de cuir contenant un projectile.
+      \item Quelles sont les \textcolor{red}{constellations de l'automne} ? : Il s'agit de l'Arcture, des Chevreaux, de la Couronne, et du Centaure.
+      \item Qu'est-ce que l'ether ? : Espace céleste. Synonyme : Ciel, air.
+      \item Qu'est-ce que la dextre ? : Il s'agit de la main droite.
+      \item Qu'est-ce que \textcolor{red}{l'Athos} ? : Il s'agit d'un mont de macédoine.
+            \img{0.35}{Athos.png}{Mont Athos}{40}
+      \item Qu'est-ce que le \textcolor{red}{Rhodope} ? : Il s'agit de montagnes de la Thrace.
+            \img{0.4}{Rhodope.png}{Mont Rhodope}{41}
+      \item Qu'est-ce que les sommets Cérauniens ? : Il s'agit des monts Acrocérauniens "sommets de la foudre" (chaîne de l'Epire)
+            \img{0.4}{Acrocérauniens.png}{Sommets Cérauniens (Acrocérauniens)}{42}
+      \item Qu'est-ce que dru ? : En grande quantité, vigoureusement.
+      \item Pourquoi dit-on la froide étoile de Saturne ? : Saturne, étant la planète la plus éloignée du système solaire, passait
+            pour froide. Suivant la constellation où elle se trouvait, elle déchaînait de la grêle (Scorpion) ou des pluies (Capricorne).
+      \item Qu'est-ce que le \textcolor{red}{feu de Cyllène} ? : Il s'agit de Mercure, qui est né sur le mont Cyllène (auj. Ziria) en Arcadie.
+            \img{0.3}{Cyllène.png}{Cyllène}{43}
+      \item Qu'est-ce que la propitation ? : Action, rituel ou sacrifice visant à s'attirer le pardon ou la considération d'une divinité.
+      \item Qu'est-ce qu'une foulque ? :
+            \img{0.5}{Foulque.jpg}{Foulque}{44}
+      \item Qu'est-ce qu'un héron ? : \img{0.5}{Héron.jpg}{Héron}{45}
+      \item Qui est Eurus ? : Vulturnus (Eurus) est le fils d'Éos (l'Aurore) et d'Astréos. Il est la personnification du vent de l'Est,
+            l'un des quatre vents directionnels.
+      \item Qui est Zéphyr ? : Favonius (Zéphyr) est le fils d'Éos (l'Aurore) et d'Astréos. Il est la personnification du vent de l'Ouest,
+            l'un des quatre vents directionnels.
+      \item Qu'est-ce que carguer ? : Replier les voiles d'un navire à l'aide d'une cargue.
+      \item Qu'est-ce que la génisse ? : Jeune vache n'ayant pas encore eu de veau.
+      \item Pourquoi les \textcolor{red}{grenouilles chantent leur antique complainte} ? : Ovide conte que Latone, insulté par des paysans, obtint de Jupiter
+            qu'ils fussent changés en grenouilles.
+      \item L'arc-en-ciel boit l'eau ? : La croyance populaire attribuait aux arc-en-ciel le pouvoir de boire l'eau.
+      \item Qu'est-ce que le \textcolor{red}{Caystre} ? : Il s'agit d'un fleuve de Lydie.
+            \img{0.4}{Caystre.png}{Caystre}{46}
+      \item Qui est le frère de la lune ? : Il s'agit de Phébus, le soleil, à qui, selon les anciennes théories, la lune empruntait sa lumière.
+      \item Qu'est-ce qu'un alcyon ? : Oiseau mythique, d'heureux présage en mer (où il annonçait le calme des jours alcyoniens).
+      \item Qui est Nisus ? : Nisus, roi de Mégare, avait un cheveu de pourpre auquel un oracle avait attaché le sort de sa ville.
+      \item Qui est Scylla ? : Scylla, fille de Nisus, éprise de Minos, qui assiégeait la ville de Nisus, lui porta ce cheveu qu'elle avait
+            arraché à son père endormi. Minos, méprisant cette trahison, la fit attacher au gouvernail de son navire. Les Dieux la changèrent
+            en huppe et son père en aigle marin.
+      \item Qui est \textcolor{red}{Phébé} ? : Phébé est une Titanides. Elle est la mère de Latone (Léto) et épouse de son frère Céos. Elle portait une couronne d'or.
+      \item Qui est \textcolor{red}{Glaucus} ? : Glaucus, pêcheur d'Anthédon, en Béotie, ayant mangé une herbe magique, se précipita dans la mer, où il fut changé en dieu marin.
+      \item Qui est \textcolor{red}{Panopée} ? : Panopée, l'une des cinquantes filles de Nérée et de Doris, celle dont il est question dans l'Illiade.
+      \item Qui est \textcolor{red}{l'Inoen Mélicerte} ? : Mélicerte, fils d'Ino, fuyant avec sa mère son père Athamas, devenu fou furieux, s'élança avec
+            elle dans la mer, et tous deux furent changés en divinités marines : Mélicerte sous le nom grec de Palémon et latin de Portumne; Ino, sous
+            ceux de Leucothoé et de Matuta.
+      \item Qui est Notus ? : Auster (Notus) est le fils d'Éos (l'Aurore) et d'Astréos. Il est la personnification du vent du Sud,
+            l'un des quatre vents directionnels.
+      \item Qu'est-ce que crocéen ? Doré.
+      \item Qui est \textcolor{red}{Tithon} ? : Prince troyen, fils de Laomédon et frère de Priam. Il fut enlevé par l'Aurore, éprise de lui, qui eut de lui
+            deux fils, Memnon et Emathéon. Aurore l'adorait et sortait à l'aube, exténuée et pâle de sa couche. Elle obtint pour lui l'immortalité mais
+            ayant omis de demander une éternelle jeunesse, Tithon vieillit, tomba en décrépitude, et fut finalement changé en cigale.
+      \item Qu'est-ce que le \textcolor{red}{pampre} ? : Le pampre est une tige de vigne portant ses feuilles, ses vrilles et, souvent, ses grappes de raisin.
+      \item Qui est Aquilon ? : Aquilon est le dieu des vents septentrionaux (nord), froids et violents. Il est souvent confondu avec son homologue grec Borée.
+      \item Quelle est l'histoire entre le Soleil et César ? : Il est rapporté par plusieurs écrivain antiques, qu'après la mort de César, le soleil fut
+            continuellement pâle pendant presque une année.
+      \item Qu'est-ce que l'Etna ? : Il s'agit du volcan situé sur la côte orientale de Sicile. Il est rapporté qu'à la mort de César, l'Etna entra dans une
+            violente éruption.
+      \item Qu'est-ce que indicible ? : Indicible est un adjectif que l’on emploie pour signifier que l’on ne peut pas exprimer quelque chose. Synonyme ; indescriptible.
+      \item Qu'est-ce que l'airain ? : Alliage de différents métaux dont le cuivre forme la base, tel notamment le bronze.
+      \item Qu'est-ce que \textcolor{red}{l'Eridan} ? : Il s'agit du pô, le plus long fleuve d'Italie.
+            \img{0.5}{Eridan.jpg}{Eridan}{47}
+      \item Qu'est-ce que fol ? : Fou (souvent utilisé devant un substantif commençant par une voyelle).
+      \item Où est \textcolor{red}{l'Emathie} ? :
+            \img{0.3}{Emathie.png}{Emathie}{48}
+      \item Où est \textcolor{red}{l'Hémus} ? :
+            \img{0.3}{Hémus.png}{Hémus}{49}
+      \item Qu'est-ce qu'un sépulcre ? : Tombeau ou tout autre monument funéraire construit pour recevoir un défunt dont la renommée l'accompagne dans la mort.
+      \item Qui est Romulus ? : Il sagit de l'un des fondateurs de Rome.
+      \item Qui est \textcolor{red}{Vesta} ? : Vesta (Hestia), Déesse du feu, fille de Saturne (Cronos) et Cybèle (Rhéa) et soeur de Jupiter (Zeus), Neptune (Poséidon), Pluton (Hadès), Junon (Héra) et
+            Cérès (Déméter) elle symbolise le foyer de la maison, bien que le culte romain ait pris plus d’importance.
+      \item Qu'est-ce que le Tibre ? : Il s'agit du fleuve passant par Rome.
+            \img{0.5}{Tibre.jpg}{Tibre}{50} \newpage
+      \item Qu'est-ce que le Palatin ? : Il s'agit d'une colline centrale de Rome.
+      \item Qu'est-ce que les \textcolor{red}{parjures de la Troie Laomédontienne} ? La Troie Laomédontienne est la ville de Troie au temps où Laomédon y régnait.
+            Ce dernier y a commis quelques parjures envers les Dieux. Pour la construction de la ville de Troie, il a promis à Apollon et à Neptune une récompense
+            qu'il refusa de payer une fois la ville construite et manqua de récompenser Hercule de la somme promise pour la délivrance de sa fille Hésione.
+      \item Qu'est-ce qu'un guéret en friche ? : Terre abandonnée, vierge ou en état d'inculture. Territoire ou terrain qui n'est pas peuplé par les Hommes.
+      \item Qu'est-ce qu'une faulx ? : Variante orthographique ancienne de faux, l'outil manuel utilisé en agriculture et en jardinage pour faucher l’herbe et récolter les céréales.
+      \item Où est l'Euphrate ? : \img{0.5}{Euphrate.jpg}{Euphrate}{51}
+      \item Qu'est-ce que impie ? : Qui ne respecte pas certaines valeurs communément admises.
+      \item Qu'est-ce qu'un quadrige ? : Char à deux roues et attelé par quatre chevaux utilisé dans l'Antiquité.
+      \item Qu'est-ce qu'un cocher ? : Personne qui conduit une voiture à cheval.
+      \item Qu'est-ce qu'une bride ? : Partie du harnais d'un cheval qui sert à le diriger.
+\end{enumerate}
+
+
+
+\section{Livre 2 - Les arbres et la vigne}
+
+p $73 - 79$
+
+\begin{enumerate}
+      \item Qui est le père Lénéen ? : Il s'agit d'un surnom de Bacchus "père des pressoirs".
+      \item Qu'est-ce que s'empourprer ? : Donner une teinte pourpre.
+      \item Qu'est-ce que écumer ? : Se couvrir d'écume.
+      \item Qu'est-ce que le cothurne ? : Sorte de chaussure montante que portaient les
+            anciens Grecs, entourant le pied et une partie du mollet.
+      \item Qu'est-ce que le \textcolor{red}{moût} ? : Jus de raisin non fermenté.
+      \item Qu'est-ce que le genêt ? :
+            \img{0.5}{genet.jpg}{Genêt}{52}
+            \newpage
+      \item Qu'est-ce que le \textcolor{red}{saulaie} ? :
+            \img{0.5}{saulaie.jpg}{Saulaie}{53}
+      \item Qu'est-ce que le rouvre ? : Sorte de chêne.
+            \img{0.5}{rouvre.jpg}{Rouvre}{54}
+      \item Qu'est-ce que les \textcolor{red}{frondaisons} ? : Feuillage ou époque du feuillage des arbres.
+      \item Qu'est-ce que pulluler ? : Proliférer, se multiplier rapidement.
+      \item Qu'est-ce que \textcolor{red}{l'orme} ? :
+            \img{0.5}{orme.jpg}{Orme}{55}
+      \item Qu'est-ce qu'un \textcolor{red}{scion} ? : Scion est un terme tiré du vocabulaire de l’horticulture et
+            qui désigne une branche souple fraichement poussée.
+      \item Qu'est-ce que effilé ? : Mince et allongé.
+      \item Qu'est-ce qu'une \textcolor{red}{bouture} ?  : Fragment d'un végétal mis en terre pour faire une nouvelle pousse.
+      \item Qu'est-ce que le marcottage ? : Technique d'horticulture consistant à enterrer la partie aérienne
+            d'un végétal afin qu'elle développe ses propres racines.
+      \item Qu'est-ce qu'un émondeur ? : Personne qui s'occupe de couper les branches d'un arbre ou d'un arbuste.
+      \item Qu'est-ce qu'un rameau ? : Petite branche d'arbre.
+      \item Qu'est-ce que la cornouille ? : Comparable, sur la forme, à une olive, et, au goût, à une cerise,
+            la cornouille est une baie bien connue des amateurs de confitures et de gelées.
+      \item Où est \textcolor{red}{l'Ismare} ? :
+            \img{0.3}{Ismare.png}{Mont Ismare}{56}
+      \item Où est le \textcolor{red}{Taburne} ? :
+            \img{0.3}{Taburne.png}{Mont Taburne}{57}
+      \item Qu'est-ce qu'un ambage ? : Terme qui définit un détour dans des paroles montrant un certain embarras de la
+            part de l'interlocuteur.
+      \item Qu'est-ce qu'un exorde ? : Première partie d'un discours.
+      \item Qu'est-ce que en pépinière ? : Lieu où sont cultivés de jeunes arbres destinés à être replantés.
+      \item Qu'est-ce que les tronçons ? : Partie d'une route.
+      \item Qu'est-ce que les \textcolor{red}{provins} ? : Rejet de vigne qui se développe et prend racine en terre à partir de la plante mère.
+      \item Qu'est-ce que la Paphéenne ? : Il s'agit de Vénus, honorée de deux temples dans la ville de Paphos à Chypre.
+      \item Qu'est-ce que le \textcolor{red}{surgeon} ? : Rejeton qui pousse au pied d'un arbre.
+      \item Qu'est-ce qu'un coudrier ? : Il s'agit du noisetier.
+            \img{0.5}{coudrier.jpg}{Coudrier}{58}
+            \newpage
+      \item Qu'est-ce qu'un frêne ? :
+            \img{0.5}{frene.jpg}{Frêne}{59}
+      \item Quel est \textcolor{red}{l'arbre ombreux dont Hercule se tressa une couronne} ? : Il s'agit du peuplier blanc. Pluton, ayant aimé l'Océanide
+            Leucé, fit naître après sa mort sur les bords de l'Achéron un arbre blanc appelé leucé, des feuilles duquel Hercule se couronna
+            à sa sortie des Enfers.
+      \item Qui est le père \textcolor{red}{Chaonien} ? : Il s'agit de l'Oracle de Jupiter à Dodone en Chaonie.
+      \item Qu'est-ce que \textcolor{red}{enter} ? : Greffer / Assembler.
+      \item Qu'est-ce que le platane ? :
+            \img{0.5}{platane.jpg}{Platane}{60}
+      \item Qu'est-ce que \textcolor{red}{l'orne} ? :
+            \img{0.5}{orne.jpg}{Orne}{61}
+            \newpage
+      \item Qu'est-ce que greffer en fente ? :
+            \img{1.5}{greffe en fente.jpeg}{Greffe en fente}{62}
+      \item Qu'est-ce que greffer en écusson ? :
+            \img{2.5}{greffe en ecusson.jpeg}{Greffe en écusson}{63}
+      \item Qu'est-ce qu'une \textcolor{red}{tunique} (arbre) ? : Enveloppe qui protège certains végétaux.
+      \item Qu'est-ce que le \textcolor{red}{liber} ? : Tissu végétal situé entre l'écorce et le bois d'un arbre.
+      \item Pourquoi le \textcolor{red}{liber humide} ? : Le liber est humide du suc nommé cambium, situé entre l'écorce et l'aubier.
+      \item Qu'est-ce que \textcolor{red}{l'aubier} ? : L'aubier est la partie de l’arbre se situant entre le bois de cœur ou duramen et le cambium.
+      \item Qu'est-ce que \textcolor{red}{l'orchade} ? : Il s'agit d'un olivier au fruit ovale et tendre et assez huileux.
+      \item Qu'est-ce que \textcolor{red}{le verge} ? : Il s'agit d'un olivier au fruit très allongé.
+      \item Qu'est-ce que \textcolor{red}{la pausie} ? : Il s'agit d'un olivier au fruit très charnu et très huileux.
+      \item Qui est \textcolor{red}{Alcinoüs} ? : Il s'agit du roi de Phéacie célèbre dans l'Odyssée.
+      \item Où est Crustumium ? :
+            \img{0.4}{crustumium.png}{Crustumium}{64}
+      \item Où est \textcolor{red}{Lesbos} ? :
+            \img{0.4}{Lesbos.png}{Lesbos}{65}
+            \newpage
+      \item Qu'est-ce que \textcolor{red}{le sarment} ? : Rameau de vigne.
+      \item Où est le \textcolor{red}{Méthymne} ? :
+            \img{0.4}{Methymne.png}{Méthymne}{66}
+      \item Où est \textcolor{red}{Thasos} ? :
+            \img{0.4}{Thasos.png}{Thasos}{67}
+      \item Où est \textcolor{red}{Maréotis} ? :
+            \img{0.4}{Mareotis.png}{Maréotis}{68}
+      \item Qu'est-ce que le \textcolor{red}{Psithie} ? : Il s'agit du vin grec.
+      \item Qu'est-ce que le \textcolor{red}{Lagéos} ? : Il s'agit d'un vin roux, couleur de lièvre, produit en Crète.
+      \item Qu'est-ce que purpurine ? : Pourpre, teinture rouge légèrement violacée d'origine animale. Couleur intense
+            et profonde et symbole littéraire de la richesse et du pouvoir. Teinture rouge sombre utilisée dans les
+            civilisations anciennes.
+      \item Qu'est-ce que le \textcolor{red}{Rhétique} ? : Il s'agit d'un vin renommé aux environs de Vérone. Auguste l'appréciait beaucoup.
+      \item Qu'est-ce que le \textcolor{red}{Falerne} ? : Il s'agit du vin le plus renommé (avec le Cécube) des vins latins; on le récoltait au pied
+            du mont Massique, en Campanie.
+      \item Où est \textcolor{red}{Aminée} ? : Pas loin de Naples.
+      \item Qu'est-ce que le \textcolor{red}{Phanée} ? : Vignoble d'un promontoire de l'île de Chio.
+      \item Qu'est-ce que l'Argitis ? : Sans doute un vignoble d'Argos.
+      \item Où est Rhodes ? :
+            \img{0.5}{Rhodes.png}{Rhodes}{69}
+      \item Quelle est la particularité du vin de Rhodes ? : Ce vin était employé pour les libations aux dieux, qui étaient faites
+            au second service.
+      \item Qu'est-ce que le Bumaste ? : Il s'agit d'un raisin à gros grains.
+\end{enumerate}
+
+p $79 - 85$
+
+
+\begin{enumerate}
+      \item Qu'est-ce que \textcolor{red}{l'aulne} ? :
+            \img{0.5}{Aulne.jpg}{Aulne}{70}
+      \item Qu'est-ce que bourbeux ? : Se dit de quelque chose ou d'un site qui est plein de bourbe. Concrètement, l'adjectif
+            bourbeux décrit un endroit envahi d'une boue noire et épaisse, que l'on trouve souvent au fond de mares et autres eaux
+            stagnantes.
+      \item Qu'est-ce que le if ? :
+            \img{0.4}{If.jpg}{If}{71}
+            \newpage
+      \item Qui sont les \textcolor{red}{Gélons} ? : Il s'agit d'un peuple de scythe, à l'ouest du Borysthène (le Dnieper actuel); ils étaient tatoués,
+            comme beaucoup de peuples barbares, qui se peignaient le corps pour effrayer leurs ennemis.
+      \item Qu'est-ce que bariolé ? : Aux couleurs vives et variées.
+      \item Qu'est-ce que \textcolor{red}{l'ébénier} ? :
+            \img{0.5}{Ebenier.jpg}{Ebénier}{72}
+      \item Qu'est-ce que \textcolor{red}{l'acanthe} ? :
+            \img{0.4}{Acanthe.jpg}{Acanthe}{73}
+      \item Qu'est-ce que le mol duvet ? : Il s'agit du coton.
+      \item Qui sont les Sères ? : Ce sont les Chinois.
+      \item Où est la \textcolor{red}{Médie} ? :
+            \img{0.4}{Medie.png}{Royaume de Médie}{74}
+      \item Qu'est-ce que la \textcolor{red}{pomme salutaire du Médie} ? : Il s'agit du citron.
+      \item Où est le Gange ? :
+            \img{0.5}{Gange.jpg}{Gange}{75}
+      \item Qu'est-ce que l'\textcolor{red}{Hermus} ? : Dieu-fleuve associé au Gediz, dans la mythologie grecque.
+            \img{1}{Gediz.png}{Gediz}{76}
+      \item Où est Bactres ? :
+            \img{0.5}{Bactres.png}{Bactres}{77}
+      \item Qu'est-ce que le Panchaïe ? : Il s'agit d'une archipelle probablement imaginaire évoquée par Evhémère de Messène à la
+            charnière du \rb{4}$^e$ et du \rb{3}$^e$ siècle av. J.-C.
+      \item Qu'est-ce que le \textcolor{red}{taureau soufflant du feu} ? : Il s'agit d'une allusion aux légendes de Jason : soumis par le roi de Colchide à
+            une épreuve pour obtenir la Toison d'or, Jason se vit forcé d'atteler à une charrue deux taureaux soufflant du feu par leurs naseaux.
+      \item Qu'est-ce que le \textcolor{red}{Massique} ? : Le Massique est un vin de qualité produit en Campanie dans l'Antiquité.
+      \item Qu'est-ce que belliqueux ? : Qui cherche la bagarre ou les querelles, qui aime la guerre.
+      \item Où est le \textcolor{red}{Clitumne} ? : Le Clitumne (latin Clitumnus ; italien Clitunno) est une rivière italienne, qui traverse
+            l'Ombrie, dans la province de Pérouse, et se jette dans le Topino, affluent du Tibre.
+      \item Quel est la \textcolor{red}{croyance ancienne à propos du Clitumne} ? : Les anciens croyaient que ses eaux cristallines blanchissaient
+            le poil des animaux qui s'y baignaient.
+      \item Qu'est-ce que les \textcolor{red}{aconits} ? :
+            \img{0.5}{Aconit.jpg}{Aconit}{78}
+            \newpage
+      \item Où est la mer Adriatique et la mer Tyrrhénienne ? :
+            \img{0.3}{Mer Adriatique et Tyrrhénienne.jpg}{Mer Adriatique et Tyrrhénienne}{79}
+      \item Où est le \textcolor{red}{Larius} ? :
+            \img{0.3}{Come.png}{Lac de Côme ou Larius}{80}
+      \item Où est le \textcolor{red}{Benacus} ? :
+            \img{0.3}{Garde.png}{Lac de Garde ou Benacus}{81}
+            \newpage
+      \item Où est le \textcolor{red}{Lucrin} ? :
+            \img{0.3}{Lucrin.png}{Lac de Lucrin}{82}
+      \item Où est l'\textcolor{red}{Averne} ? :
+            \img{0.3}{Averne.png}{Lac d'Averne}{83}
+      \item Qu'est-ce que les \textcolor{red}{Marses} ? : Peuple belliqueux établi autour du lac Fucin (aujourd'hui lac asséché de Celano).
+            \img{0.3}{Celano.png}{Lac Fucin (ou asséché de Celano)}{84}
+      \item Qu'est-ce que les \textcolor{red}{Sabelliens} ? : Les Sabelliens, peuple de la Sabine auquel appartenaient les Marses susnommés.
+      \item Qu'est-ce que le \textcolor{red}{Ligure} ? : Habitant du golfe actuel de Gênes.
+            \img{0.3}{Gênes.png}{Golfe de Gênes}{85}
+            \newpage
+      \item Qu'est-ce que les \textcolor{red}{Volsques} ? : Il s'agit d'un peuple de Latium.
+            \img{0.3}{Latium.png}{Latium}{86}
+      \item Qu'est-ce que les \textcolor{red}{Décius} ? : Il s'agit d'une dynastie d'empereurs romains.
+      \item Qu'est-ce que les \textcolor{red}{Marius} ? : Il s'agit du vainqueur de Jugurtha, et des Cimbres et des Teutons.
+      \item Qu'est-ce que les \textcolor{red}{grands Camille} ? : Camille, le vainqueur des Gaulois à l'Allia.
+      \item Qu'est-ce que les \textcolor{red}{Scipions} ? : Les deux Africains, Cornélius Scipion, le vainqueur d'Annibal à Zama, et Scipion Emilien,
+            le destructeur de Carthage.
+      \item Qu'est-ce que la terre de Saturne ? : Terre sur laquelle régna Saturne, quand, chassé du ciel, il vint se réfugier
+            en Italie et y introduisit l'âge d'or.
+      \item Que veut dire \textcolor{red}{rouvrir les fontaines sacrées} ? : Cela signifie entreprendre de nouveau à écrire de la poésie pastorale.
+      \item Qu'est-ce que le \textcolor{red}{poème d'Ascra} ? : Il s'agit du poème d'Hésiode, né à Ascra, en Béotie, intitulé Les Travaux et les Jours.
+      \item Qu'est-ce que rustique ? : Traditionnel, simple.
+      \item Qu'est-ce que la silve ? : Forêt vierge qui pousse dans les régions équatoriales. La selve est un milieu peu propice à la présence humaine.
+      \item Qu'est-ce que vivace ? : Qui est coriace, qui dure dans le temps.
+      \item Qu'est-ce que les oliveraies ? : Plantation, culture d'oliviers.
+      \item Qu'est-ce que l'Autan ? : L'année passée.
+      \item Qu'est-ce que en libation ? : Dans l'Antiquité, liquide qui était répandu sur le sol comme offrande à un dieu.
+      \item Qu'est-ce qu'\textcolor{red}{une patère} ? : Sorte de coupe ancienne pour boire.
+      \item Qu'est-ce que le gras Tyrrhénien ? : Il s'agit du joueur de flûte tyrrhénien, c'est à dire étrusque, qui s'engraissait aux
+            festins qui accompagnaient les sacrifices.
+      \item Pourquoi le gras Tyrrhénien a soufflé dans l'ivoire ? :Les flûtes étaient en ivoire ou en buis; \textcolor{red}{leur son servait à
+            empêcher qu'aucune parole funeste ne vînt troubler le sacrifice.}
+      \item Pourquoi les chèvres brûlent les cultures ? : La dent des chèvres est particulièrement funeste aux cultures.
+      \item Qu'est-ce que \textcolor{red}{Tarente} ? : Il s'agit d'un port de l'Italie méridionale.
+            \img{0.3}{Tarente.png}{Port de Tarente}{87}
+            \newpage
+      \item Qu'est-ce que l'infortunée Mantoue ? : Il s'agit d'une allusion mélancolique à la distribution des terres aux vétérans.
+      \item Où est le \textcolor{red}{Mincio} ? :
+            \img{0.4}{Mincio.png}{Cours d'eau du Mincio}{88}
+\end{enumerate}
+
+
+p $86 - 97$
+
+\begin{enumerate}
+      \item Qu'est-ce que friable ? : Qui peut facilement se réduire en poudre.
+      \item Qu'est-ce que le \textcolor{red}{serpolet} ? :
+            \img{0.5}{Serpolet.jpg}{Thym Serpolet}{89}
+      \item Qu'est-ce que le \textcolor{red}{romarin} ? :
+            \img{0.5}{Romarin.jpg}{Romarin}{90}
+      \item Qu'est-ce que le tuf ? : Le tuf est un minéral constitué par les dépôts successifs de cendres volcaniques ou de
+            calcaire. Le tuf est une roche poreuse et friable, à ne pas confondre avec le calcaire du même nom comportant du mica
+            et du quartz, qui est employé dans certaines régions pour la construction des maisons.
+      \item Où est \textcolor{red}{Capoue} ? :
+            \img{0.5}{Capoue.png}{Capoue}{91}
+      \item Où est le \textcolor{red}{Clain} ? :
+            \img{0.4}{Clain.png}{Cours d'eau du Clain}{92}
+      \item Où est \textcolor{red}{Acerre} ? :
+            \img{0.4}{Acerre.png}{Acerre}{93}
+      \item Quelle est \textcolor{red}{l'histoire des habitants d'Acerre} ? : Le Clain débordant fréquemment et dangereusement, les habitants d'Acerre,
+            qu'il traversait, durent abandonner leur ville.
+      \item Qui est Lyée ? : Il s'agit d'un surnom de Bacchus.
+      \item Qu'est-ce que les \textcolor{red}{déblais} ? : Gravats, débris ou terre que l'on retire d'un terrain.
+      \item Qu'est-ce que des entredos ? : Pas trouvé sur internet ...
+      \item Qu'est-ce que la \textcolor{red}{poix} ? : Matière molle et visqueuse obtenue avec des résines et des goudrons végétaux.
+      \item Quelle est la croyance ancienne concernant les ifs ? : Les anciens croyaient que les ifs, surtout ceux d'Espagne, recelaient
+            un certain poison, en leurs fruits, en leur bois et même en leur ombrage.
+      \item Qu'est-ce que le \textcolor{red}{vigneron} ? : Personne qui exploite la vigne et élabore le vin.
+      \item Qu'est-ce qu'un \textcolor{red}{arpent} ? : Surface peu étendue de terrain.
+      \item Qu'est-ce que les ceps ? : Pieds de vigne.
+      \item Qu'est-ce que ondoyer ? : Onduler.
+      \item \textcolor{red}{Inspiration de La Fontaine} ? : Ici, "le chêne vert surtout, dont la tête s'élève autant vers les brises éthérées
+            que sa racine s'enfonce vers le Tartare." La Fontaine, Le Chêne et le Roseau : "Celui de qui la tête au ciel était voisine/
+            Et dont les pieds touchaient à l'empire des morts."
+      \item Pourquoi ne faut-il pas planter le coudrier parmi les vignes ? : Sans doute parce que le coudrier a des racines trop
+            abondantes et trop vigoureuses, qui épuiseraient le suc de la terre. On plantait là surtout l'orme, et quelquefois le frêne
+            ou le peuplier noir.
+      \item Quel est \textcolor{red}{l'oiseau blanc qui arrive au printemps vermeil} ? : Il s'agit de la cigogne.
+      \item Pourquoi est-il dit l'oiseau blanc odieux aux longues couleuvres ? : Car la cigogne est connue pour détruire les serpents.
+      \item Qu'est-ce que le giron ? : Milieu, groupe où l'on se trouve en sécurité, mais sous l'autorité de quelqu'un.
+      \item A quel moment les grands troupeaux rappellent Vénus ? : A la saison des amours.
+      \item Qu'est-ce qu'un \textcolor{red}{tesson} ? : Débris de verre ou de poterie, morceau qui s'est créé suite à un bris.
+      \item Qu'est-ce que fendiller ? : Produire de petites fentes à quelque chose, causer des gerçures, de petites ouvertures
+            étroites et longues.
+      \item Qu'est-ce qu'un \textcolor{red}{bident} ? : Hoyau à deux dents, d'environ trois pieds.
+      \item Qu'est-ce que \textcolor{red}{récalcitrant} ? : Qui résiste avec entêtement.
+      \item Qu'est-ce que la tendreté ? : Relatif à ce qui est encore jeune, tendre.
+      \item Qu'est-ce que émonder ? : Ôter les branches inutiles ou nuisibles.
+      \item Qu'est-ce que \textcolor{red}{l'exubérance} ? : Abondance, développement excessif, trop grande richesse. Synonyme : luxuriance.
+      \item Qu'est-ce qu'un \textcolor{red}{outrage} ? : Préjudice physique ou moral qui porte atteinte à un individu, à un idéal ou à une opinion.
+      \item Qu'est-ce que repaître ? : Repaître est un verbe signifiant rassasier, assouvir la faim, nourrir.
+      \item Qui sont les Thésides ? : Il s'agit des Athéniens. Ils sont appelés ainsi car le roi Thésée avait réuni en une seule cité
+            les douzes bourgades qui formèrent Athènes.
+      \item Comment était la \textcolor{red}{comédie à ses débuts} ? : La comédie est à ses débuts une promenade de gens ivres à travers les cantons, "comés", d'un pays.
+      \item Qu'est-ce qu'une \textcolor{red}{rasade} ? : Verre d'alcool, ou de n'importe quel autre liquide, qui a pour caractéristique d'être rempli jusqu'aux bords.
+      \item Qu'est-ce qu'une \textcolor{red}{outre} ? : Sac cousu à partir de peau de bête et utilisé comme récipient d'eau.
+      \item Quel est le \textcolor{red}{jeu qui consistait à sauter dans les molles prairies par-dessus des outres huilées} ? : Ce jeu accompagnait les fêtes de
+            Dionysos et consistait à sauter à cloche-pied sur des outres huilées et à s'y maintenir en équilibre. Le gagnant recevait en prix une outre pleine de vin.
+      \item Qui sont les \textcolor{red}{Ausoniens} ? : Peuple de la côte occidentale de l'ancienne Italie : les poètes donnent souvent le nom
+            d'Ausonie à toute l'Italie.
+      \item Qu'est-ce que \textcolor{red}{fescennin} ? : Qui appartient à un genre de poésie satirique, généralement grossière et licencieuse.
+      \item Qu'est-ce que l'allégresse ? : Joie très vive exprimée ouvertement.
+      \item Pourquoi suspendait-on des figurines d'argiles ? : Ces figurines étaient des masques de Bacchus, accrochées en son
+            honneur. La partie du verger ou de la vigne vers laquelle était dirigée la face du dieu portait, croyait-on, un plus grand
+            nombre de fruits.
+      \item Qu'est-ce qu'un vallon ? : Petite vallée, val, petit ravin avec un cours d'eau qui coule entre deux coteaux resserrés.
+      \item Qu'est-ce que la dent recourbée de Saturne ? : Il s'agit de la serpe, attribut du dieu qui enseigna aux Romains l'art
+            de tailler la vigne.
+      \item Qu'est-ce que le \textcolor{red}{rebut} ? : Ce qu'il y a de mauvais, ce qu'on jette après un tri, ce qui est destiné à aller à la poubelle.
+      \item Qu'est-ce que le \textcolor{red}{houx} ? :
+            \img{0.5}{Houx.jpg}{Houx}{94}
+      \item Pourquoi la vigne doit craindre Jupiter ? : Jupiter est aussi le Dieu de la pluie et de la grêle.
+\end{enumerate}
+
+p $98 - 105$
+
+
+
+\begin{enumerate}
+      \item Qu'est-ce qu'un \textcolor{red}{fourré} ? : Endroit épais et touffu d'un bois.
+      \item Qu'est-ce qu'un \textcolor{red}{cytise} ? : Arbuste aux fleurs en grappes jaunes. Cette plante appartient à la famille des légumineuses.
+            \img{0.5}{Cytise.jpg}{Cytise}{95}
+      \item Où est le \textcolor{red}{Cytore} ? :
+            \img{0.3}{Cytore.png}{Cytore}{96}
+      \item Qu'est-ce que le buis ? : Arbrisseau toujours vert, dont le bois est dur.
+            \img{0.5}{Buis.jpg}{Buis}{97}
+            \newpage
+      \item Où est \textcolor{red}{Naryce} ? : 
+            \img{0.3}{Naryce.png}{Naryce}{98}
+      \item Qu'est-ce qu'un tympan ? :
+      \item Qu'est-ce que pansue ? :
+      \item Qu'est-ce que le cornouiller ? :
+      \item Où est l'Iturée ? :
+      \item Qu'est-ce que les arcs Ituréens ? : Il s'agit des arcs dont se servaient les habitants pillards de l'Iturée.
+      \item Qu'est-ce que l'aulne léger lancé dans le Pô ? : Il s'agit de barques que l'on fabriquait avec les aulnes de la rive.
+      \item Qu'est-ce qu'une yeuse ? :
+      \item Qui conta la mort des Centaures furieux (Ivres de vin) ? : Il s'agit d'Ovide.
+      \item Qui est Rhétus ? :
+      \item Qui est Pholus ? :
+      \item Qui est Hylée ? :
+      \item Qui sont les Lapithes ? :
+      \item Qu'est-ce qu'un cratère ? : Il s'agit d'un vase où l'on mélangeait l'eau au vin. Certains étaient assez grands pour
+            qu'un homme pût se cacher derrière.
+      \item Quelle incrustation recevaient les romains riches ? :
+      \item Qu'est-ce que l'Ephyré ? :
+      \item Où est l'Assyrie ? :
+      \item Qu'est-ce que le Tempé ? :
+      \item Qu'est-ce que la Justice ? : Il s'agit de la Vierge Justitia qui monta au ciel pour former la constellation de l'Astrée.
+      \item Qu'est-ce que veuiller ? :
+      \item Qu'est-ce que le ciste mystique ? :
+      \item Pourquoi un sang froid coule autour du coeur ? : Empédocle fait du sang qui avoisine le coeur le siège de la pensée.
+            Plus ce dernier est froid, plus l'intelligence est faible.
+      \item Où est le Sperchéus ? :
+      \item Où est le Taygète ? :
+      \item Où est la Laconie ? :
+      \item Qu'est-ce que les bacchanales ? :
+      \item Qu'est-ce que l'Achéron ? :
+      \item Qu'est-ce que les faisceaux du peuple ? : Il s'agit d'un assemblage de baguettes d'orme ou de bouleau, liées par des bandelettes,
+            les faisceaux, que portaient les licteurs, étaient le symbole de l'imperium populaire, c'est-à-dire des diverses magistratures
+            confiées par le peuple (dictature, consulat, préture, questure).
+      \item Qu'est-ce qu'un licteur ? :
+      \item Qu'est-ce qu'une préture ? :
+      \item Qu'est-ce qu'une questure ? :
+      \item Qu'est-ce que la pourpre ? :
+      \item Qui sont les frères sans foi ? : Il s'agit de deux frères, Tiridate et Phraate , se disputant le trône de Parthes.
+      \item Qu'est-ce que le Dace ? : Ce sont les habitants de la région de l'actuelle Transylvanie et de la Moldavie. Les Daces
+            inquiétaient les Romains, et en $34$, Octave attaqua leurs voisins, les Pannoniens; en $29$, Crassus, soumit une partie
+            des Gètes, leurs autres voisins.
+      \item Où est l'Ister ? :
+      \item Quels sont les royaumes destinés à périr ? : Ce sont ceux qui luttent contre Rome.
+      \item Quels sont les archives du peuple ? : Il s'agit des archives des actes civils, dans le temple de Saturne, sur le forum.
+      \item Qu'est-ce qu'un pénate ? :
+      \item Où est Sarra (aujourd'hui Sour ou Sar) ? :
+      \item Qu'est-ce qu'un rostre ? :
+      \item Qu'est-ce que sustenter ? :
+      \item Où est Sicyone ? :
+      \item Qu'est-ce que la baie de Sicyone ? : Il s'agit de l'olive.
+      \item Qu'est-ce que la pudicité ? :
+      \item Qu'est-ce que palestre ? :
+      \item Qu'est-ce qu'un Sabin ? :
+      \item Qu'est-ce que l'Etrurie ? :
+      \item Quelles sont les sept collines de Rome ? : Il s'agit de l'Aventin, du Capitole, du Célius, de l'Esquilin, du Palatin,
+            du Quirinal et du Viminal.
+      \item Qu'est-ce que le roi du Dicté ? : Il s'agit de Jupiter, nourri sur le mont Dicté, en Crète.
+      \item Pouquoi Saturne d'or ? : Car Saturne est le roi de l'âge d'or.
+      \item Qu'est-ce qu'un clairon ? : 
+\end{enumerate}
+
+\section{Livre 3 - Les Troupeaux}
+
+\end{document}

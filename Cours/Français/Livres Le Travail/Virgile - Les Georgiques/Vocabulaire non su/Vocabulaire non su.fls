@@ -1,0 +1,439 @@
+PWD /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Vocabulaire non su.tex
+OUTPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Vocabulaire non su.log
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm
+INPUT /usr/share/texmf/tex/latex/lm/lmodern.sty
+INPUT /usr/share/texmf/tex/latex/lm/lmodern.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/esvect/esvect.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/esvect/esvect.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ntheorem/ntheorem.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ntheorem/ntheorem.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ntheorem/ntheorem.std
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ntheorem/ntheorem.std
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/romanbar/romanbar.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/romanbar/romanbar.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Vocabulaire non su.aux
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Vocabulaire non su.aux
+OUTPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Vocabulaire non su.aux
+INPUT /usr/share/texmf/tex/latex/lm/t1lmr.fd
+INPUT /usr/share/texmf/tex/latex/lm/t1lmr.fd
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+OUTPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Vocabulaire non su.pdf
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr17.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr12.tfm
+INPUT /usr/share/texmf/tex/latex/lm/ot1lmr.fd
+INPUT /usr/share/texmf/tex/latex/lm/ot1lmr.fd
+INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmr12.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmr8.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmr6.tfm
+INPUT /usr/share/texmf/tex/latex/lm/omllmm.fd
+INPUT /usr/share/texmf/tex/latex/lm/omllmm.fd
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmmi12.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmmi8.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmmi6.tfm
+INPUT /usr/share/texmf/tex/latex/lm/omslmsy.fd
+INPUT /usr/share/texmf/tex/latex/lm/omslmsy.fd
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmsy8.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmsy6.tfm
+INPUT /usr/share/texmf/tex/latex/lm/omxlmex.fd
+INPUT /usr/share/texmf/tex/latex/lm/omxlmex.fd
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmex10.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/esvect/uesvect.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/esvect/uesvect.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/esvect/vect10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/esvect/vect8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/esvect/vect6.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr8.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr12.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Vocabulaire non su.toc
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Vocabulaire non su.toc
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbx10.tfm
+OUTPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Vocabulaire non su.toc
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Athos.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Athos.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Athos.png
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmcsc10.tfm
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Rhodope.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Rhodope.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Rhodope.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Cyllène.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Cyllène.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Cyllène.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Caystre.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Caystre.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Caystre.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Eridan.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Eridan.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Eridan.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Emathie.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Emathie.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Emathie.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Hémus.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Hémus.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Hémus.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/saulaie.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/saulaie.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/saulaie.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/orme.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/orme.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/orme.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Ismare.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Ismare.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Ismare.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Taburne.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Taburne.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Taburne.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/orne.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/orne.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/orne.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Lesbos.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Lesbos.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Lesbos.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Methymne.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Methymne.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Methymne.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Thasos.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Thasos.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Thasos.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Mareotis.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Mareotis.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Mareotis.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Aulne.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Aulne.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Aulne.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Ebenier.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Ebenier.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Ebenier.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Acanthe.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Acanthe.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Acanthe.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Medie.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Medie.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Medie.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Gediz.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Gediz.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Gediz.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Aconit.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Aconit.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Aconit.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Come.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Come.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Come.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Garde.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Garde.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Garde.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Lucrin.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Lucrin.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Lucrin.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Averne.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Averne.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Averne.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Celano.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Celano.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Celano.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Gênes.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Gênes.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Gênes.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Latium.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Latium.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Latium.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Tarente.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Tarente.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Tarente.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Mincio.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Mincio.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Mincio.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Serpolet.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Serpolet.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Serpolet.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Romarin.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Romarin.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Romarin.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Capoue.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Capoue.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Capoue.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Clain.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Clain.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Clain.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Acerre.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Acerre.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Acerre.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Houx.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Houx.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Houx.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Cytise.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Cytise.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Cytise.jpg
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Cytore.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Cytore.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Cytore.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Naryce.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Naryce.png
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Naryce.png
+OUTPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Vocabulaire non su.thm
+INPUT /home/neo/Bureau/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire non su/Vocabulaire non su.aux
+INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmr10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmr12.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmr17.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmr8.pfb

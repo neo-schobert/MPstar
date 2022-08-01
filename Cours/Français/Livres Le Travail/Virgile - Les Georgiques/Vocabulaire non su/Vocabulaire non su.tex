@@ -1,0 +1,331 @@
+\documentclass[a4paper, 11pt, hidelinks]{article}
+\usepackage{bookmark}
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx}
+\usepackage[french]{babel}
+\usepackage{geometry}
+\usepackage{eucal}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{hyperref}
+\usepackage{cancel}
+\usepackage{tikz}
+\usepackage{mathrsfs}  
+\usepackage{esvect}
+\usepackage[standard]{ntheorem}
+\usepackage{romanbar}
+\usepackage{titlesec}
+
+
+
+\geometry{hmargin=2cm,vmargin=1.5cm}
+
+\tikzset{
+  treenode/.style = {shape=rectangle, rounded corners,
+                     draw, align=center,
+                     top color=white, bottom color=blue!5},
+  root/.style     = {treenode, font=\Large, bottom color=red!10},
+  env/.style      = {treenode, font=\ttfamily\normalsize},
+  dummy/.style    = {circle,draw}
+}
+
+\newcommand{\prp}{\large \textbf{Proposition :} \large}
+
+\newcommand{\tm}{\large \textbf{Théoreme :} \large}
+
+\newcommand{\ex}{\textcolor{green}{Exemple :} }
+
+\newcommand{\dm}{\textcolor{red}{\textbf{Démo :} } }
+
+\newcommand{\de}{\large \textbf{Définition} \large }
+
+\newcommand{\rmq}{\textbf{Remarque :} }
+
+\newcommand{\bs}{\bigskip}
+
+\newcommand{\voca}{\textcolor{blue}{\textbf{Vocabulaire} } }
+
+\newcommand{\lem}{\textcolor{red}{\textbf{Lemme :} } }
+
+\newcommand{\rb}[1]{\Romanbar{#1}}
+
+\newcommand{\cit}{\textcolor{blue}{\textbf{Citation : }}}
+
+\newcommand{\trinom}[3]{\begin{pmatrix}
+    #1 \\
+    #2 \\
+    #3
+\end{pmatrix}}
+
+\newcommand{\quadrinom}[4]{\begin{pmatrix}
+    #1 \\
+    #2 \\
+    #3 \\
+    #4 \\
+\end{pmatrix}}
+
+\newcommand{\pentanom}[5]{\begin{pmatrix}
+    #1 \\
+    #2 \\
+    #3 \\
+    #4 \\
+    #5
+\end{pmatrix}}
+
+\newcommand{\hexanom}[6]{\begin{pmatrix}
+    #1 \\
+    #2 \\
+    #3 \\
+    #4 \\
+    #5 \\
+    #6 
+\end{pmatrix}}
+
+\newcommand{\serie}[2]{\displaystyle\sum_{#1 =0}^{+\infty} #2_{#1} }
+
+\newcommand{\tend}{\underset{n \to + \infty}{\longrightarrow} }
+
+\newcommand{\Lra}{\Leftrightarrow}
+
+\newcommand{\lra}{\leftrightarrow}
+
+\newcommand{\Ra}{\Rightarrow}
+
+\newcommand{\ra}{\rightarrow}
+
+\newcommand{\la}{\leftarrow}
+
+\newcommand{\La}{\Leftarrow}
+
+\newcommand{\dsum}[2]{\displaystyle\sum_{#1}^{#2} }
+
+\newcommand{\dint}[2]{\displaystyle\int_{#1}^{#2} }
+
+\newcommand{\ntend}{\underset{n \to + \infty}{\not \longrightarrow} }
+
+\newenvironment{lmatrix}{$ \left|\begin{array}{l} }{\end{array}\right.$}
+
+\newcommand{\img}[4]{\begin{figure}[!ht]
+    \centering
+    \includegraphics[scale=#1 ]{#2}
+    \caption{#3}
+    \label{#4}
+    \end{figure} }    
+\begin{document}
+
+\newcommand{\grad}[1]{\vv{grad}#1}
+
+
+\title{Vocabulaire Virgile - Les Georgiques}
+\author{Schobert Néo}
+
+\maketitle
+
+\tableofcontents
+
+
+\newpage
+
+
+
+\section{Livre 1 - Le labourage}
+
+\begin{enumerate}
+    \item Qu'est-ce que les \textcolor{red}{douze astres du monde} ? : Il s'agit des douze signes du Zodiaque : Bélier (Minerve), Taureau (Vénus), Gémeaux (Apollon),
+          Cancer (Mercure), Lion (Jupiter), Vierge (Cérès), Balance (Vulcain), Scorpion (Mars), Sagitaire (Diane), Capricorne (Vesta), Verseau (Junon), Poisson (Neptune).
+    \item Qu'est-ce que les \textcolor{red}{échalas} ? : Pieu servant à soutenir un pied de vigne ou autre arbuste.
+    \item Qu'est-ce qu'une \textcolor{red}{éteule} ? : Chaume restant sur la terre après la moisson.
+    \item Qu'est-ce qu'une \textcolor{red}{étoupe} ? : Excédent de filasse.
+    \item Quelles sont les \textcolor{red}{constellations de l'automne} ? : Il s'agit de l'Arcture, des Chevreaux, de la Couronne, et du Centaure.
+    \item Qu'est-ce que \textcolor{red}{l'Athos} ? : Il s'agit d'un mont de macédoine.
+          \img{0.35}{Athos.png}{Mont Athos}{40}
+    \item Qu'est-ce que le \textcolor{red}{Rhodope} ? : Il s'agit de montagnes de la Thrace.
+          \img{0.4}{Rhodope.png}{Mont Rhodope}{41}
+    \item Qu'est-ce que le \textcolor{red}{feu de Cyllène} ? : Il s'agit de Mercure, qui est né sur le mont Cyllène (auj. Ziria) en Arcadie.
+          \img{0.3}{Cyllène.png}{Cyllène}{43}
+    \item Pourquoi les \textcolor{red}{grenouilles chantent leur antique complainte} ? : Ovide conte que Latone, insulté par des paysans, obtint de Jupiter
+          qu'ils fussent changés en grenouilles.
+    \item Qu'est-ce que le \textcolor{red}{Caystre} ? : Il s'agit d'un fleuve de Lydie.
+          \img{0.4}{Caystre.png}{Caystre}{46}
+    \item Qui est \textcolor{red}{Phébé} ? : Phébé est une Titanides. Elle est la mère de Latone (Léto) et épouse de son frère Céos. Elle portait une couronne d'or.
+    \item Qui est \textcolor{red}{Glaucus} ? : Glaucus, pêcheur d'Anthédon, en Béotie, ayant mangé une herbe magique, se précipita dans la mer, où il fut changé en dieu marin.
+    \item Qui est \textcolor{red}{Panopée} ? : Panopée, l'une des cinquantes filles de Nérée et de Doris, celle dont il est question dans l'Illiade.
+    \item Qui est \textcolor{red}{l'Inoen Mélicerte} ? : Mélicerte, fils d'Ino, fuyant avec sa mère son père Athamas, devenu fou furieux, s'élança avec
+          elle dans la mer, et tous deux furent changés en divinités marines : Mélicerte sous le nom grec de Palémon et latin de Portumne; Ino, sous
+          ceux de Leucothoé et de Matuta.
+    \item Qui est \textcolor{red}{Tithon} ? : Prince troyen, fils de Laomédon et frère de Priam. Il fut enlevé par l'Aurore, éprise de lui, qui eut de lui
+          deux fils, Memnon et Emathéon. Aurore l'adorait et sortait à l'aube, exténuée et pâle de sa couche. Elle obtint pour lui l'immortalité mais
+          ayant omis de demander une éternelle jeunesse, Tithon vieillit, tomba en décrépitude, et fut finalement changé en cigale.
+    \item Qu'est-ce que le \textcolor{red}{pampre} ? : Le pampre est une tige de vigne portant ses feuilles, ses vrilles et, souvent, ses grappes de raisin.
+    \item Qu'est-ce que \textcolor{red}{l'Eridan} ? : Il s'agit du pô, le plus long fleuve d'Italie.
+          \img{0.5}{Eridan.jpg}{Eridan}{47}
+    \item Où est \textcolor{red}{l'Emathie} ? :
+          \img{0.3}{Emathie.png}{Emathie}{48}
+    \item Où est \textcolor{red}{l'Hémus} ? :
+          \img{0.3}{Hémus.png}{Hémus}{49}
+    \item Qui est \textcolor{red}{Vesta} ? : Vesta (Hestia), Déesse du feu, fille de Saturne (Cronos) et Cybèle (Rhéa) et soeur de Jupiter (Zeus), Neptune (Poséidon), Pluton (Hadès), Junon (Héra) et
+          Cérès (Déméter) elle symbolise le foyer de la maison, bien que le culte romain ait pris plus d’importance.
+    \item Qu'est-ce que les \textcolor{red}{parjures de la Troie Laomédontienne} ? La Troie Laomédontienne est la ville de Troie au temps où Laomédon y régnait.
+          Ce dernier y a commis quelques parjures envers les Dieux. Pour la construction de la ville de Troie, il a promis à Apollon et à Neptune une récompense
+          qu'il refusa de payer une fois la ville construite et manqua de récompenser Hercule de la somme promise pour la délivrance de sa fille Hésione.
+\end{enumerate}
+
+
+
+
+\section{Livre 2 - Les arbres et la vigne}
+
+
+\begin{enumerate}
+      \item Qu'est-ce que le \textcolor{red}{moût} ? : Jus de raisin non fermenté.
+      \item Qu'est-ce que le \textcolor{red}{saulaie} ? :
+            \img{0.5}{saulaie.jpg}{Saulaie}{53}
+            \item Qu'est-ce que les \textcolor{red}{frondaisons} ? : Feuillage ou époque du feuillage des arbres.
+            \item Qu'est-ce que \textcolor{red}{l'orme} ? :
+            \img{0.5}{orme.jpg}{Orme}{55}
+            \item Qu'est-ce qu'un \textcolor{red}{scion} ? : Scion est un terme tiré du vocabulaire de l’horticulture et
+            qui désigne une branche souple fraichement poussée.
+            \item Qu'est-ce qu'une \textcolor{red}{bouture} ?  : Fragment d'un végétal mis en terre pour faire une nouvelle pousse.
+            \item Où est \textcolor{red}{l'Ismare} ? :
+            \img{0.3}{Ismare.png}{Mont Ismare}{56}
+      \item Où est le \textcolor{red}{Taburne} ? :
+            \img{0.3}{Taburne.png}{Mont Taburne}{57}
+            \item Qu'est-ce que les \textcolor{red}{provins} ? : Rejet de vigne qui se développe et prend racine en terre à partir de la plante mère.
+            \item Qu'est-ce que le \textcolor{red}{surgeon} ? : Rejeton qui pousse au pied d'un arbre.
+            \item Quel est \textcolor{red}{l'arbre ombreux dont Hercule se tressa une couronne} ? : Il s'agit du peuplier blanc. Pluton, ayant aimé l'Océanide
+            Leucé, fit naître après sa mort sur les bords de l'Achéron un arbre blanc appelé leucé, des feuilles duquel Hercule se couronna
+            à sa sortie des Enfers.
+      \item Qui est le père \textcolor{red}{Chaonien} ? : Il s'agit de l'Oracle de Jupiter à Dodone en Chaonie.
+      \item Qu'est-ce que \textcolor{red}{enter} ? : Greffer / Assembler.
+      \item Qu'est-ce que \textcolor{red}{l'orne} ? :
+            \img{0.5}{orne.jpg}{Orne}{61}
+            \item Qu'est-ce qu'une \textcolor{red}{tunique} (arbre) ? : Enveloppe qui protège certains végétaux.
+            \item Qu'est-ce que le \textcolor{red}{liber} ? : Tissu végétal situé entre l'écorce et le bois d'un arbre.
+            \item Pourquoi le \textcolor{red}{liber humide} ? : Le liber est humide du suc nommé cambium, situé entre l'écorce et l'aubier.
+            \item Qu'est-ce que \textcolor{red}{l'aubier} ? : L'aubier est la partie de l’arbre se situant entre le bois de cœur ou duramen et le cambium.
+            \item Qu'est-ce que \textcolor{red}{l'orchade} ? : Il s'agit d'un olivier au fruit ovale et tendre et assez huileux.
+            \item Qu'est-ce que \textcolor{red}{le verge} ? : Il s'agit d'un olivier au fruit très allongé.
+            \item Qu'est-ce que \textcolor{red}{la pausie} ? : Il s'agit d'un olivier au fruit très charnu et très huileux.
+            \item Qui est \textcolor{red}{Alcinoüs} ? : Il s'agit du roi de Phéacie célèbre dans l'Odyssée.
+            \item Où est \textcolor{red}{Lesbos} ? :
+            \img{0.4}{Lesbos.png}{Lesbos}{65}
+            \item Qu'est-ce que \textcolor{red}{le sarment} ? : Rameau de vigne.
+            \item Où est le \textcolor{red}{Méthymne} ? :
+                  \img{0.4}{Methymne.png}{Méthymne}{66}
+            \item Où est \textcolor{red}{Thasos} ? :
+                  \img{0.4}{Thasos.png}{Thasos}{67}
+            \item Où est \textcolor{red}{Maréotis} ? :
+                  \img{0.4}{Mareotis.png}{Maréotis}{68}
+            \item Qu'est-ce que le \textcolor{red}{Psithie} ? : Il s'agit du vin grec.
+            \item Qu'est-ce que le \textcolor{red}{Lagéos} ? : Il s'agit d'un vin roux, couleur de lièvre, produit en Crète.
+            \item Qu'est-ce que le \textcolor{red}{Rhétique} ? : Il s'agit d'un vin renommé aux environs de Vérone. Auguste l'appréciait beaucoup.
+            \item Qu'est-ce que le \textcolor{red}{Falerne} ? : Il s'agit du vin le plus renommé (avec le Cécube) des vins latins; on le récoltait au pied
+                  du mont Massique, en Campanie.
+            \item Où est \textcolor{red}{Aminée} ? : Pas loin de Naples.
+            \item Qu'est-ce que le \textcolor{red}{Phanée} ? : Vignoble d'un promontoire de l'île de Chio.
+            \item Qu'est-ce que \textcolor{red}{l'aulne} ? :
+            \img{0.5}{Aulne.jpg}{Aulne}{70}
+            \item Qui sont les \textcolor{red}{Gélons} ? : Il s'agit d'un peuple de scythe, à l'ouest du Borysthène (le Dnieper actuel); ils étaient tatoués,
+            comme beaucoup de peuples barbares, qui se peignaient le corps pour effrayer leurs ennemis.
+            \item Qu'est-ce que \textcolor{red}{l'ébénier} ? :
+            \img{0.5}{Ebenier.jpg}{Ebénier}{72}
+      \item Qu'est-ce que \textcolor{red}{l'acanthe} ? :
+            \img{0.4}{Acanthe.jpg}{Acanthe}{73}
+            \item Où est la \textcolor{red}{Médie} ? :
+            \img{0.4}{Medie.png}{Royaume de Médie}{74}
+      \item Qu'est-ce que la \textcolor{red}{pomme salutaire du Médie} ? : Il s'agit du citron.
+      \item Qu'est-ce que l'\textcolor{red}{Hermus} ? : Dieu-fleuve associé au Gediz, dans la mythologie grecque.
+            \img{1}{Gediz.png}{Gediz}{76}
+            \item Qu'est-ce que le \textcolor{red}{taureau soufflant du feu} ? : Il s'agit d'une allusion aux légendes de Jason : soumis par le roi de Colchide à
+            une épreuve pour obtenir la Toison d'or, Jason se vit forcé d'atteler à une charrue deux taureaux soufflant du feu par leurs naseaux.
+      \item Qu'est-ce que le \textcolor{red}{Massique} ? : Le Massique est un vin de qualité produit en Campanie dans l'Antiquité.
+      \item Où est le \textcolor{red}{Clitumne} ? : Le Clitumne (latin Clitumnus ; italien Clitunno) est une rivière italienne, qui traverse
+            l'Ombrie, dans la province de Pérouse, et se jette dans le Topino, affluent du Tibre.
+      \item Quel est la \textcolor{red}{croyance ancienne à propos du Clitumne} ? : Les anciens croyaient que ses eaux cristallines blanchissaient
+            le poil des animaux qui s'y baignaient.
+      \item Qu'est-ce que les \textcolor{red}{aconits} ? :
+            \img{0.5}{Aconit.jpg}{Aconit}{78}
+            \item Où est le \textcolor{red}{Larius} ? :
+            \img{0.3}{Come.png}{Lac de Côme ou Larius}{80}
+      \item Où est le \textcolor{red}{Benacus} ? :
+            \img{0.3}{Garde.png}{Lac de Garde ou Benacus}{81}
+            \item Où est le \textcolor{red}{Lucrin} ? :
+            \img{0.3}{Lucrin.png}{Lac de Lucrin}{82}
+      \item Où est l'\textcolor{red}{Averne} ? :
+            \img{0.3}{Averne.png}{Lac d'Averne}{83}
+      \item Qu'est-ce que les \textcolor{red}{Marses} ? : Peuple belliqueux établi autour du lac Fucin (aujourd'hui lac asséché de Celano).
+            \img{0.3}{Celano.png}{Lac Fucin (ou asséché de Celano)}{84}
+      \item Qu'est-ce que les \textcolor{red}{Sabelliens} ? : Les Sabelliens, peuple de la Sabine auquel appartenaient les Marses susnommés.
+      \item Qu'est-ce que le \textcolor{red}{Ligure} ? : Habitant du golfe actuel de Gênes.
+            \img{0.3}{Gênes.png}{Golfe de Gênes}{85}
+            \item Qu'est-ce que les \textcolor{red}{Volsques} ? : Il s'agit d'un peuple de Latium.
+            \img{0.3}{Latium.png}{Latium}{86}
+      \item Qu'est-ce que les \textcolor{red}{Décius} ? : Il s'agit d'une dynastie d'empereurs romains.
+      \item Qu'est-ce que les \textcolor{red}{Marius} ? : Il s'agit du vainqueur de Jugurtha, et des Cimbres et des Teutons.
+      \item Qu'est-ce que les \textcolor{red}{grands Camille} ? : Camille, le vainqueur des Gaulois à l'Allia.
+      \item Qu'est-ce que les \textcolor{red}{Scipions} ? : Les deux Africains, Cornélius Scipion, le vainqueur d'Annibal à Zama, et Scipion Emilien,
+            le destructeur de Carthage.
+            \item Que veut dire \textcolor{red}{rouvrir les fontaines sacrées} ? : Cela signifie entreprendre de nouveau à écrire de la poésie pastorale.
+            \item Qu'est-ce que le \textcolor{red}{poème d'Ascra} ? : Il s'agit du poème d'Hésiode, né à Ascra, en Béotie, intitulé Les Travaux et les Jours.
+            \item Qu'est-ce qu'\textcolor{red}{une patère} ? : Sorte de coupe ancienne pour boire.
+            \item Qu'est-ce que \textcolor{red}{Tarente} ? : Il s'agit d'un port de l'Italie méridionale.
+            \img{0.3}{Tarente.png}{Port de Tarente}{87}
+            \item Où est le \textcolor{red}{Mincio} ? :
+            \img{0.4}{Mincio.png}{Cours d'eau du Mincio}{88}
+            \item Qu'est-ce que le \textcolor{red}{serpolet} ? :
+            \img{0.5}{Serpolet.jpg}{Thym Serpolet}{89}
+      \item Qu'est-ce que le \textcolor{red}{romarin} ? :
+            \img{0.5}{Romarin.jpg}{Romarin}{90}
+            \item Où est \textcolor{red}{Capoue} ? :
+            \img{0.5}{Capoue.png}{Capoue}{91}
+      \item Où est le \textcolor{red}{Clain} ? :
+            \img{0.4}{Clain.png}{Cours d'eau du Clain}{92}
+      \item Où est \textcolor{red}{Acerre} ? :
+            \img{0.4}{Acerre.png}{Acerre}{93}
+      \item Quelle est \textcolor{red}{l'histoire des habitants d'Acerre} ? : Le Clain débordant fréquemment et dangereusement, les habitants d'Acerre,
+            qu'il traversait, durent abandonner leur ville.
+            \item Qu'est-ce que les \textcolor{red}{déblais} ? : Gravats, débris ou terre que l'on retire d'un terrain.
+            \item Qu'est-ce que la \textcolor{red}{poix} ? : Matière molle et visqueuse obtenue avec des résines et des goudrons végétaux.
+            \item Qu'est-ce que le \textcolor{red}{vigneron} ? : Personne qui exploite la vigne et élabore le vin.
+            \item Qu'est-ce qu'un \textcolor{red}{arpent} ? : Surface peu étendue de terrain.
+            \item \textcolor{red}{Inspiration de La Fontaine} ? : Ici, "le chêne vert surtout, dont la tête s'élève autant vers les brises éthérées
+            que sa racine s'enfonce vers le Tartare." La Fontaine, Le Chêne et le Roseau : "Celui de qui la tête au ciel était voisine/
+            Et dont les pieds touchaient à l'empire des morts."
+            \item Quel est \textcolor{red}{l'oiseau blanc qui arrive au printemps vermeil} ? : Il s'agit de la cigogne.
+            \item Qu'est-ce qu'un \textcolor{red}{tesson} ? : Débris de verre ou de poterie, morceau qui s'est créé suite à un bris.
+            \item Qu'est-ce qu'un \textcolor{red}{bident} ? : Hoyau à deux dents, d'environ trois pieds.
+            \item Qu'est-ce que \textcolor{red}{récalcitrant} ? : Qui résiste avec entêtement.
+            \item Qu'est-ce que \textcolor{red}{l'exubérance} ? : Abondance, développement excessif, trop grande richesse. Synonyme : luxuriance.
+            \item Qu'est-ce qu'un \textcolor{red}{outrage} ? : Préjudice physique ou moral qui porte atteinte à un individu, à un idéal ou à une opinion.
+            \item Comment était la \textcolor{red}{comédie à ses débuts} ? : La comédie est à ses débuts une promenade de gens ivres à travers les cantons, "comés", d'un pays.
+            \item Qu'est-ce qu'une \textcolor{red}{rasade} ? : Verre d'alcool, ou de n'importe quel autre liquide, qui a pour caractéristique d'être rempli jusqu'aux bords.
+            \item Qu'est-ce qu'une \textcolor{red}{outre} ? : Sac cousu à partir de peau de bête et utilisé comme récipient d'eau.
+            \item Quel est le \textcolor{red}{jeu qui consistait à sauter dans les molles prairies par-dessus des outres huilées} ? : Ce jeu accompagnait les fêtes de
+                  Dionysos et consistait à sauter à cloche-pied sur des outres huilées et à s'y maintenir en équilibre. Le gagnant recevait en prix une outre pleine de vin.
+            \item Qui sont les \textcolor{red}{Ausoniens} ? : Peuple de la côte occidentale de l'ancienne Italie : les poètes donnent souvent le nom
+                  d'Ausonie à toute l'Italie.
+            \item Qu'est-ce que \textcolor{red}{fescennin} ? : Qui appartient à un genre de poésie satirique, généralement grossière et licencieuse.
+            \item Qu'est-ce que le \textcolor{red}{rebut} ? : Ce qu'il y a de mauvais, ce qu'on jette après un tri, ce qui est destiné à aller à la poubelle.
+            \item Qu'est-ce que le \textcolor{red}{houx} ? :
+                  \img{0.5}{Houx.jpg}{Houx}{94}
+                  \item Qu'est-ce qu'un \textcolor{red}{fourré} ? : Endroit épais et touffu d'un bois.
+                  \item Qu'est-ce qu'un \textcolor{red}{cytise} ? : Arbuste aux fleurs en grappes jaunes. Cette plante appartient à la famille des légumineuses.
+                        \img{0.5}{Cytise.jpg}{Cytise}{95}
+                  \item Où est le \textcolor{red}{Cytore} ? :
+                        \img{0.3}{Cytore.png}{Cytore}{96}
+                        \item Où est \textcolor{red}{Naryce} ? : 
+                        \img{0.3}{Naryce.png}{Naryce}{98}
+                                                                              
+\end{enumerate}
+
+
+
+
+
+\end{document}
