@@ -1,4 +1,0 @@
-\babel@toc {french}{}
-\contentsline {section}{\numberline {1}Livre 1 - Le labourage}{4}{section.1}%
-\contentsline {section}{\numberline {2}Livre 2 - Les arbres et la vigne}{26}{section.2}%
-\contentsline {section}{\numberline {3}Livre 3 - Les Troupeaux}{43}{section.3}%
