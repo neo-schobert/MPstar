@@ -2,3 +2,4 @@
 \contentsline {section}{\numberline {1}Livre 1 - Le labourage}{5}{section.1}%
 \contentsline {section}{\numberline {2}Livre 2 - Les arbres et la vigne}{27}{section.2}%
 \contentsline {section}{\numberline {3}Livre 3 - Les Troupeaux}{47}{section.3}%
+\contentsline {section}{\numberline {4}Livre 4 - Les abeilles}{58}{section.4}%
