@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.18)  14 AUG 2022 16:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.18)  17 AUG 2022 17:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -781,24 +781,24 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \openout5 = `"Vocabulaire incompris.lof"'.
 
  [4]
-<ormeau.jpg, id=298, 344.78813pt x 344.78813pt>
+<ormeau.jpg, id=306, 344.78813pt x 344.78813pt>
 File: ormeau.jpg Graphic file (type jpg)
 <use ormeau.jpg>
 Package pdftex.def Info: ormeau.jpg  used on input line 147.
 (pdftex.def)             Requested size: 172.39363pt x 172.39363pt.
-<Chaonie.png, id=299, 620.3175pt x 393.47pt>
+<Chaonie.png, id=307, 620.3175pt x 393.47pt>
 File: Chaonie.png Graphic file (type png)
 <use Chaonie.png>
 Package pdftex.def Info: Chaonie.png  used on input line 154.
 (pdftex.def)             Requested size: 310.15799pt x 196.73451pt.
  [5 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/ormeau.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Chaonie.png>]
-<Zea.png, id=317, 800.9925pt x 516.93124pt>
+<Zea.png, id=325, 800.9925pt x 516.93124pt>
 File: Zea.png Graphic file (type png)
 <use Zea.png>
 Package pdftex.def Info: Zea.png  used on input line 181.
 (pdftex.def)             Requested size: 400.49527pt x 258.46498pt.
  [6]
-<mont Lycee.png, id=335, 1196.47pt x 303.1325pt>
+<mont Lycee.png, id=343, 1196.47pt x 303.1325pt>
 File: mont Lycee.png Graphic file (type png)
 <use mont Lycee.png>
 Package pdftex.def Info: mont Lycee.png  used on input line 187.
@@ -808,23 +808,23 @@ Overfull \hbox (114.53667pt too wide) in paragraph at lines 187--187
  [][] 
  []
 
-<Arcadie.png, id=336, 754.82pt x 348.30125pt>
+<Arcadie.png, id=344, 754.82pt x 348.30125pt>
 File: Arcadie.png Graphic file (type png)
 <use Arcadie.png>
 Package pdftex.def Info: Arcadie.png  used on input line 188.
 (pdftex.def)             Requested size: 377.40909pt x 174.15019pt.
 [7 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Zea.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/mont Lycee.png>]
-<Thebes.png, id=348, 653.44125pt x 340.27126pt>
+<Thebes.png, id=356, 653.44125pt x 340.27126pt>
 File: Thebes.png Graphic file (type png)
 <use Thebes.png>
 Package pdftex.def Info: Thebes.png  used on input line 190.
 (pdftex.def)             Requested size: 326.71982pt x 170.13521pt.
-<Arcananie Etolie.png, id=349, 685.56125pt x 344.28625pt>
+<Arcananie Etolie.png, id=357, 685.56125pt x 344.28625pt>
 File: Arcananie Etolie.png Graphic file (type png)
 <use Arcananie Etolie.png>
 Package pdftex.def Info: Arcananie Etolie.png  used on input line 192.
 (pdftex.def)             Requested size: 342.77979pt x 172.1427pt.
-<Menale.png, id=350, 1195.46625pt x 302.12875pt>
+<Menale.png, id=358, 1195.46625pt x 302.12875pt>
 File: Menale.png Graphic file (type png)
 <use Menale.png>
 Package pdftex.def Info: Menale.png  used on input line 197.
@@ -835,149 +835,149 @@ Overfull \hbox (114.03479pt too wide) in paragraph at lines 197--197
  []
 
 [8 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Arcadie.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Thebes.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Arcananie Etolie.png>]
-<Tegee.png, id=363, 694.595pt x 364.36125pt>
+<Tegee.png, id=372, 694.595pt x 364.36125pt>
 File: Tegee.png Graphic file (type png)
 <use Tegee.png>
 Package pdftex.def Info: Tegee.png  used on input line 198.
 (pdftex.def)             Requested size: 347.29665pt x 182.18018pt.
-<Cypres.jpg, id=364, 291.0875pt x 438.63875pt>
+<Cypres.jpg, id=373, 291.0875pt x 438.63875pt>
 File: Cypres.jpg Graphic file (type jpg)
 <use Cypres.jpg>
 Package pdftex.def Info: Cypres.jpg  used on input line 203.
 (pdftex.def)             Requested size: 145.54338pt x 219.31883pt.
  [9 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Menale.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Tegee.png>]
-<Soc.jpg, id=378, 803.0pt x 803.0pt>
+<Soc.jpg, id=386, 803.0pt x 803.0pt>
 File: Soc.jpg Graphic file (type jpg)
 <use Soc.jpg>
 Package pdftex.def Info: Soc.jpg  used on input line 236.
 (pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
  [10 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Cypres.jpg>]
-<Tmolus.png, id=398, 796.9775pt x 377.41pt>
+<Tmolus.png, id=406, 796.9775pt x 377.41pt>
 File: Tmolus.png Graphic file (type png)
 <use Tmolus.png>
 Package pdftex.def Info: Tmolus.png  used on input line 239.
 (pdftex.def)             Requested size: 398.48776pt x 188.70453pt.
-<Crocus.jpg, id=399, 1003.75pt x 1003.75pt>
+<Crocus.jpg, id=407, 1003.75pt x 1003.75pt>
 File: Crocus.jpg Graphic file (type jpg)
 <use Crocus.jpg>
 Package pdftex.def Info: Crocus.jpg  used on input line 241.
 (pdftex.def)             Requested size: 150.556pt x 150.556pt.
  [11 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Soc.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Tmolus.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Crocus.jpg>]
-<Pont.png, id=411, 801.99625pt x 670.505pt>
+<Pont.png, id=419, 801.99625pt x 670.505pt>
 File: Pont.png Graphic file (type png)
 <use Pont.png>
 Package pdftex.def Info: Pont.png  used on input line 245.
 (pdftex.def)             Requested size: 240.60072pt x 201.15305pt.
-<Elide.png, id=412, 192.72pt x 163.5711pt>
+<Elide.png, id=420, 192.72pt x 163.5711pt>
 File: Elide.png Graphic file (type png)
 <use Elide.png>
 Package pdftex.def Info: Elide.png  used on input line 250.
 (pdftex.def)             Requested size: 192.71951pt x 163.5707pt.
  [12 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Pont.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Elide.png (PNG copy)>]
-<Lupin.jpg, id=427, 1204.5pt x 752.8125pt>
+<Lupin.jpg, id=435, 1204.5pt x 752.8125pt>
 File: Lupin.jpg Graphic file (type jpg)
 <use Lupin.jpg>
 Package pdftex.def Info: Lupin.jpg  used on input line 266.
 (pdftex.def)             Requested size: 240.89574pt x 150.55983pt.
-<Lin.jpg, id=428, 1204.5pt x 889.3225pt>
+<Lin.jpg, id=436, 1204.5pt x 889.3225pt>
 File: Lin.jpg Graphic file (type jpg)
 <use Lin.jpg>
 Package pdftex.def Info: Lin.jpg  used on input line 268.
 (pdftex.def)             Requested size: 240.89574pt x 177.86134pt.
-<Avoine.jpg, id=429, 1204.5pt x 799.98875pt>
+<Avoine.jpg, id=437, 1204.5pt x 799.98875pt>
 File: Avoine.jpg Graphic file (type jpg)
 <use Avoine.jpg>
 Package pdftex.def Info: Avoine.jpg  used on input line 270.
 (pdftex.def)             Requested size: 240.89574pt x 159.99492pt.
  [13 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Lupin.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Lin.jpg>]
-<Pavot.jpg, id=442, 377.41pt x 225.84375pt>
+<Pavot.jpg, id=450, 377.41pt x 225.84375pt>
 File: Pavot.jpg Graphic file (type jpg)
 <use Pavot.jpg>
 Package pdftex.def Info: Pavot.jpg  used on input line 274.
 (pdftex.def)             Requested size: 188.70453pt x 112.92159pt.
-<Chaume.jpg, id=443, 501.875pt x 376.40625pt>
+<Chaume.jpg, id=451, 501.875pt x 376.40625pt>
 File: Chaume.jpg Graphic file (type jpg)
 <use Chaume.jpg>
 Package pdftex.def Info: Chaume.jpg  used on input line 280.
 (pdftex.def)             Requested size: 250.93687pt x 188.20265pt.
-<Hoyau.jpg, id=444, 220.825pt x 165.61874pt>
+<Hoyau.jpg, id=452, 220.825pt x 165.61874pt>
 File: Hoyau.jpg Graphic file (type jpg)
 <use Hoyau.jpg>
 Package pdftex.def Info: Hoyau.jpg  used on input line 283.
 (pdftex.def)             Requested size: 110.41222pt x 82.80916pt.
  [14 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Avoine.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Pavot.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Chaume.jpg>]
-<Mysie.png, id=454, 498.663pt x 458.39828pt>
+<Mysie.png, id=462, 498.663pt x 458.39828pt>
 File: Mysie.png Graphic file (type png)
 <use Mysie.png>
 Package pdftex.def Info: Mysie.png  used on input line 290.
 (pdftex.def)             Requested size: 199.46165pt x 183.35606pt.
  [15 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Hoyau.JPG> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Mysie.png>]
-<Epervier.jpg, id=473, 803.0pt x 533.995pt>
+<Epervier.jpg, id=482, 803.0pt x 533.995pt>
 File: Epervier.jpg Graphic file (type jpg)
 <use Epervier.jpg>
 Package pdftex.def Info: Epervier.jpg  used on input line 321.
 (pdftex.def)             Requested size: 321.1943pt x 213.59421pt.
-<Chalut.jpg, id=474, 915.42pt x 514.92375pt>
+<Chalut.jpg, id=483, 915.42pt x 514.92375pt>
 File: Chalut.jpg Graphic file (type jpg)
 <use Chalut.jpg>
 Package pdftex.def Info: Chalut.jpg  used on input line 322.
 (pdftex.def)             Requested size: 274.62811pt x 154.4783pt.
  [16 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Epervier.jpg>]
-<Coin.jpg, id=493, 225.84375pt x 225.84375pt>
+<Coin.jpg, id=501, 225.84375pt x 225.84375pt>
 File: Coin.jpg Graphic file (type jpg)
 <use Coin.jpg>
 Package pdftex.def Info: Coin.jpg  used on input line 325.
 (pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
-<Dodone.png, id=494, 753.81625pt x 400.49625pt>
+<Dodone.png, id=502, 753.81625pt x 400.49625pt>
 File: Dodone.png Graphic file (type png)
 <use Dodone.png>
 Package pdftex.def Info: Dodone.png  used on input line 337.
 (pdftex.def)             Requested size: 226.14662pt x 120.1498pt.
-<Bardane.jpg, id=495, 299.1175pt x 225.84375pt>
+<Bardane.jpg, id=503, 299.1175pt x 225.84375pt>
 File: Bardane.jpg Graphic file (type jpg)
 <use Bardane.jpg>
 Package pdftex.def Info: Bardane.jpg  used on input line 342.
 (pdftex.def)             Requested size: 149.55838pt x 112.92159pt.
-<Tribule.jpg, id=496, 249.93375pt x 225.84375pt>
+<Tribule.jpg, id=504, 249.93375pt x 225.84375pt>
 File: Tribule.jpg Graphic file (type jpg)
 <use Tribule.jpg>
 Package pdftex.def Info: Tribule.jpg  used on input line 344.
 (pdftex.def)             Requested size: 124.96657pt x 112.92159pt.
  [17 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Chalut.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Coin.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Dodone.png>]
-<Ivraie.jpg, id=510, 374.39874pt x 225.84375pt>
+<Ivraie.jpg, id=518, 374.39874pt x 225.84375pt>
 File: Ivraie.jpg Graphic file (type jpg)
 <use Ivraie.jpg>
 Package pdftex.def Info: Ivraie.jpg  used on input line 346.
 (pdftex.def)             Requested size: 187.19891pt x 112.92159pt.
-<Serpe.jpg, id=511, 163.61125pt x 225.84375pt>
+<Serpe.jpg, id=519, 163.61125pt x 225.84375pt>
 File: Serpe.jpg Graphic file (type jpg)
 <use Serpe.jpg>
 Package pdftex.def Info: Serpe.jpg  used on input line 348.
 (pdftex.def)             Requested size: 81.80542pt x 112.92159pt.
  [18 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Bardane.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Tribule.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Ivraie.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Serpe.jpg>]
-<Hetre.jpg, id=521, 340.27126pt x 225.84375pt>
+<Hetre.jpg, id=529, 340.27126pt x 225.84375pt>
 File: Hetre.jpg Graphic file (type jpg)
 <use Hetre.jpg>
 Package pdftex.def Info: Hetre.jpg  used on input line 364.
 (pdftex.def)             Requested size: 170.13521pt x 112.92159pt.
-<Charançon.jpg, id=522, 293.095pt x 225.84375pt>
+<Charançon.jpg, id=530, 293.095pt x 225.84375pt>
 File: Charançon.jpg Graphic file (type jpg)
 <use Charançon.jpg>
 Package pdftex.def Info: Charançon.jpg  used on input line 367.
 (pdftex.def)             Requested size: 146.54713pt x 112.92159pt.
-<Amandier.jpg, id=523, 127.47626pt x 225.84375pt>
+<Amandier.jpg, id=531, 127.47626pt x 225.84375pt>
 File: Amandier.jpg Graphic file (type jpg)
 <use Amandier.jpg>
 Package pdftex.def Info: Amandier.jpg  used on input line 368.
 (pdftex.def)             Requested size: 63.73796pt x 112.92159pt.
  [19 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Hetre.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Charançon.jpg>]
-<Dardanelles.png, id=546, 701.62125pt x 342.27875pt>
+<Dardanelles.png, id=554, 701.62125pt x 342.27875pt>
 File: Dardanelles.png Graphic file (type png)
 <use Dardanelles.png>
 Package pdftex.def Info: Dardanelles.png  used on input line 378.
 (pdftex.def)             Requested size: 280.64352pt x 136.90906pt.
  [20 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Amandier.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Dardanelles.png>]
-<Péluse.png, id=568, 634.37pt x 376.40625pt>
+<Péluse.png, id=576, 634.37pt x 376.40625pt>
 File: Péluse.png Graphic file (type png)
 <use Péluse.png>
 Package pdftex.def Info: Péluse.png  used on input line 393.
@@ -986,226 +986,226 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 39
  (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<Scythie.png, id=569, 401.5pt x 229.85875pt>
+<Scythie.png, id=577, 401.5pt x 229.85875pt>
 File: Scythie.png Graphic file (type png)
 <use Scythie.png>
 Package pdftex.def Info: Scythie.png  used on input line 399.
 (pdftex.def)             Requested size: 200.7495pt x 114.92908pt.
-<Amerie.png, id=570, 700.6175pt x 295.1025pt>
+<Amerie.png, id=578, 700.6175pt x 295.1025pt>
 File: Amerie.png Graphic file (type png)
 <use Amerie.png>
 Package pdftex.def Info: Amerie.png  used on input line 413.
 (pdftex.def)             Requested size: 280.24203pt x 118.0389pt.
-<poix noirs.jpg, id=571, 339.2675pt x 225.84375pt>
+<poix noirs.jpg, id=579, 339.2675pt x 225.84375pt>
 File: poix noirs.jpg Graphic file (type jpg)
 <use poix noirs.jpg>
 Package pdftex.def Info: poix noirs.jpg  used on input line 415.
 (pdftex.def)             Requested size: 169.63333pt x 112.92159pt.
  [21 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Péluse.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Scythie.png>]
-<Monts.png, id=595, 679.53876pt x 434.62375pt>
+<Monts.png, id=603, 679.53876pt x 434.62375pt>
 File: Monts.png Graphic file (type png)
 <use Monts.png>
 Package pdftex.def Info: Monts.png  used on input line 430.
 (pdftex.def)             Requested size: 271.81068pt x 173.8464pt.
  [22 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Amerie.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/poix noirs.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Monts.png>]
-<Athos.png, id=612, 594.22pt x 342.27875pt>
+<Athos.png, id=620, 594.22pt x 342.27875pt>
 File: Athos.png Graphic file (type png)
 <use Athos.png>
 Package pdftex.def Info: Athos.png  used on input line 443.
 (pdftex.def)             Requested size: 207.98012pt x 119.79935pt.
-<Rhodope.png, id=613, 538.01pt x 310.15875pt>
+<Rhodope.png, id=621, 538.01pt x 310.15875pt>
 File: Rhodope.png Graphic file (type png)
 <use Rhodope.png>
 Package pdftex.def Info: Rhodope.png  used on input line 445.
 (pdftex.def)             Requested size: 215.20018pt x 124.0613pt.
-<Acrocérauniens.png, id=614, 494.84875pt x 287.0725pt>
+<Acrocérauniens.png, id=622, 494.84875pt x 287.0725pt>
 File: Acrocérauniens.png Graphic file (type png)
 <use Acrocérauniens.png>
 Package pdftex.def Info: Acrocérauniens.png  used on input line 447.
 (pdftex.def)             Requested size: 197.93599pt x 114.82695pt.
  [23 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Athos.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Rhodope.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Acrocérauniens.png>]
-<Cyllène.png, id=634, 654.445pt x 383.4325pt>
+<Cyllène.png, id=642, 654.445pt x 383.4325pt>
 File: Cyllène.png Graphic file (type png)
 <use Cyllène.png>
 Package pdftex.def Info: Cyllène.png  used on input line 452.
 (pdftex.def)             Requested size: 196.335pt x 115.03062pt.
-<Foulque.jpg, id=635, 301.125pt x 225.84375pt>
+<Foulque.jpg, id=643, 301.125pt x 225.84375pt>
 File: Foulque.jpg Graphic file (type jpg)
 <use Foulque.jpg>
 Package pdftex.def Info: Foulque.jpg  used on input line 455.
 (pdftex.def)             Requested size: 150.56212pt x 112.92159pt.
-<Héron.jpg, id=636, 339.2675pt x 225.84375pt>
+<Héron.jpg, id=644, 339.2675pt x 225.84375pt>
 File: Héron.jpg Graphic file (type jpg)
 <use Héron.jpg>
 Package pdftex.def Info: Héron.jpg  used on input line 456.
 (pdftex.def)             Requested size: 169.63333pt x 112.92159pt.
  [24 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Cyllène.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Foulque.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Héron.jpg>]
-<Caystre.png, id=653, 530.98375pt x 305.14pt>
+<Caystre.png, id=661, 530.98375pt x 305.14pt>
 File: Caystre.png Graphic file (type png)
 <use Caystre.png>
 Package pdftex.def Info: Caystre.png  used on input line 467.
 (pdftex.def)             Requested size: 212.38972pt x 122.05382pt.
  [25 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Caystre.png>]
-<Eridan.jpg, id=678, 333.245pt x 225.84375pt>
+<Eridan.jpg, id=686, 333.245pt x 225.84375pt>
 File: Eridan.jpg Graphic file (type jpg)
 <use Eridan.jpg>
 Package pdftex.def Info: Eridan.jpg  used on input line 495.
 (pdftex.def)             Requested size: 166.62209pt x 112.92159pt.
-<Emathie.png, id=679, 632.3625pt x 459.7175pt>
+<Emathie.png, id=687, 632.3625pt x 459.7175pt>
 File: Emathie.png Graphic file (type png)
 <use Emathie.png>
 Package pdftex.def Info: Emathie.png  used on input line 498.
 (pdftex.def)             Requested size: 189.7102pt x 137.9163pt.
-<Hémus.png, id=680, 620.3175pt x 353.32pt>
+<Hémus.png, id=688, 620.3175pt x 353.32pt>
 File: Hémus.png Graphic file (type png)
 <use Hémus.png>
 Package pdftex.def Info: Hémus.png  used on input line 500.
 (pdftex.def)             Requested size: 186.09668pt x 105.99681pt.
-<Tibre.jpg, id=681, 235.88126pt x 225.84375pt>
+<Tibre.jpg, id=689, 235.88126pt x 225.84375pt>
 File: Tibre.jpg Graphic file (type jpg)
 <use Tibre.jpg>
 Package pdftex.def Info: Tibre.jpg  used on input line 506.
 (pdftex.def)             Requested size: 117.94034pt x 112.92159pt.
  [26 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Eridan.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Emathie.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Hémus.png>]
-<Euphrate.jpg, id=697, 235.88126pt x 225.84375pt>
+<Euphrate.jpg, id=705, 235.88126pt x 225.84375pt>
 File: Euphrate.jpg Graphic file (type jpg)
 <use Euphrate.jpg>
 Package pdftex.def Info: Euphrate.jpg  used on input line 513.
 (pdftex.def)             Requested size: 117.94034pt x 112.92159pt.
-<genet.jpg, id=698, 361.35pt x 225.84375pt>
+<genet.jpg, id=706, 361.35pt x 225.84375pt>
 File: genet.jpg Graphic file (type jpg)
 <use genet.jpg>
 Package pdftex.def Info: genet.jpg  used on input line 534.
 (pdftex.def)             Requested size: 180.67456pt x 112.92159pt.
  [27 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Tibre.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Euphrate.jpg>]
-<saulaie.jpg, id=719, 339.2675pt x 225.84375pt>
+<saulaie.jpg, id=727, 339.2675pt x 225.84375pt>
 File: saulaie.jpg Graphic file (type jpg)
 <use saulaie.jpg>
 Package pdftex.def Info: saulaie.jpg  used on input line 537.
 (pdftex.def)             Requested size: 169.63333pt x 112.92159pt.
-<rouvre.jpg, id=720, 127.47626pt x 225.84375pt>
+<rouvre.jpg, id=728, 127.47626pt x 225.84375pt>
 File: rouvre.jpg Graphic file (type jpg)
 <use rouvre.jpg>
 Package pdftex.def Info: rouvre.jpg  used on input line 539.
 (pdftex.def)             Requested size: 63.73796pt x 112.92159pt.
-<orme.jpg, id=721, 169.63374pt x 225.84375pt>
+<orme.jpg, id=729, 169.63374pt x 225.84375pt>
 File: orme.jpg Graphic file (type jpg)
 <use orme.jpg>
 Package pdftex.def Info: orme.jpg  used on input line 543.
 (pdftex.def)             Requested size: 84.81665pt x 112.92159pt.
  [28 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/genet.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/saulaie.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/rouvre.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/orme.jpg>]
-<Ismare.png, id=733, 521.95pt x 374.39874pt>
+<Ismare.png, id=741, 521.95pt x 374.39874pt>
 File: Ismare.png Graphic file (type png)
 <use Ismare.png>
 Package pdftex.def Info: Ismare.png  used on input line 555.
 (pdftex.def)             Requested size: 156.5862pt x 112.32048pt.
-<Taburne.png, id=734, 531.9875pt x 311.1625pt>
+<Taburne.png, id=742, 531.9875pt x 311.1625pt>
 File: Taburne.png Graphic file (type png)
 <use Taburne.png>
 Package pdftex.def Info: Taburne.png  used on input line 557.
 (pdftex.def)             Requested size: 159.59747pt x 93.34947pt.
-<coudrier.jpg, id=735, 266.9975pt x 200.75pt>
+<coudrier.jpg, id=743, 266.9975pt x 200.75pt>
 File: coudrier.jpg Graphic file (type jpg)
 <use coudrier.jpg>
 Package pdftex.def Info: coudrier.jpg  used on input line 567.
 (pdftex.def)             Requested size: 133.49841pt x 100.37474pt.
  [29 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Ismare.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Taburne.png>]
-<frene.jpg, id=757, 361.35pt x 225.84375pt>
+<frene.jpg, id=765, 361.35pt x 225.84375pt>
 File: frene.jpg Graphic file (type jpg)
 <use frene.jpg>
 Package pdftex.def Info: frene.jpg  used on input line 570.
 (pdftex.def)             Requested size: 180.67456pt x 112.92159pt.
-<platane.jpg, id=758, 169.63374pt x 225.84375pt>
+<platane.jpg, id=766, 169.63374pt x 225.84375pt>
 File: platane.jpg Graphic file (type jpg)
 <use platane.jpg>
 Package pdftex.def Info: platane.jpg  used on input line 577.
 (pdftex.def)             Requested size: 84.81665pt x 112.92159pt.
-<orne.jpg, id=759, 218.8175pt x 225.84375pt>
+<orne.jpg, id=767, 218.8175pt x 225.84375pt>
 File: orne.jpg Graphic file (type jpg)
 <use orne.jpg>
 Package pdftex.def Info: orne.jpg  used on input line 579.
 (pdftex.def)             Requested size: 109.40848pt x 112.92159pt.
  [30 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/coudrier.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/frene.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/platane.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/orne.jpg>]
-<greffe en fente.jpeg, id=770, 52.998pt x 88.8921pt>
+<greffe en fente.jpeg, id=778, 52.998pt x 88.8921pt>
 File: greffe en fente.jpeg Graphic file (type jpg)
 <use greffe en fente.jpeg>
 Package pdftex.def Info: greffe en fente.jpeg  used on input line 582.
 (pdftex.def)             Requested size: 79.4968pt x 133.33781pt.
-<greffe en ecusson.jpeg, id=771, 52.998pt x 33.726pt>
+<greffe en ecusson.jpeg, id=779, 52.998pt x 33.726pt>
 File: greffe en ecusson.jpeg Graphic file (type jpg)
 <use greffe en ecusson.jpeg>
 Package pdftex.def Info: greffe en ecusson.jpeg  used on input line 584.
 (pdftex.def)             Requested size: 132.49466pt x 84.31476pt.
-<crustumium.png, id=772, 577.15625pt x 311.1625pt>
+<crustumium.png, id=780, 577.15625pt x 311.1625pt>
 File: crustumium.png Graphic file (type png)
 <use crustumium.png>
 Package pdftex.def Info: crustumium.png  used on input line 594.
 (pdftex.def)             Requested size: 230.8584pt x 124.46278pt.
-<Lesbos.png, id=773, 501.875pt x 303.1325pt>
+<Lesbos.png, id=781, 501.875pt x 303.1325pt>
 File: Lesbos.png Graphic file (type png)
 <use Lesbos.png>
 Package pdftex.def Info: Lesbos.png  used on input line 596.
 (pdftex.def)             Requested size: 200.74643pt x 121.25084pt.
  [31 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/greffe en fente.jpeg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/greffe en ecusson.jpeg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/crustumium.png>]
-<Methymne.png, id=792, 405.515pt x 323.2075pt>
+<Methymne.png, id=800, 405.515pt x 323.2075pt>
 File: Methymne.png Graphic file (type png)
 <use Methymne.png>
 Package pdftex.def Info: Methymne.png  used on input line 600.
 (pdftex.def)             Requested size: 162.20311pt x 129.2807pt.
-<Thasos.png, id=793, 550.055pt x 323.2075pt>
+<Thasos.png, id=801, 550.055pt x 323.2075pt>
 File: Thasos.png Graphic file (type png)
 <use Thasos.png>
 Package pdftex.def Info: Thasos.png  used on input line 602.
 (pdftex.def)             Requested size: 220.0181pt x 129.2807pt.
-<Mareotis.png, id=794, 575.14874pt x 336.25626pt>
+<Mareotis.png, id=802, 575.14874pt x 336.25626pt>
 File: Mareotis.png Graphic file (type png)
 <use Mareotis.png>
 Package pdftex.def Info: Mareotis.png  used on input line 604.
 (pdftex.def)             Requested size: 230.05542pt x 134.5001pt.
  [32 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Lesbos.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Methymne.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Thasos.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Mareotis.png>]
-<Rhodes.png, id=807, 403.5075pt x 200.75pt>
+<Rhodes.png, id=815, 403.5075pt x 200.75pt>
 File: Rhodes.png Graphic file (type png)
 <use Rhodes.png>
 Package pdftex.def Info: Rhodes.png  used on input line 617.
 (pdftex.def)             Requested size: 201.75325pt x 100.37474pt.
-<Aulne.jpg, id=808, 361.35pt x 225.84375pt>
+<Aulne.jpg, id=816, 361.35pt x 225.84375pt>
 File: Aulne.jpg Graphic file (type jpg)
 <use Aulne.jpg>
 Package pdftex.def Info: Aulne.jpg  used on input line 628.
 (pdftex.def)             Requested size: 180.67456pt x 112.92159pt.
-<If.jpg, id=809, 402.50375pt x 225.84375pt>
+<If.jpg, id=817, 402.50375pt x 225.84375pt>
 File: If.jpg Graphic file (type jpg)
 <use If.jpg>
 Package pdftex.def Info: If.jpg  used on input line 633.
 (pdftex.def)             Requested size: 160.99864pt x 90.33589pt.
  [33 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Rhodes.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Aulne.jpg>]
-<Ebenier.jpg, id=830, 169.63374pt x 225.84375pt>
+<Ebenier.jpg, id=838, 169.63374pt x 225.84375pt>
 File: Ebenier.jpg Graphic file (type jpg)
 <use Ebenier.jpg>
 Package pdftex.def Info: Ebenier.jpg  used on input line 639.
 (pdftex.def)             Requested size: 84.81665pt x 112.92159pt.
-<Acanthe.jpg, id=831, 301.125pt x 225.84375pt>
+<Acanthe.jpg, id=839, 301.125pt x 225.84375pt>
 File: Acanthe.jpg Graphic file (type jpg)
 <use Acanthe.jpg>
 Package pdftex.def Info: Acanthe.jpg  used on input line 641.
 (pdftex.def)             Requested size: 120.44786pt x 90.33589pt.
-<Medie.png, id=832, 441.65pt x 341.275pt>
+<Medie.png, id=840, 441.65pt x 341.275pt>
 File: Medie.png Graphic file (type png)
 <use Medie.png>
 Package pdftex.def Info: Medie.png  used on input line 645.
 (pdftex.def)             Requested size: 176.65686pt x 136.50757pt.
-<Gange.jpg, id=833, 402.50375pt x 225.84375pt>
+<Gange.jpg, id=841, 402.50375pt x 225.84375pt>
 File: Gange.jpg Graphic file (type jpg)
 <use Gange.jpg>
 Package pdftex.def Info: Gange.jpg  used on input line 648.
 (pdftex.def)             Requested size: 201.25137pt x 112.92159pt.
  [34 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/If.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Ebenier.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Acanthe.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Medie.png>]
-<Gediz.png, id=845, 281.05pt x 85.31876pt>
+<Gediz.png, id=853, 281.05pt x 85.31876pt>
 File: Gediz.png Graphic file (type png)
 <use Gediz.png>
 Package pdftex.def Info: Gediz.png  used on input line 650.
 (pdftex.def)             Requested size: 281.0493pt x 85.31853pt.
-<Bactres.png, id=846, 429.605pt x 249.93375pt>
+<Bactres.png, id=854, 429.605pt x 249.93375pt>
 File: Bactres.png Graphic file (type png)
 <use Bactres.png>
 Package pdftex.def Info: Bactres.png  used on input line 652.
@@ -1214,317 +1214,338 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 65
  (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<Aconit.jpg, id=847, 301.125pt x 225.84375pt>
+<Aconit.jpg, id=855, 301.125pt x 225.84375pt>
 File: Aconit.jpg Graphic file (type jpg)
 <use Aconit.jpg>
 Package pdftex.def Info: Aconit.jpg  used on input line 664.
 (pdftex.def)             Requested size: 150.56212pt x 112.92159pt.
  [35 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Gange.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Gediz.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Bactres.png>]
-<Mer Adriatique et Tyrrhénienne.jpg, id=867, 923.45pt x 926.46124pt>
+<Mer Adriatique et Tyrrhénienne.jpg, id=875, 923.45pt x 926.46124pt>
 File: Mer Adriatique et Tyrrhénienne.jpg Graphic file (type jpg)
 <use Mer Adriatique et Tyrrhénienne.jpg>
 Package pdftex.def Info: Mer Adriatique et Tyrrhénienne.jpg  used on input line 667.
 (pdftex.def)             Requested size: 277.03712pt x 277.9405pt.
-<Come.png, id=868, 637.38126pt x 375.4025pt>
+<Come.png, id=876, 637.38126pt x 375.4025pt>
 File: Come.png Graphic file (type png)
 <use Come.png>
 Package pdftex.def Info: Come.png  used on input line 669.
 (pdftex.def)             Requested size: 191.21585pt x 112.62161pt.
-<Garde.png, id=869, 477.785pt x 261.97874pt>
+<Garde.png, id=877, 477.785pt x 261.97874pt>
 File: Garde.png Graphic file (type png)
 <use Garde.png>
 Package pdftex.def Info: Garde.png  used on input line 671.
 (pdftex.def)             Requested size: 143.3366pt x 78.59422pt.
  [36 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Aconit.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Mer Adriatique et Tyrrhénienne.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Come.png>]
-<Lucrin.png, id=878, 548.0475pt x 313.17pt>
+<Lucrin.png, id=886, 548.0475pt x 313.17pt>
 File: Lucrin.png Graphic file (type png)
 <use Lucrin.png>
 Package pdftex.def Info: Lucrin.png  used on input line 674.
 (pdftex.def)             Requested size: 164.41551pt x 93.95172pt.
-<Averne.png, id=879, 543.02875pt x 336.25626pt>
+<Averne.png, id=887, 543.02875pt x 336.25626pt>
 File: Averne.png Graphic file (type png)
 <use Averne.png>
 Package pdftex.def Info: Averne.png  used on input line 676.
 (pdftex.def)             Requested size: 162.90987pt x 100.87766pt.
-<Celano.png, id=880, 600.2425pt x 339.2675pt>
+<Celano.png, id=888, 600.2425pt x 339.2675pt>
 File: Celano.png Graphic file (type png)
 <use Celano.png>
 Package pdftex.def Info: Celano.png  used on input line 678.
 (pdftex.def)             Requested size: 180.07413pt x 101.78102pt.
-<Gênes.png, id=881, 562.1pt x 335.2525pt>
+<Gênes.png, id=889, 562.1pt x 335.2525pt>
 File: Gênes.png Graphic file (type png)
 <use Gênes.png>
 Package pdftex.def Info: Gênes.png  used on input line 681.
 (pdftex.def)             Requested size: 168.6313pt x 100.57652pt.
  [37 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Garde.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Lucrin.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Averne.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Celano.png>]
-<Latium.png, id=896, 607.26875pt x 291.0875pt>
+<Latium.png, id=904, 607.26875pt x 291.0875pt>
 File: Latium.png Graphic file (type png)
 <use Latium.png>
 Package pdftex.def Info: Latium.png  used on input line 684.
 (pdftex.def)             Requested size: 182.18202pt x 87.32692pt.
-<Tarente.png, id=897, 501.875pt x 361.35pt>
+<Tarente.png, id=905, 501.875pt x 361.35pt>
 File: Tarente.png Graphic file (type png)
 <use Tarente.png>
 Package pdftex.def Info: Tarente.png  used on input line 707.
 (pdftex.def)             Requested size: 150.56366pt x 108.40584pt.
  [38 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Gênes.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Latium.png>]
-<Mincio.png, id=923, 418.56375pt x 265.99374pt>
+<Mincio.png, id=931, 418.56375pt x 265.99374pt>
 File: Mincio.png Graphic file (type png)
 <use Mincio.png>
 Package pdftex.def Info: Mincio.png  used on input line 711.
 (pdftex.def)             Requested size: 167.42252pt x 106.3956pt.
-<Serpolet.jpg, id=924, 259.97125pt x 225.84375pt>
+<Serpolet.jpg, id=932, 259.97125pt x 225.84375pt>
 File: Serpolet.jpg Graphic file (type jpg)
 <use Serpolet.jpg>
 Package pdftex.def Info: Serpolet.jpg  used on input line 720.
 (pdftex.def)             Requested size: 129.9853pt x 112.92159pt.
-<Romarin.jpg, id=925, 225.84375pt x 225.84375pt>
+<Romarin.jpg, id=933, 225.84375pt x 225.84375pt>
 File: Romarin.jpg Graphic file (type jpg)
 <use Romarin.jpg>
 Package pdftex.def Info: Romarin.jpg  used on input line 722.
 (pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
  [39 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Tarente.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Mincio.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Serpolet.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Romarin.jpg>]
-<Capoue.png, id=937, 463.7325pt x 262.9825pt>
+<Capoue.png, id=945, 463.7325pt x 262.9825pt>
 File: Capoue.png Graphic file (type png)
 <use Capoue.png>
 Package pdftex.def Info: Capoue.png  used on input line 727.
 (pdftex.def)             Requested size: 231.86568pt x 131.49092pt.
-<Clain.png, id=938, 724.7075pt x 328.22626pt>
+<Clain.png, id=946, 724.7075pt x 328.22626pt>
 File: Clain.png Graphic file (type png)
 <use Clain.png>
 Package pdftex.def Info: Clain.png  used on input line 729.
 (pdftex.def)             Requested size: 289.87787pt x 131.28816pt.
-<Acerre.png, id=939, 597.23125pt x 308.15125pt>
+<Acerre.png, id=947, 597.23125pt x 308.15125pt>
 File: Acerre.png Graphic file (type png)
 <use Acerre.png>
 Package pdftex.def Info: Acerre.png  used on input line 731.
 (pdftex.def)             Requested size: 238.88826pt x 123.2583pt.
  [40 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Capoue.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Clain.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Acerre.png>] [41]
-<Houx.jpg, id=990, 301.125pt x 225.84375pt>
+<Houx.jpg, id=998, 301.125pt x 225.84375pt>
 File: Houx.jpg Graphic file (type jpg)
 <use Houx.jpg>
 Package pdftex.def Info: Houx.jpg  used on input line 783.
 (pdftex.def)             Requested size: 150.56212pt x 112.92159pt.
-<Cytise.jpg, id=991, 252.945pt x 225.84375pt>
+<Cytise.jpg, id=999, 252.945pt x 225.84375pt>
 File: Cytise.jpg Graphic file (type jpg)
 <use Cytise.jpg>
 Package pdftex.def Info: Cytise.jpg  used on input line 794.
 (pdftex.def)             Requested size: 126.47218pt x 112.92159pt.
-<Cytore.png, id=992, 714.67pt x 338.26375pt>
+<Cytore.png, id=1000, 714.67pt x 338.26375pt>
 File: Cytore.png Graphic file (type png)
 <use Cytore.png>
 Package pdftex.def Info: Cytore.png  used on input line 796.
 (pdftex.def)             Requested size: 214.40265pt x 101.4799pt.
-<Buis.jpg, id=993, 225.84375pt x 225.84375pt>
+<Buis.jpg, id=1001, 225.84375pt x 225.84375pt>
 File: Buis.jpg Graphic file (type jpg)
 <use Buis.jpg>
 Package pdftex.def Info: Buis.jpg  used on input line 798.
 (pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
  [42 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Houx.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Cytise.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Cytore.png>]
-<Naryce.png, id=1008, 708.6475pt x 357.335pt>
+<Naryce.png, id=1016, 708.6475pt x 357.335pt>
 File: Naryce.png Graphic file (type png)
 <use Naryce.png>
 Package pdftex.def Info: Naryce.png  used on input line 801.
 (pdftex.def)             Requested size: 212.59589pt x 107.20132pt.
-<Cornouiller.jpg, id=1009, 246.6816pt x 164.5347pt>
+<Cornouiller.jpg, id=1017, 246.6816pt x 164.5347pt>
 File: Cornouiller.jpg Graphic file (type jpg)
 <use Cornouiller.jpg>
 Package pdftex.def Info: Cornouiller.jpg  used on input line 805.
 (pdftex.def)             Requested size: 123.34048pt x 82.26714pt.
-<Ituree.png, id=1010, 548.0475pt x 502.87875pt>
+<Ituree.png, id=1018, 548.0475pt x 502.87875pt>
 File: Ituree.png Graphic file (type png)
 <use Ituree.png>
 Package pdftex.def Info: Ituree.png  used on input line 807.
 (pdftex.def)             Requested size: 164.41551pt x 150.86478pt.
  [43 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Buis.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Naryce.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Cornouiller.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Ituree.png>]
-<Corinthe.png, id=1024, 815.29594pt x 547.2947pt>
+<Corinthe.png, id=1032, 815.29594pt x 547.2947pt>
 File: Corinthe.png Graphic file (type png)
 <use Corinthe.png>
 Package pdftex.def Info: Corinthe.png  used on input line 820.
 (pdftex.def)             Requested size: 244.59067pt x 164.18967pt.
-<Assyrie.jpg, id=1025, 652.4375pt x 583.17876pt>
+<Assyrie.jpg, id=1033, 652.4375pt x 583.17876pt>
 File: Assyrie.jpg Graphic file (type jpg)
 <use Assyrie.jpg>
 Package pdftex.def Info: Assyrie.jpg  used on input line 822.
 (pdftex.def)             Requested size: 195.73276pt x 174.95497pt.
  [44 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Corinthe.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Assyrie.jpg>]
-<Taygete.png, id=1045, 674.52pt x 443.40656pt>
+<Taygete.png, id=1053, 674.52pt x 443.40656pt>
 File: Taygete.png Graphic file (type png)
 <use Taygete.png>
 Package pdftex.def Info: Taygete.png  used on input line 832.
 (pdftex.def)             Requested size: 202.35756pt x 133.02298pt.
-<Laconie.png, id=1046, 525.46312pt x 293.59688pt>
+<Laconie.png, id=1054, 525.46312pt x 293.59688pt>
 File: Laconie.png Graphic file (type png)
 <use Laconie.png>
 Package pdftex.def Info: Laconie.png  used on input line 834.
 (pdftex.def)             Requested size: 236.45622pt x 132.11736pt.
-<Danube.jpg, id=1047, 1003.75pt x 479.7925pt>
+<Danube.jpg, id=1055, 1003.75pt x 479.7925pt>
 File: Danube.jpg Graphic file (type jpg)
 <use Danube.jpg>
 Package pdftex.def Info: Danube.jpg  used on input line 851.
 (pdftex.def)             Requested size: 301.12732pt x 143.93884pt.
  [45 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Taygete.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Laconie.png>]
-<Sarra.png, id=1068, 342.5297pt x 284.56313pt>
+<Sarra.png, id=1076, 342.5297pt x 284.56313pt>
 File: Sarra.png Graphic file (type png)
 <use Sarra.png>
 Package pdftex.def Info: Sarra.png  used on input line 857.
 (pdftex.def)             Requested size: 154.13693pt x 128.05222pt.
-<Sicyone.png, id=1069, 651.93562pt x 494.59781pt>
+<Sicyone.png, id=1077, 651.93562pt x 494.59781pt>
 File: Sicyone.png Graphic file (type png)
 <use Sicyone.png>
 Package pdftex.def Info: Sicyone.png  used on input line 861.
 (pdftex.def)             Requested size: 162.9835pt x 123.64914pt.
  [46 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Danube.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Sarra.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Sicyone.png>]
-<Etrurie.png, id=1085, 260.975pt x 317.185pt>
+<Etrurie.png, id=1093, 260.975pt x 317.185pt>
 File: Etrurie.png Graphic file (type png)
 <use Etrurie.png>
 Package pdftex.def Info: Etrurie.png  used on input line 867.
 (pdftex.def)             Requested size: 130.48718pt x 158.5921pt.
-<Délos.png, id=1086, 829.59938pt x 526.96875pt>
+<Délos.png, id=1094, 829.59938pt x 526.96875pt>
 File: Délos.png Graphic file (type png)
 <use Délos.png>
 Package pdftex.def Info: Délos.png  used on input line 887.
 (pdftex.def)             Requested size: 248.88173pt x 158.09184pt.
  [47 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Etrurie.png>]
-<Cynthe.png, id=1107, 629.35126pt x 362.10281pt>
+<Cynthe.png, id=1115, 629.35126pt x 362.10281pt>
 File: Cynthe.png Graphic file (type png)
 <use Cynthe.png>
 Package pdftex.def Info: Cynthe.png  used on input line 891.
 (pdftex.def)             Requested size: 251.73604pt x 144.83855pt.
-<Aonien.png, id=1108, 607.51968pt x 443.40656pt>
+<Aonien.png, id=1116, 607.51968pt x 443.40656pt>
 File: Aonien.png Graphic file (type png)
 <use Aonien.png>
 Package pdftex.def Info: Aonien.png  used on input line 899.
 (pdftex.def)             Requested size: 243.00356pt x 177.35948pt.
  [48 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Délos.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Cynthe.png>]
-<Béotie.png, id=1121, 404.26031pt x 319.1925pt>
+<Béotie.png, id=1129, 404.26031pt x 319.1925pt>
 File: Béotie.png Graphic file (type png)
 <use Béotie.png>
 Package pdftex.def Info: Béotie.png  used on input line 902.
 (pdftex.def)             Requested size: 202.12965pt x 159.59586pt.
-<Idumée.png, id=1122, 220.825pt x 262.9825pt>
+<Idumée.png, id=1130, 220.825pt x 262.9825pt>
 File: Idumée.png Graphic file (type png)
 <use Idumée.png>
 Package pdftex.def Info: Idumée.png  used on input line 904.
 (pdftex.def)             Requested size: 110.41222pt x 131.49092pt.
-<Alphée.png, id=1123, 246.6816pt x 193.2018pt>
+<Alphée.png, id=1131, 246.6816pt x 193.2018pt>
 File: Alphée.png Graphic file (type png)
 <use Alphée.png>
 Package pdftex.def Info: Alphée.png  used on input line 906.
 (pdftex.def)             Requested size: 123.34048pt x 96.60065pt.
  [49 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Aonien.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Béotie.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Idumée.png>]
-<Paros.png, id=1135, 509.65407pt x 402.00188pt>
+<Paros.png, id=1143, 509.65407pt x 402.00188pt>
 File: Paros.png Graphic file (type png)
 <use Paros.png>
 Package pdftex.def Info: Paros.png  used on input line 915.
 (pdftex.def)             Requested size: 203.858pt x 160.7979pt.
-<Cithéron.png, id=1136, 575.14874pt x 377.15906pt>
+<Cithéron.png, id=1144, 575.14874pt x 377.15906pt>
 File: Cithéron.png Graphic file (type png)
 <use Cithéron.png>
 Package pdftex.def Info: Cithéron.png  used on input line 923.
 (pdftex.def)             Requested size: 230.05542pt x 150.86095pt.
  [50 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Alphée.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Paros.png>]
-<Bai.jpg, id=1156, 158.994pt x 128.6406pt>
+<Bai.jpg, id=1164, 158.994pt x 128.6406pt>
 File: Bai.jpg Graphic file (type jpg)
 <use Bai.jpg>
 Package pdftex.def Info: Bai.jpg  used on input line 938.
 (pdftex.def)             Requested size: 79.4968pt x 64.32013pt.
-<Alezan.jpg, id=1157, 158.994pt x 106.2369pt>
+<Alezan.jpg, id=1165, 158.994pt x 106.2369pt>
 File: Alezan.jpg Graphic file (type jpg)
 <use Alezan.jpg>
 Package pdftex.def Info: Alezan.jpg  used on input line 940.
 (pdftex.def)             Requested size: 79.4968pt x 53.1183pt.
  [51 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Cithéron.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Bai.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Alezan.jpg>]
-<Sélé.png, id=1175, 559.33969pt x 340.27126pt>
+<Sélé.png, id=1184, 559.33969pt x 340.27126pt>
 File: Sélé.png Graphic file (type png)
 <use Sélé.png>
 Package pdftex.def Info: Sélé.png  used on input line 952.
 (pdftex.def)             Requested size: 223.7319pt x 136.10608pt.
-<Alburne.png, id=1176, 458.46281pt x 344.78813pt>
+<Alburne.png, id=1185, 458.46281pt x 344.78813pt>
 File: Alburne.png Graphic file (type png)
 <use Alburne.png>
 Package pdftex.def Info: Alburne.png  used on input line 954.
 (pdftex.def)             Requested size: 229.23083pt x 172.39363pt.
  [52 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Sélé.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Alburne.png>]
-<Ulve.jpg, id=1197, 803.0pt x 602.25pt>
+<Ulve.jpg, id=1205, 803.0pt x 602.25pt>
 File: Ulve.jpg Graphic file (type jpg)
 <use Ulve.jpg>
 Package pdftex.def Info: Ulve.jpg  used on input line 963.
 (pdftex.def)             Requested size: 160.59715pt x 120.44786pt.
-<Laîche.jpg, id=1198, 640.3925pt x 853.1875pt>
+<Laîche.jpg, id=1206, 640.3925pt x 853.1875pt>
 File: Laîche.jpg Graphic file (type jpg)
 <use Laîche.jpg>
 Package pdftex.def Info: Laîche.jpg  used on input line 983.
 (pdftex.def)             Requested size: 128.07622pt x 170.63448pt.
  [53 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Ulve.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Laîche.jpg>]
-<Lucanie.png, id=1218, 623.32875pt x 433.62pt>
+<Lucanie.png, id=1226, 623.32875pt x 433.62pt>
 File: Lucanie.png Graphic file (type png)
 <use Lucanie.png>
 Package pdftex.def Info: Lucanie.png  used on input line 987.
 (pdftex.def)             Requested size: 187.00006pt x 130.087pt.
-<Ascagne.png, id=1219, 568.37344pt x 368.87813pt>
+<Ascagne.png, id=1227, 568.37344pt x 368.87813pt>
 File: Ascagne.png Graphic file (type png)
 <use Ascagne.png>
 Package pdftex.def Info: Ascagne.png  used on input line 998.
 (pdftex.def)             Requested size: 284.18602pt x 184.4386pt.
  [54 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Lucanie.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Ascagne.PNG>]
-<Milet.png, id=1238, 192.72pt x 88.6512pt>
+<Milet.png, id=1246, 192.72pt x 88.6512pt>
 File: Milet.png Graphic file (type png)
 <use Milet.png>
 Package pdftex.def Info: Milet.png  used on input line 1008.
 (pdftex.def)             Requested size: 192.71951pt x 88.65097pt.
-<chardonneret.jpg, id=1239, 803.0pt x 608.2725pt>
+<chardonneret.jpg, id=1247, 803.0pt x 608.2725pt>
 File: chardonneret.jpg Graphic file (type jpg)
 <use chardonneret.jpg>
 Package pdftex.def Info: chardonneret.jpg  used on input line 1016.
 (pdftex.def)             Requested size: 160.59715pt x 121.65234pt.
-<Méotide.png, id=1240, 803.0pt x 561.09625pt>
+<Méotide.png, id=1248, 803.0pt x 561.09625pt>
 File: Méotide.png Graphic file (type png)
 <use Méotide.png>
 Package pdftex.def Info: Méotide.png  used on input line 1023.
 (pdftex.def)             Requested size: 240.90186pt x 168.33017pt.
  [55 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Milet.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Chardonneret.jpg>]
-<Sorbe.jpg, id=1266, 1606.0pt x 1398.22375pt>
+<Sorbe.jpg, id=1274, 1606.0pt x 1398.22375pt>
 File: Sorbe.jpg Graphic file (type jpg)
 <use Sorbe.jpg>
 Package pdftex.def Info: Sorbe.jpg  used on input line 1029.
 (pdftex.def)             Requested size: 160.6094pt x 139.83057pt.
-<Mélicot.jpg, id=1267, 69.861pt x 93.2283pt>
+<Mélicot.jpg, id=1275, 69.861pt x 93.2283pt>
 File: Mélicot.jpg Graphic file (type jpg)
 <use Mélicot.jpg>
 Package pdftex.def Info: Mélicot.jpg  used on input line 1032.
 (pdftex.def)             Requested size: 104.79121pt x 139.8421pt.
  [56 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Méotide.png> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Sorbe.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Mélicot.jpg>]
-<Iapydie.png, id=1279, 791.95876pt x 465.74pt>
+<Iapydie.png, id=1287, 791.95876pt x 465.74pt>
 File: Iapydie.png Graphic file (type png)
 <use Iapydie.png>
 Package pdftex.def Info: Iapydie.png  used on input line 1058.
 (pdftex.def)             Requested size: 237.58946pt x 139.72307pt.
  [57 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Iapydie.png>]
+<Daphne.jpg, id=1317, 236.885pt x 225.84375pt>
+File: Daphne.jpg Graphic file (type jpg)
+<use Daphne.jpg>
+Package pdftex.def Info: Daphne.jpg  used on input line 1089.
+(pdftex.def)             Requested size: 118.4422pt x 112.92159pt.
+<Sariette.jpg, id=1318, 339.2675pt x 225.84375pt>
+File: Sariette.jpg Graphic file (type jpg)
+<use Sariette.jpg>
+Package pdftex.def Info: Sariette.jpg  used on input line 1091.
+(pdftex.def)             Requested size: 169.63333pt x 112.92159pt.
+<Melisse.jpg, id=1319, 225.84375pt x 225.84375pt>
+File: Melisse.jpg Graphic file (type jpg)
+<use Melisse.jpg>
+Package pdftex.def Info: Melisse.jpg  used on input line 1097.
+(pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
+<Melinet.jpg, id=1320, 301.125pt x 225.84375pt>
+File: Melinet.jpg Graphic file (type jpg)
+<use Melinet.jpg>
+Package pdftex.def Info: Melinet.jpg  used on input line 1099.
+(pdftex.def)             Requested size: 150.56212pt x 112.92159pt.
+ [58 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Daphne.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Sariette.jpg>]
 \tf@thm=\write6
 \openout6 = `"Vocabulaire incompris.thm"'.
 
- [58]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1076.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1076.
+ [59 </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Melisse.jpg> </home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Melinet.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1107.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1107.
  (/home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire incompris.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1076.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1076.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1076.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1107.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1107.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1107.
  ) 
 Here is how much of TeX's memory you used:
- 23008 strings out of 481239
- 404600 string characters out of 5920377
- 655306 words of memory out of 5000000
- 36903 multiletter control sequences out of 15000+600000
+ 23056 strings out of 481239
+ 405159 string characters out of 5920377
+ 655481 words of memory out of 5000000
+ 36927 multiletter control sequences out of 15000+600000
  575029 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,8n,60p,521b,581s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on "/home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire incompris.pdf" (58 pages, 13901731 bytes).
+Output written on "/home/neo/Bureau/Education/Cours MP*/Cours/Français/Livres Le Travail/Virgile - Les Georgiques/Vocabulaire incompris.pdf" (59 pages, 13983093 bytes).
 PDF statistics:
- 1527 PDF objects out of 1728 (max. 8388607)
- 1249 compressed objects within 13 object streams
- 774 named destinations out of 1000 (max. 500000)
- 695 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1563 PDF objects out of 1728 (max. 8388607)
+ 1280 compressed objects within 13 object streams
+ 794 named destinations out of 1000 (max. 500000)
+ 715 words of extra memory for PDF output out of 10000 (max. 10000000)
 
