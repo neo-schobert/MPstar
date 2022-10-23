@@ -21,6 +21,9 @@
 \usepackage[standard]{ntheorem}
 \usepackage{romanbar}
 \usepackage{titlesec}
+\usepackage[final]{pdfpages}
+\usepackage{xcolor}
+\usepackage{xcolor, soul}
 
 
 
@@ -56,6 +59,14 @@
 \newcommand{\rb}[1]{\Romanbar{#1}}
 
 \newcommand{\cit}{\textcolor{blue}{\textbf{Citation : }}}
+
+
+\definecolor{authorGray}{RGB}{20,20,20}
+\definecolor{citationRed}{RGB}{255,110,110}
+\definecolor{surlignage}{RGB}{255,249,151}
+
+\newcommand{\citer}[3]{\bs \begin{center} \textcolor{authorGray}{#1 :} \textcolor{citationRed}{\og #2 \fg} \textcolor{authorGray}{(\underline{#3})} \end{center} \bs}
+
 
 \newcommand{\trinom}[3]{\begin{pmatrix}
     #1 \\
@@ -130,9 +141,6 @@
 \tableofcontents
 
 
-\newpage
-
-\listoffigures
 
 \newpage
 
@@ -142,25 +150,270 @@
 
 \subsection{Livre 1}
 
-\begin{itemize}
-    \item 
-\end{itemize}
+\citer{Virgile}{et toi, alme Cérès, si, grâce à votre don, la terre a remplacé le gland de Chaonie par l'épi lourd, 
+et versé dans la coupe de l'Achéloüs le jus des grappes par vous découvertes}{Les Géorgiques, Livre \rb{1} p $37-38$}
+
+
+En parland de Octave, \citer{Virgile}{sensible comme moi aux misères des campagnards qui ne savent pas leur 
+route}{Les Géorgiques, Livre \rb{1} p $40$}
+
+
+\citer{Virgile}{Au printemps nouveau, quand fond la glace sur les monts chenus et que la glèbe amollie s'effrite
+au doux Zéphyr, je veux dès lors voir le taureau commencer de gémir sous le poids de la charrue, et le soc
+resplendir dans le sillon qu'il creuse}{Les Géorgiques, Livre \rb{1} p $41$}
+
+
+
+\citer{Virgile}{La récolte ne comblera les voeux de l'avide laboureur que si elle a senti deux fois le soleil et deux 
+fois les frimas: alors d'immenses moissons feront crouler ses greniers}{Les Géorgiques, Livre \rb{1} p $41$}
+
+
+\citer{Virgile}{Ici les moissons viennent mieux; là, les raisins; ailleurs les fruits des arbres et les herbages verdoient d'eux-mêmes.}{Les Géorgiques, Livre \rb{1} p $41$}
+
+
+\citer{Virgile}{Tes blés une fois coupés, tu laisseras la campagne se reposer pendant un an et, oisive, se durcir à l'abandon}{Les Géorgiques, Livre \rb{1} p $42$}
+
+
+\citer{Virgile}{Mais pourant, grâce à l'alternance, le travail fourni par la terre est facile}{Les Géorgiques, Livre \rb{1} p $43$}
+
+
+\citer{Virgile}{De plus, celui qui brise avec le hoyau les mottes inertes et qui fait passer sur elles les herses d'osier, fait
+du bien aux guérets, et ce n'est pas pour rien que du haut de l'Olympe la blonde Cérès le regarde.}{Les Géorgiques, Livre \rb{1} p $43$}
+
+
+\citer{Virgile}{Et cependant, en dépit de tout ce mal que les hommes et le boeufs se sont donné pour retourner la terre, ils ont encore 
+à craindre l'oie vorace, les grues du Strymon, l'endive aux fibres amères et les méfaits de l'ombre.}{Les Géorgiques, Livre \rb{1} p $45$}
+
+
+\citer{Virgile}{Le Père des dieux lui-même a voulu rendre la culture des champs difficile, et c'est lui qui le premier a fait un art 
+de remuer la terre, en aiguisant par les soucis les c\oe urs des mortels et en ne souffrant pas que son empire s'engourdît dans une 
+triste indolence.}{Les Géorgiques, Livre \rb{1} p $45$}
+
+
+En parlant de l'avant Jupiter, \citer{Virgile}{les récoltes étaient mises en commun, et la terre produisait tout d'elle-même, 
+librement, sans contrainte.}{Les Géorgiques, Livre \rb{1} p $45$}
+
+
+En parlant de Jupiter, \citer{Virgile}{son but était, en exerçant le besoin, de créer peu à peu les différents arts, de faire 
+chercher dans les sillons l'herbe du blé et jaillir du sein du caillou le feu qu'il recèle.}{Les Géorgiques, Livre \rb{1} p $45-46$}
+
+
+\citer{Virgile}{Tous les obstacles furent vaincus par un travail acharné et par le besoin pressant en de dures circonstances.}{Les Géorgiques, Livre \rb{1} p $46-47$}
+
+
+\citer{Virgile}{Si avec le hoyau tu ne fais pas une guerre assidue aux mauvaises herbes, si tu n'épouvantes à grand bruit
+les oiseaux, si la serpe en main tu n'élagues l'ombrage qui recouvre ton champ, si tu n'appelles la pluie par tes v\oe ux, hélas ! 
+tu en seras réduit à contempler le gros tas d'autrui et à secouer, pour soulager ta peine, le chêne dans les forêts.}{Les Géorgiques, Livre \rb{1} p $47$}
+
+
+\citer{Virgile}{Tels sont les instruments que tu auras soin de te procurer longtemps d'avance, si tu veux mériter la gloire 
+d'une campage divine.}{Les Géorgiques, Livre \rb{1} p $48$}
+
+
+\citer{Virgile}{J'ai vu des semences, choisies à loisir et examinées avec beaucoup de soin, dégénérer pourtant, si chaque année 
+on n'en triait à la main les plus belles: c'est une loi du destin que tout périclite et aille rétrogradant.}{Les Géorgiques, Livre \rb{1} p $50$}
+
+
+\citer{Virgile}{Si d'aventure une pluie froide retient le cultivateur chez lui, il peut faire à loisir bien des ouvrages qu'il lui 
+faudrait plus tard hâter par un ciel serein}{Les Géorgiques, Livre \rb{1} p $54$}
+
+
+\citer{Virgile}{Oui, même aux jours de fête, il est des travaux auxquels les lois divines et humaines permettent de se livrer;}{Les Géorgiques, Livre \rb{1} p $54$}
+
+
+\citer{Virgile}{Beaucoup de travaux nous sont rendus plus faciles par la fraîcheur de la nuit ou par la rosée dont, au lever 
+du soleil, l'Aurore humecte les terres.}{Les Géorgiques, Livre \rb{1} p $55$}
+
+
+En parlant de sa compagne, \citer{Virgile}{charmant par ses chansons l'ennui d'un long labeur}{Les Géorgiques, Livre \rb{1} p $56$}
+
+
+\citer{Virgile}{Pendant les froids, les laboureurs jouissent d'ordinaire du fruit de leurs travaux, en donnant tour à tour
+de gais festins entre eux.}{Les Géorgiques, Livre \rb{1} p $56$}
+
+
+\citer{Virgile}{Ici-bas en effet le juste et l'injuste sont renversés, tant il y a de guerres par le monde, tant le crime
+revêt d'aspects divers.}{Les Géorgiques, Livre \rb{1} p $68$}
+
+
+\citer{Virgile}{La charrue ne reçoit plus l'honneur dont elle est digne; les guérets sont en friche, privés des laboureurs
+entraînés dans les camps; et les faulx recourbées servent à forger une épée rigide.}{Les Géorgiques, Livre \rb{1} p $68$}
 
 
 
 \subsection{Livre 2}
 
-\begin{itemize}
-    \item 
-\end{itemize}
+\citer{Virgile}{En effet les uns, sans y être contraints de la part des hommes, poussent d'eux-mêmes et couvrent au loin 
+les plaines et les sinueuses vallées}{Les Géorgiques, Livre \rb{2} p $73$}
+
+
+\citer{Virgile}{Mais d'autres naissent d'une semence qui s'est posée à terre}{Les Géorgiques, Livre \rb{2} p $74$}
+
+
+\citer{Virgile}{D'autres habitants des forêts demandent qu'on courbe en arc leurs rejets et qu'on en plante les 
+boutures dans leur propre terre.}{Les Géorgiques, Livre \rb{2} p $74$}
+
+
+\citer{Virgile}{Au travail donc, ô cultivateurs! apprenez les procédés de culture propres à chaque espèce; adoucissez, en les cultivant,
+les fruits sauvages; que vos terres ne restent pas en friche. Il y a plaisir à planter Bacchus sur l'Ismare et à vêtir d'oliviers
+le grand Taburne.}{Les Géorgiques, Livre \rb{2} p $75$}
+
+
+\citer{Virgile}{ils dépouilleront bientôt leur naturel sauvage et, cultivés avec soin, se plieront sans tarder à tous les 
+artifices que l'on voudra.}{Les Géorgiques, Livre \rb{2} p $76$}
+
+
+\citer{Virgile}{Au reste toute terre ne peut porter toute espèce de plantes.}{Les Géorgiques, Livre \rb{2} p $79$}
+
+
+\citer{Virgile}{Ajoutez tant de villes incomparables, tant de travaux de construction, tant de places bâties par la main des 
+hommes sur des rochers à pic, et ces fleuves baignant le pied d'antique murailles.}{Les Géorgiques, Livre \rb{2} p $82$}
+
+
+\citer{Virgile}{Telle encore cette terre, d'où le laboureur irrité a fait disparaître une forêt, abattant des bocages longtemps
+inutiles et arrachant jusqu'au bout de leurs racines les antiques demeures des oiseaux: eux ont abandonné leurs nids pour fuir
+dans les airs, mais la plaine inculte a brillé sous le soc de la charrue.}{Les Géorgiques, Livre \rb{2} p $86$}
+
+
+\citer{Virgile}{Il y a encore, parmi les soins dus aux vignes, un autre travail, et qui n'est jamais épuisé: il faut en effet
+trois ou quatre fois l'an fendre tout le sol, et en briser éternellement les mottes avec le revers des bidents; il faut soulager
+tout le vignoble de son feuillage.}{Les Géorgiques, Livre \rb{2} p $96$}
+
+
+\citer{Virgile}{Le travail des laboureurs revient toujours en un cercle, et l'année en se déroulant le ramène avec elle sur ses 
+traces.}{Les Géorgiques, Livre \rb{2} p $96$}
+
+
+\citer{Virgile}{Fais l'éloge des vastes domaines, cultives-en un petit.}{Les Géorgiques, Livre \rb{2} p $97$}
+
+
+\citer{Virgile}{Il faut encore couper dans la forêt les branches épineuses du houx, et sur ses rives le roseau fluvial; et il y a les
+pénibles soins que demande la saulaie inculte.}{Les Géorgiques, Livre \rb{2} p $97$}
+
+
+\citer{Virgile}{Maintenant les vignes sont liées; maintenant les arbustes laissent reposer la serpe; maintenant le vigneron au bout de 
+ses rangées, chante la fin de ses peines. Pourtant il lui faut encore tourmenter la terre, la réduire en poussière, et, bientôt,
+craindre Jupiter pour les raisins mûrs.}{Les Géorgiques, Livre \rb{2} p $97$}
+
+
+\citer{Virgile}{Nourris donc le gras olivier agréable à la Paix.}{Les Géorgiques, Livre \rb{2} p $97$}
+
+
+\citer{Virgile}{Et les hommes hésiteraient à planter des arbres et à y consacrer leurs soins !}{Les Géorgiques, Livre \rb{2} p $98$}
+
+
+\citer{Virgile}{Il plaît de regarder le Cytore ondoyant sous le buis et les bois sacrés de l'arbre à poix de Naryce; il plaît
+de voir des champs qui n'ont jamais été exposés aux hoyaux et à l'industrie de l'homme.}{Les Géorgiques, Livre \rb{2} p $98$}
+
+
+\citer{Virgile}{Quel bienfait digne d'être autant célébré nous ont apporté les dons de Bacchus ?}{Les Géorgiques, Livre \rb{2} p $99$}
+
+
+\citer{Virgile}{Ô trop fortunés, s'ils connaissaient leurs biens, les cultivateurs ! Eux qui, loin des discordes armées, voient la 
+très juste terre leur verser de son sol une nourriture facile.}{Les Géorgiques, Livre \rb{2} p $99$}
+
+
+\citer{Virgile}{du moins un repos assuré, une vie qui ne sait point les tromper, riche en ressources variées, du moins les loisirs en 
+de vastes domaines, les grottes, les lacs d'eau vive, du moins les frais Tempé, les mugissements des b\oe ufs et les doux sommes sous 
+l'arbre ne leur sont pas étrangers.}{Les Géorgiques, Livre \rb{2} p $100$}
+
+
+\citer{Virgile}{Là où ils vivent sont les fourrés et les repaires des bêtes sauvages, une jeunesse dure aux travaux et habituée à peu,
+le culte des dieux et le respect des pères; c'est chez eux qu'en quittant les terres la Justice laissa la trace de ses derniers pas.}{Les Géorgiques, Livre \rb{2} p $100$}
+
+
+\citer{Virgile}{Mais fortuné aussi celui qui connaît les dieux champêtres, et Pan, et le vieux Silvain, et les Nymphes s\oe urs ! 
+Celui-là, ni les faisceaux du peuple, ni la pourpre des rois ne l'ont fléchi, ni la discorde poussant des frères sans foi, ni le 
+Dace descendant de l'Ister conjuré, ni les affaires de Rome, ni les royaumes destinés à périr; celui-là ne voit autour de lui
+ni indigents à plaindre miséricordieusement, ni riches à envier. Les fruits que donnent les rameaux, ceux que donnent d'elles-mêmes
+les bienveillantes campagnes, il les ceuille sans connaître ni les lois d'airain ni le forum insensé ni les archives du peuple.}{Les Géorgiques, Livre \rb{2} p $102-103$}
+
+
+\citer{Virgile}{Le laboureur fend la terre de son areau incurvé: c'est de là que découle le labeur de l'année; c'est par là que découle
+le labeur de l'année; c'est par là qu'il sustente sa patrie et ses petits-enfants, ses troupeaux de b\oe ufs et ses jeunes taureaux
+qui l'ont bien mérité.}{Les Géorgiques, Livre \rb{2} p $103$}
+
+
+\citer{Virgile}{Cependant ses enfants câlins suspendus à son cou se disputent ses baisers; sa chaste demeure observe la pudicité;
+ses vaches laissent pendre leurs mamelles pleines de lait, et ses gros chevreaux, cornes contre cornes, luttent entre eux sur le
+riant gazon.}{Les Géorgiques, Livre \rb{2} p $104$}
+
+
+\citer{Virgile}{Lui aussi a ses jours de fête, où, allongé sur l'herbe, tandis qu'au milieu brûle un feu sacré et que ses compagnons
+couronnent les cratères, il t'invoque, Lénéen, avec une libation, puis invite les gardiens du troupeau à lancer un rapide javelot sur 
+la cible d'un orme et à dépouiller leurs corps rudes pour la palestre champêtre.}{Les Géorgiques, Livre \rb{2} p $104$}
+
+
+\citer{Virgile}{Telle est la vie que menèrent jadis les vieux Sabins, telle fut celle de Rémus et de son frère. Ainsi grandit sans 
+doute la vaillante Etrurie; ainsi Rome devint la merveille du monde et seule dans son enceinte renferma sept collines.}{Les Géorgiques, Livre \rb{2} p $104$}
+
+
+\citer{Virgile}{et avant qu'une race impie se fût nourrie de la chair des taureaux égorgés, telle fut la vie que menait sur les terres
+Saturne d'or: on n'avait point alors entendu encore souffler dans les clairons, ni sur les dures enclumes crépiter les épées.}{Les Géorgiques, Livre \rb{2} p $105$}
 
 
 
 \subsection{Livre 3}
 
-\begin{itemize}
-    \item 
-\end{itemize}
+
+\citer{Virgile}{Les plus beaux jours de l'âge des malheureux mortels sont les premiers à fuir: à leur place viennent les maladies
+et la triste vieillesse, puis les souffrances, et l'inclémence de la dure mort nous prend.}{Les Géorgiques, Livre \rb{3} p $114-115$}
+
+
+\citer{Virgile}{Point de trêve, point de relâche ! Un nuage de poussière fauve s'élève; ils sont mouillés de l'écume et du souffle de 
+ceux qui les suivent: tant l'amour de la gloire est grand, tant ils ont la victoire à c\oe ur !}{Les Géorgiques, Livre \rb{3} p $117$}
+
+
+\citer{Virgile}{Quand au bout de quelques mois elles errent, chargées de leur fruit, qu'on ne les laisse point mener sous le joug des 
+chariots lourds, ni franchir un chemin en sautant, ni s'enfuir au galop dans les prés, ni se jeter à la nage dans des eaux rapides.}{Les Géorgiques, Livre \rb{3} p $119$}
+
+
+\citer{Virgile}{Ceux que tu veux former aux soins et aux besoins de la campagne, entraîne-les quand ils sont encore de petits veaux,
+et engage-toi dans la voie du dressage, tandis que leur humeur est docile encore et leur jeune âge facile à plier.}{Les Géorgiques, Livre \rb{3} p $120$}
+
+
+\citer{Virgile}{Mais le meilleur moyen d'affermir la vigueur, soit des b\oe ufs soit des chevaux, selon ce qu'on préfère, est d'écarter 
+Vénus et les aiguillons de l'amour aveugle.}{Les Géorgiques, Livre \rb{3} p $122-123$}
+
+
+\citer{Virgile}{Oui, toute la race sur terre et des hommes et des bêtes, ainsi que la race marine, les troupeaux, 
+les oiseaux peints de mille couleurs, se ruent à ces furies et à ce feu: l'amour est le même pour tous.}{Les Géorgiques, Livre \rb{3} p $124$}
+
+
+\citer{Virgile}{Que n'ose point un jeune homme, lorsque le dur amour fait circuler dans ses os son feu puissant ?}{Les Géorgiques, Livre \rb{3} p $125$}
+
+
+\citer{Virgile}{C'est un travail; mais espérez-en de la gloire, courageux cultivateurs.}{Les Géorgiques, Livre \rb{3} p $127$}
+
+
+\citer{Virgile}{Ces barbares mènent une vie tranquille et oisive dans des cavernes creusées profondément sous terre, entassant 
+des rouvres et des ormes entiers pour les rouler sur leurs foyers et les livrer aux flammes.}{Les Géorgiques, Livre \rb{3} p $132$}
+
+
+\citer{Virgile}{Il succombe, malheureux, oubliant la gloire et la prairie, le cheval vainqueur; il se détourne des fontaines, et,
+du pied, frappe sans cesse la terre; ses oreilles baissées distillent une sueur incertaine, qui devient froide quand la mort
+approche; sa peau est sèche, et, rugueuse, résiste à la main qui la touche.}{Les Géorgiques, Livre \rb{3} p $138$}
+
+
+\citer{Virgile}{Mais voici que, fumant sous la dure charrue, le taureau s'affaisse et vomit à plein gosier un sang mêlé d'écume, et 
+pousse de suprêmes gémissements. Le laboureur s'en va, tout triste, dételer l'autre b\oe uf affligé de la mort de son frère et laisse 
+sa charrue enfoncée au milieu du sillon.}{Les Géorgiques, Livre \rb{3} p $139$}
+
+
+\citer{Virgile}{Que leur servent leur labeur et leurs bienfaits ? que leur sert d'avoir retourné avec le soc de lourdes terres ?}{Les Géorgiques, Livre \rb{3} p $140$}
+
+
+\citer{Virgile}{Alors donc les habitants du pays fendent à grande peine la terre avec les herses, enfouissent les semences avec leurs 
+ongles mêmes, et gravissent les montagnes en traînant, le cou tendu, de gémissants chariots.}{Les Géorgiques, Livre \rb{3} p $140$}
+
+
+\citer{Virgile}{L'air est funeste aux oiseaux eux-mêmes, et ils tombent, laissant la vie au haut des nues.}{Les Géorgiques, Livre \rb{3} p $141$}
+
+
+\citer{Virgile}{En outre, peu importe qu'on change de pâturages; les remèdes cherchés sont nuisibles; les maîtres de l'art, Chiron,
+fils de Philyre, et Mélampus, fils d'Amythaon, cèdent à la force du mal.}{Les Géorgiques, Livre \rb{3} p $141$}
+
+
 
 
 

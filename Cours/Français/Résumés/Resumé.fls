@@ -1,10 +1,10 @@
-PWD /home/neo/Bureau/Education/Cours MP*/Cours/Français/Livret de Citation
+PWD /home/neo/Bureau/Education/Cours MP*/Cours/Français/Résumés
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Livret de Citation/Livret de Citation.tex
-OUTPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Livret de Citation/Livret de Citation.log
+INPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Résumés/Resumé.tex
+OUTPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Résumés/Resumé.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
@@ -232,22 +232,11 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/romanbar/romanbar.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/romanbar/romanbar.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Livret de Citation/Livret de Citation.aux
-INPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Livret de Citation/Livret de Citation.aux
-OUTPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Livret de Citation/Livret de Citation.aux
+INPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Résumés/Resumé.aux
+INPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Résumés/Resumé.aux
+OUTPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Résumés/Resumé.aux
 INPUT /usr/share/texmf/tex/latex/lm/t1lmr.fd
 INPUT /usr/share/texmf/tex/latex/lm/t1lmr.fd
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr10.tfm
@@ -257,17 +246,13 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-OUTPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Livret de Citation/Livret de Citation.pdf
+OUTPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Résumés/Resumé.pdf
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr17.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr12.tfm
 INPUT /usr/share/texmf/tex/latex/lm/ot1lmr.fd
@@ -315,8 +300,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr12.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbx12.tfm
-INPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Livret de Citation/Livret de Citation.toc
-INPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Livret de Citation/Livret de Citation.toc
+INPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Résumés/Resumé.toc
+INPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Résumés/Resumé.toc
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbx10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmr10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/lmmi10.tfm
@@ -326,15 +311,11 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/esvect/vect10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
-OUTPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Livret de Citation/Livret de Citation.toc
+OUTPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Résumés/Resumé.toc
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbx12.tfm
-INPUT /usr/share/texmf/tex/latex/lm/t1lmss.fd
-INPUT /usr/share/texmf/tex/latex/lm/t1lmss.fd
-INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmss10.tfm
-OUTPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Livret de Citation/Livret de Citation.thm
-INPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Livret de Citation/Livret de Citation.aux
-INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc
+OUTPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Résumés/Resumé.thm
+INPUT /home/neo/Bureau/Education/Cours MP*/Cours/Français/Résumés/Resumé.aux
 INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb
@@ -342,5 +323,3 @@ INPUT /usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmr10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmr12.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmr17.pfb
-INPUT /usr/share/texmf/fonts/type1/public/lm/lmss10.pfb
-INPUT /usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb

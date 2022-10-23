@@ -1,0 +1,296 @@
+\documentclass[a4paper, 11pt, hidelinks]{article}
+\usepackage{bookmark}
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx}
+\usepackage[french]{babel}
+\usepackage{geometry}
+\usepackage{eucal}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{hyperref}
+\usepackage{cancel}
+\usepackage{tikz}
+\usepackage{mathrsfs}  
+\usepackage{esvect}
+\usepackage[standard]{ntheorem}
+\usepackage{romanbar}
+\usepackage{titlesec}
+
+
+
+\geometry{hmargin=2cm,vmargin=1.5cm}
+
+\tikzset{
+  treenode/.style = {shape=rectangle, rounded corners,
+                     draw, align=center,
+                     top color=white, bottom color=blue!5},
+  root/.style     = {treenode, font=\Large, bottom color=red!10},
+  env/.style      = {treenode, font=\ttfamily\normalsize},
+  dummy/.style    = {circle,draw}
+}
+
+\newcommand{\prp}{\large \textbf{Proposition :} \large}
+
+\newcommand{\tm}{\large \textbf{Théoreme :} \large}
+
+\newcommand{\ex}{\textcolor{green}{Exemple :} }
+
+\newcommand{\dm}{\textcolor{red}{\textbf{Démo :} } }
+
+\newcommand{\de}{\large \textbf{Définition} \large }
+
+\newcommand{\rmq}{\textbf{Remarque :} }
+
+\newcommand{\bs}{\bigskip}
+
+\newcommand{\voca}{\textcolor{blue}{\textbf{Vocabulaire} } }
+
+\newcommand{\lem}{\textcolor{red}{\textbf{Lemme :} } }
+
+\newcommand{\rb}[1]{\Romanbar{#1}}
+
+\newcommand{\cit}{\textcolor{blue}{\textbf{Citation : }}}
+
+\newcommand{\trinom}[3]{\begin{pmatrix}
+    #1 \\
+    #2 \\
+    #3
+\end{pmatrix}}
+
+\newcommand{\quadrinom}[4]{\begin{pmatrix}
+    #1 \\
+    #2 \\
+    #3 \\
+    #4 \\
+\end{pmatrix}}
+
+\newcommand{\pentanom}[5]{\begin{pmatrix}
+    #1 \\
+    #2 \\
+    #3 \\
+    #4 \\
+    #5
+\end{pmatrix}}
+
+\newcommand{\hexanom}[6]{\begin{pmatrix}
+    #1 \\
+    #2 \\
+    #3 \\
+    #4 \\
+    #5 \\
+    #6 
+\end{pmatrix}}
+
+\newcommand{\serie}[2]{\displaystyle\sum_{#1 =0}^{+\infty} #2_{#1} }
+
+\newcommand{\tend}{\underset{n \to + \infty}{\longrightarrow} }
+
+\newcommand{\Lra}{\Leftrightarrow}
+
+\newcommand{\lra}{\leftrightarrow}
+
+\newcommand{\Ra}{\Rightarrow}
+
+\newcommand{\ra}{\rightarrow}
+
+\newcommand{\la}{\leftarrow}
+
+\newcommand{\La}{\Leftarrow}
+
+\newcommand{\dsum}[2]{\displaystyle\sum_{#1}^{#2} }
+
+\newcommand{\dint}[2]{\displaystyle\int_{#1}^{#2} }
+
+\newcommand{\ntend}{\underset{n \to + \infty}{\not \longrightarrow} }
+
+\newenvironment{lmatrix}{$ \left|\begin{array}{l} }{\end{array}\right.$}
+
+\newcommand{\img}[4]{\begin{figure}[!ht]
+    \centering
+    \includegraphics[scale=#1 ]{#2}
+    \caption{#3}
+    \label{#4}
+    \end{figure} }    
+\begin{document}
+
+\newcommand{\grad}[1]{\vv{grad}#1}
+
+
+\title{Résumé}
+\author{Schobert Néo}
+
+\maketitle
+
+\tableofcontents
+
+
+
+\newpage
+
+
+\section{Virgile - Les Géorgiques} 
+
+
+\subsection{Livre 1}
+
+\begin{itemize}
+    \item PREAMBULE \begin{itemize}
+        \item Dédicace à Mécène; sujet de chacun des livres (p $37$)
+        \item Invocation aux dieux champêtres (p $37$)
+        \item Invocation à Auguste qui prendra place dans le ciel (p $39$)
+    \end{itemize}
+    \item LE TRAVAIL DES CHAMPS \begin{itemize}
+        \item Au retour du printemps, il faut labourer la terre; les quatre labours annuels (p $41$)
+        \item Chaque terre ayant ses qualités propres, on réglera d'après la nature du fonds le temps et le nombre des façons à lui donner (p $41$)
+        \item Les méthodes de culture : la jachère; les assolements; la fumure; l'incinération des éteules sur place; le hersage et les labours qui se recoupent (p $42$)
+        \item Après les semailles, conditions et travaux favorables aux céréales (p $44$)
+        \item Mais à ce travail font obstacle les ennemis du laboureur; car Jupiter a imposé aux mortels la loi du progrès laborieux; d'où la nécessité de lutter contre la rouille, les plantes parasites, les oiseaux et l'ombre (p $45$)
+        \item Les armes du paysan; fabrication de la charrue (p $47$)
+        \item Autres préceptes; établissement de l'aire; présages procurés par la floraison de l'amandier; choix et traitement des semences pour éviter qu'elle ne dégénèrent (p $49$)
+    \end{itemize}
+    \item METEOROLOGIE \begin{itemize}
+        \item Il faut observer les astres qui indiquent le moment de semer les différentes graines (p $50$)
+        \item Description des zones célestes et des constellations qui indiquent le temps propice à chaque travail (p $52$)
+        \item Occupation pour les jours de pluie et les jours de fêtes (p $54$)
+        \item La lune a marqué dans le mois les jours favorables ou défavorables  (p $54$)
+        \item Travaux à exécuter de nuit, à l'aurore, à la veillée, en plein été, en hiver (p $55$)
+        \item Les méfaits causés par les orages violents imposent la vigilance et l'observation des astres (p $57$)
+        \item Avant tout, il faut honorer les dieux et en particulier Cérès  (p $58$)
+        \item En outre Jupiter a fixé les signes qui permettent de prévoir le temps (p $59$)
+        \item Pronostics de mauvais temps fournis par les éléments, le tonnerre, les oiseaux, la flamme de la lampe (p $59$)
+        \item Pronostics de beau temps fournis par les astres, les oiseaux (p $61$)
+        \item Pronostics lunaires (p $63$)
+        \item Pronostics solaires (p $64$)
+    \end{itemize}
+    \item FINALE \begin{itemize}
+        \item C'est le soleil qui annonça la guerre civile et tous les maux qui ont suivi la mort de César (p $65$)
+        \item Prière aux dieux de la patrie, pour que le jeune prince puisse ramener la paix dans le monde et la prospérité dans les campagnes délaissées (p $67$)
+    \end{itemize}
+\end{itemize}
+
+
+
+\subsection{Livre 2}
+
+\begin{itemize}
+    \item PREAMBULE \begin{itemize}
+        \item Invocation à Bacchus, dieu de la vigne et des arbres (p $73$)
+        \item Les arbres naissent spontanément ou se reproduisent de diverses manières, que les cultivateurs doivent apprendre (p $73$)
+        \item Que Mécène daigne participer à la tâche du poète (p $75$)
+    \end{itemize}
+    \item PRECEPTES GENERAUX D'ARBORICULTURE \begin{itemize}
+        \item Amélioration des espèces par procédés appropriés, et en particulier par la greffe (p $75$)
+        \item Du choix des espèces (p $77$)
+        \item Les productions varient avec le terrain et le climat (p $79$)
+        \item Mais aucune région ne peut rivaliser avec l'Italie (p $81$)
+        \item À chaque terrain convient un genre de culture (p $84$)
+        \item Moyens de reconnaître la nature du sol (p $87$)
+    \end{itemize}
+    \item CULTURE DE LA VIGNE \begin{itemize}
+        \item Plantation du vignoble; défonçage, transplantation, disposition des plants, profondeur des fosses (p $89$)
+        \item Autres précautions à prendre : éviter de planter des oliviers entre les vignes, de planter la vigne quand il gèle; le printemps est pour ce travail la meilleure saison (p $91$)
+        \item Hymne au printemps (p $92$)
+        \item Soins exigés par les jeunes plants; la taille (p $93$)
+        \item Protection des vignes contre les bêtes nuisibles et surtout contre le bouc, que l'on immole à Bacchus (p $94$)
+        \item La vigne même adulte réclame des soins continus (p $96$)
+    \end{itemize}
+    \item CULTURE DES OLIVIERS ET DES AUTRES ARBRES \begin{itemize}
+        \item Moins pénible que la viticulture est la culture de l'olivier, des arbres fruitiers, et des essences forestières, qui sont si utiles à l'homme (p $97$)
+    \end{itemize}
+    \item FINALE : ELOGE DE LA VIE CHAMPÊTRE \begin{itemize}
+        \item Bonheur des paysans (p $99$)
+        \item Le poète aspire à vivre à la campagne (p $101$)
+        \item Calme et pureté de la vie rurale (p $102$)
+    \end{itemize}
+\end{itemize}
+
+
+
+\subsection{Livre 3}
+
+\begin{itemize}
+    \item PREAMBULE \begin{itemize}
+        \item Invocation à Palès et aux divinités des troupeaux (p $109$)
+        \item En traitant ce sujet, le poète espère triompher; vainqueur, il élèvera un temple et célébrera des jeux à la gloire du prince (p $110$)
+        \item Appel à Mécène (p $113$)
+    \end{itemize}
+    \item LE GROS BETAIL \begin{itemize} 
+        \item Choix des génisses destinées à la reproduction (p $114$)
+        \item Choix des étalons (p $115$)
+        \item Soins à donner aux mâles et aux femelles avant l'accouplement (p $118$)
+        \item Soins à donner aux femelles pleines; il faut les mettre à l'abri des taons (p $119$)
+        \item Soins à donner aux nouveau-nés (p $120$)
+        \item Dressage des veaux destinés aux charrois (p $120$)
+        \item Dressage des poulains (p $121$)
+        \item Nécessité de les soustraire à l'amour, qui mine les taureaux et les rend furieux (p $122$)
+        \item Puissance de l'amour, maître de la création (p $124$)
+        \item En particulier, il affolle les juments (p $125$)
+    \end{itemize}
+    \item LE PETIT BETAIL \begin{itemize} 
+        \item Abordant ce sujet difficile, le poète invoque de nouveau Palès (p $127$)
+        \item Les étables des brebis et des chèvres; l'élevage des chèvres est productif et facile; soins à donner au troupeau, en hiver et en été  (p $127$)
+        \item Bergers nomades en Libye (p $130$)
+        \item Par opposition, vie casanière des Scythes pendant la nuit hivernale (p $130$)
+        \item La laine (p $132$)
+        \item Le lait et le fromage (p $133$)
+        \item Les chiens de garde et de chasse (p $133$)
+        \item La lutte contre les serpents (p $134$)
+        \item La lutte contre les maladies des ovins (p $135$)
+    \end{itemize}
+    \item EPILOGUE \begin{itemize} 
+        \item Tableau de l'épizootie qui a ravagé le Norique et les bords du Timave (p $137$)
+    \end{itemize}
+\end{itemize}
+
+
+
+\subsection{Livre 4}
+
+
+\begin{itemize}
+    \item PREMIERE DIRECTIVES \begin{itemize} 
+        \item Nouvelle invocation à Mécène, au moment de chanter le miel et la vie des abeilles (p $145$)
+        \item Situation des ruches (p $145$)
+        \item Conditions qu'elles doivent remplir (p $147$) 
+        \item Ce que doit faire l'apiculteur lorsque les abeilles sortent pour butiner, pour essaimer ou pour se battre (p $148$)
+        \item Choix du roi; les deux espèces d'abeilles (p $150$)
+        \item Il faut retenir les abeilles dans un jardin fleuri  (p $150$)
+        \item Ce serait le moment, si le temps ne pressait, de parler des jardins tels que celui du vieillard de Tarente (p $151$)
+    \end{itemize}
+    \item LA CITE DES ABEILLES \begin{itemize} 
+        \item Organisation et division du travail (p $153$)
+        \item Sacrifice de l'individu à la communauté : propagation de l'espèce, risques courus dans l'intérêt général, obéissance au roi (p $156$)
+        \item Ces mœurs ont fait penser que les abeilles participaient de l'âme divine, qui anime tous les êtres (p $157$)
+    \end{itemize}
+    \item PRESCRIPTIONS DIVERSES \begin{itemize} 
+        \item Récolte du miel au printemps et à l'automne (p $158$)
+        \item Autres soins pour encourager les abeilles (p $159$)
+        \item Comment reconnaître et soigner leurs maladies (p $159$)
+        \item Si l'espèce vient à disparaître, l'apiculteur aura recours au moyen employé par Aristée; il laissera se putréfier le cadavre d'un veau, d'où sortira un nouvel essaim (p $161$)
+    \end{itemize}
+    \item EPISODE D'ARISTEE \begin{itemize} 
+        \item Ayant perdu ses abeilles, Aristée demanda la cause et le remède à sa mère Cyrène (p $163$)
+        \item Celle-ci lui conseilla de consulter Protée (p $167$)
+        \item Avec l'assistance de sa mère, Aristée réussit à saisir le dieu et à le faire parler (p $168$)
+        \item Révélation de Protée; Aristée a causé sans le vouloir la mort d'Eurydice; Orphée, son époux, est descendu aux enfers et l'a ramenée; mais, oubliant la condition imposée, il s'est retourné vers elle; Eurydice aussitôt s'est évanouie dans les ténèbres infernales; Orphée inconsolable a péri, déchiré par les femmes qu'il méprisait (p $170$)
+        \item Après la disparition de Protée, Cyrène complète ces révélations en indiquant à son fils les sacrifices expiatoires et en lui recommandant d'abandonner le corps des victimes (p $175$)
+        \item Aristée obéit et voit grouiller hors des cadavres un nouvel essaim (p $176$)
+    \end{itemize}
+    \item EPILOGUE \begin{itemize} 
+        \item Ainsi chantait Virgile à Naples (p $177$)
+    \end{itemize}
+\end{itemize}
+
+
+
+
+
+
+
+\end{document}
