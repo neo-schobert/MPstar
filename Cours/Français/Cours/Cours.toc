@@ -1,4 +1,4 @@
-\babel@toc {french}{}
+\babel@toc {french}{}\relax 
 \contentsline {part}{I\hspace {1em}Introduction}{2}{part.1}%
 \contentsline {section}{\numberline {1}Le travail expliqué par les mythes: une notion ambivalente}{2}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Epiméthée et Prométhée}{2}{subsection.1.1}%
@@ -6,10 +6,10 @@
 \contentsline {subsubsection}{\numberline {1.1.2}L'homme, animal à part dans la nature}{2}{subsubsection.1.1.2}%
 \contentsline {subsubsection}{\numberline {1.1.3}La rançon du travail: faiblesse (de l'homme) et ambivalence (de la nature)}{2}{subsubsection.1.1.3}%
 \contentsline {subsection}{\numberline {1.2}Travail, hybris, civilisation}{4}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Le mythe des \FB@og races \FB@fg \relax / des âges chez Hésiode}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.3}Le mythe des \@FB@og races \@FB@fg \relax / des âges chez Hésiode}{5}{subsection.1.3}%
 \contentsline {subsection}{\numberline {1.4}Mythe chrétien du travail dans la Génèse.}{8}{subsection.1.4}%
 \contentsline {section}{\numberline {2}Histoire (moderne) du travail}{11}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Avant l'histoire, une \FB@og préhistoire \FB@fg \relax du travail: la révolution néolithique}{11}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.1}Avant l'histoire, une \@FB@og préhistoire \@FB@fg \relax du travail: la révolution néolithique}{11}{subsection.2.1}%
 \contentsline {subsubsection}{\numberline {2.1.1}Révolution néolithique}{11}{subsubsection.2.1.1}%
 \contentsline {subsubsection}{\numberline {2.1.2}Quelques remarques sur le travail en Grèce}{11}{subsubsection.2.1.2}%
 \contentsline {subsection}{\numberline {2.2}Travail moderne - Révolution industrielle - Travail aliéné}{12}{subsection.2.2}%
@@ -21,6 +21,10 @@
 \contentsline {subsubsection}{\numberline {3.1.1}Qui est Virgile ?}{12}{subsubsection.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.2}Guerres civiles, fin de la République, début de l'Empire}{12}{subsubsection.3.1.2}%
 \contentsline {subsubsection}{\numberline {3.1.3}Mécène, Auguste}{13}{subsubsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.2}Le plan des Géorgiques}{13}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}L'organisation des Géorgiques}{13}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Remarques sur le plan}{13}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2}Le plan des Géorgiques}{14}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}L'organisation des Géorgiques}{14}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Remarques sur le plan}{14}{subsubsection.3.2.2}%
+\contentsline {part}{III\hspace {1em}Simone Weil}{14}{part.3}%
+\contentsline {section}{\numberline {4}Cadre général}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Le contexte général}{14}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Qui est Simone Weil ?}{14}{subsubsection.4.1.1}%
